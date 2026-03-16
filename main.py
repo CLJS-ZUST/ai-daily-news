@@ -62,9 +62,7 @@ def summarize(text):
 
     result = response.json()
 
-    print(result)
-
-    return result["output"][0]["message"]["content"]
+    return result["output"]["text"]
 
 
 def generate_report():

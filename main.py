@@ -62,6 +62,8 @@ def summarize(text):
 
     result = response.json()
 
+    print(result)
+
     return result["output"][0]["message"]["content"]
 
 

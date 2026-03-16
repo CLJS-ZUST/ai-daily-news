@@ -34,7 +34,7 @@ jobs:
         env:
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
         run: |
-          python scripts/main.py
+          python main.py
 
       - name: Commit report
         run: |

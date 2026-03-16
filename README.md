@@ -1,9 +1,14 @@
-# AI Tech News Agent
+# AI科技新闻 Agent
 
-自动抓取 AI 科技新闻并生成中文摘要。
+自动抓取全球 AI 科技新闻并生成中文摘要。
 
-Powered by:
+数据来源：
 
-- GitHub Actions
-- RSS
-- OpenAI
+- TechCrunch
+- The Verge
+- Wired
+- Reddit AI
+
+AI模型：
+
+Alibaba Qwen

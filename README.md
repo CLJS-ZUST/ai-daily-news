@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two
-《弗兰肯斯坦》获最佳艺术指导、服装设计和化妆发型奖；《KPop驱魔人》获最佳动画长片与原创歌曲奖。
+## Picsart now allows creators to ‘hire’ AI assistants through agent marketplace
+Picsart推出AI智能体市场，首发4款，后续每周新增。
 
-[阅读原文](https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/)
+[阅读原文](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
 
-## Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’
-谷歌与Accel称，审核超4000份印度AI初创融资申请后，约70%仅为“包装型”项目，缺乏核心技术。
+## SEC eyes shift to twice-yearly earnings reports
+据《华尔街日报》报道，美国SEC正拟议允许上市公司将财报披露频率从季度改为半年一次。
 
-[阅读原文](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)
+[阅读原文](https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/)
 
-## ByteDance reportedly pauses global launch of its Seedance 2.0 video generator
-该公司因工程师与律师忙于规避法律风险， reportedly 延迟产品发布。
+## Nvidia’s version of OpenClaw could solve its biggest problem: security
+英伟达推出开源企业AI智能体平台NemoClaw，基于热门开源项目OpenClaw构建。
 
-[阅读原文](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)
+[阅读原文](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
 
-## Aether OS is a computer in a browser built for the AT Protocol
-Aether OS是浏览器内运行的桌面系统，直连AT协议与Bluesky账号，内置42款应用，涵盖编辑、任务管理、社交及简易芯片音乐制作。
+## The Live Nation trial restarts with a &#8216;velvet hammer&#8217;
+美司法部中途与Live Nation-Ticketmaster和解后，数十个州接手反垄断诉讼，但面临举证与协调挑战。
 
-[阅读原文](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol)
+[阅读原文](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
 
-## Sotomayor’s Wabi Sabi is the funnest record of 2026
-墨西哥城兄妹组合Sotomayor发行首张专辑《Wabi Sabi》，获乐评人盛赞，称其令人着迷。
+## DLSS 5 looks like a real-time generative AI filter for video games
+英伟达发布DLSS 5，称其为“图形领域的GPT时刻”，但因画质争议被批“糊弄”，引发艺术表现力担忧。
 
-[阅读原文](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)
+[阅读原文](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
 
-## AI Czar David Sacks wants Trump to ‘get out’ of Iran
-白宫AI与加密事务主管大卫·萨克斯警告：伊朗战争持续或致灾难性后果，尤其恐破坏中东油气设施，并引发更严重危机。
+## Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM
+田纳西州三名青少年起诉xAI及马斯克，指控Grok AI生成其未成年时的性化图像视频，涉嫌违法。
 
-[阅读原文](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)
 
-## Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power
-Brompton新款折叠电助力自行车外观精美、便携性强，但最高时速偏低。
+## Sam's Club Coupons and Deals: Save up to 60% in March 2026
+山姆会员店推出促销代码及会员折扣，可节省大宗食品、日用品和电子产品开支。
 
-[阅读原文](https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/)
+[阅读原文](https://www.wired.com/story/sams-club-coupon/)
 
-## This At-Home Hair Growth System Just Dropped in Price
-热门红光生发仪降价促销，限时抢购。
+## Expedia Coupons and Deals: Up to 75% Off Select Trips
+Expedia推出住宿优惠，最高可享75%折扣，无需 promo code 即可享受。
 
-[阅读原文](https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/)
+[阅读原文](https://www.wired.com/story/expedia-coupon/)
 
-## iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool
-iGarden推出新款泳池清洁机器人，造型运动感强、续航长，但存在一些小缺陷。
+## Dermstore Promo Codes and Deals: Save Up to 25%
+Dermstore推出经认证的折扣码与奖励优惠，助力用户大幅节省高端护肤、护发及彩妆产品开支。
 
-[阅读原文](https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/)
+[阅读原文](https://www.wired.com/story/dermstore-promo-code/)
 
-## The bottleneck flipped: AI made execution fast and exposed everything around it that isn't
-AI加速执行但管理流程滞后，企业误将“执行层”员工当冗余裁减，实则瓶颈已转向管理层决策与协调能力。
+## ‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images
+《宝可梦GO》玩家在不知情下，通过游戏内拍照贡献了300亿张图像，助力训练配送机器人视觉系统。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rusgb2/the_bottleneck_flipped_ai_made_execution_fast_and/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/)
 
-## Scientists built the hardest AI test ever and the results are surprising | ScienceDaily
-科学家设计迄今最难AI测试，结果出人意料：当前顶尖AI模型在复杂推理任务上表现远低于人类水平。
+## Built an autonomous system where 5 AI models argue about geopolitical crisis outcomes: Here's what I learned about model behavior
+开发者构建五模型辩论系统预测地缘危机，发现模型分歧大、易锚定偏差、会编造数据，需盲审与规则优化。（59字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rux2rh/scientists_built_the_hardest_ai_test_ever_and_the/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rvhxqv/built_an_autonomous_system_where_5_ai_models/)
 
-## WiFi-DensePose: AI Can Track Body Positions Through Walls
-研究人员利用普通WiFi信号，实现穿墙、暗光环境下实时全身姿态追踪，可用于隐私保护的跌倒检测与健康监测。
+## Agentic pipeline that builds complete Godot games from a text prompt
+开源项目“Godogen”推出智能代理流水线，仅凭文本提示即可自动生成完整Godot游戏。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/)
 

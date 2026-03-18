@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Picsart now allows creators to ‘hire’ AI assistants through agent marketplace
-Picsart推出AI智能体市场，首发4款，后续每周新增。
+## Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’
+州监管机构与行业监管权之争升级，后者坚称不受其管辖。
 
-[阅读原文](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
+[阅读原文](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
 
-## SEC eyes shift to twice-yearly earnings reports
-据《华尔街日报》报道，美国SEC正拟议允许上市公司将财报披露频率从季度改为半年一次。
+## Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise
+Mistral Forge推出企业级AI训练平台，支持基于自有数据从零训练定制模型，挑战依赖微调和检索的竞品。
 
-[阅读原文](https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/)
+[阅读原文](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
 
-## Nvidia’s version of OpenClaw could solve its biggest problem: security
-英伟达推出开源企业AI智能体平台NemoClaw，基于热门开源项目OpenClaw构建。
+## Why Garry Tan’s Claude Code setup has gotten so much love, and hate
+加里·谭开源Claude Code配置，引发数千人试用与热议，连Claude、ChatGPT、Gemini等AI模型也被卷入讨论。
 
-[阅读原文](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
+[阅读原文](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
 
-## The Live Nation trial restarts with a &#8216;velvet hammer&#8217;
-美司法部中途与Live Nation-Ticketmaster和解后，数十个州接手反垄断诉讼，但面临举证与协调挑战。
+## I went to the Pentagon to watch Pete Hegseth scold war reporters
+美伊“突发战争”第13天（恰逢周五13日），作者在五角大楼禁带外购咖啡，凌晨5点起未喝咖啡而恍惚。
 
-[阅读原文](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
+[阅读原文](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth)
 
-## DLSS 5 looks like a real-time generative AI filter for video games
-英伟达发布DLSS 5，称其为“图形领域的GPT时刻”，但因画质争议被批“糊弄”，引发艺术表现力担忧。
+## The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale
+苹果发布AirPods Max 2，搭载H2芯片升级功能，但跨平台兼容性仍不如Beats Studio Pro等竞品。
 
-[阅读原文](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
+[阅读原文](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)
 
-## Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM
-田纳西州三名青少年起诉xAI及马斯克，指控Grok AI生成其未成年时的性化图像视频，涉嫌违法。
+## Remedy’s live-service shooter Firebreak is getting its final major update
+Remedy停更《FBC：Firebreak》新内容，仅维持运营；又一例live-service游戏因市场疲软而收缩。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk)
+[阅读原文](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
 
-## Sam's Club Coupons and Deals: Save up to 60% in March 2026
-山姆会员店推出促销代码及会员折扣，可节省大宗食品、日用品和电子产品开支。
+## 50% Off DoorDash Promo Code | March 2026
+DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
 
-[阅读原文](https://www.wired.com/story/sams-club-coupon/)
+[阅读原文](https://www.wired.com/story/doordash-promo-code/)
 
-## Expedia Coupons and Deals: Up to 75% Off Select Trips
-Expedia推出住宿优惠，最高可享75%折扣，无需 promo code 即可享受。
+## $20 Chewy Promo Code | March 2026
+2026年3月，Chewy推出多项优惠：首单满$49减$20、宠物食品五折、最高减$30等折扣码。
 
-[阅读原文](https://www.wired.com/story/expedia-coupon/)
+[阅读原文](https://www.wired.com/story/chewy-promo-code/)
 
-## Dermstore Promo Codes and Deals: Save Up to 25%
-Dermstore推出经认证的折扣码与奖励优惠，助力用户大幅节省高端护肤、护发及彩妆产品开支。
+## NordVPN Coupons and Deals: 77% Off in March 2026
+NordVPN推出优惠活动：两年套餐最高省77%，并赠3个月免费使用。
 
-[阅读原文](https://www.wired.com/story/dermstore-promo-code/)
+[阅读原文](https://www.wired.com/story/nordvpn-coupon/)
 
-## ‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images
-《宝可梦GO》玩家在不知情下，通过游戏内拍照贡献了300亿张图像，助力训练配送机器人视觉系统。
+## Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash
+英伟达CEO黄仁勋回应DLSS 5争议，称玩家“完全错误”，强调其技术优势与实际效果。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/)
 
-## Built an autonomous system where 5 AI models argue about geopolitical crisis outcomes: Here's what I learned about model behavior
-开发者构建五模型辩论系统预测地缘危机，发现模型分歧大、易锚定偏差、会编造数据，需盲审与规则优化。（59字）
+## LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.
+研究发现大模型在长程任务中易“遗忘”早期指令，类似ADHD执行功能障碍；“中间丢失”现象致准确率下降30%+，企业65%失败源于此。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rvhxqv/built_an_autonomous_system_where_5_ai_models/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/)
 
-## Agentic pipeline that builds complete Godot games from a text prompt
-开源项目“Godogen”推出智能代理流水线，仅凭文本提示即可自动生成完整Godot游戏。
+## Are we cooked?
+开发者坦言AI已替代其手写代码，担忧神经网络正自动化“智力活动”本身，甚至可能取代科研工作，引发职业转型焦虑。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/)
 

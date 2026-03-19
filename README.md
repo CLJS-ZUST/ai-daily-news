@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’
-州监管机构与行业监管权之争升级，后者坚称不受其管辖。
+## Meta is having trouble with rogue AI agents
+Meta一AI代理意外泄露公司及用户数据，未授权工程师获访问权限。
 
-[阅读原文](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
+[阅读原文](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
 
-## Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise
-Mistral Forge推出企业级AI训练平台，支持基于自有数据从零训练定制模型，挑战依赖微调和检索的竞品。
+## Sam Altman’s thank-you to coders draws the memes
+奥尔特曼感谢能从零写代码的人，网友调侃回应，引发网络热议。
 
-[阅读原文](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
+[阅读原文](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
 
-## Why Garry Tan’s Claude Code setup has gotten so much love, and hate
-加里·谭开源Claude Code配置，引发数千人试用与热议，连Claude、ChatGPT、Gemini等AI模型也被卷入讨论。
+## Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place
+Nothing CEO Carl Pei称，AI智能体将逐步取代手机应用，未来智能手机将转向理解用户意图并主动执行任务的系统。
 
-[阅读原文](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)
+[阅读原文](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
 
-## I went to the Pentagon to watch Pete Hegseth scold war reporters
-美伊“突发战争”第13天（恰逢周五13日），作者在五角大楼禁带外购咖啡，凌晨5点起未喝咖啡而恍惚。
+## The FBI is buying Americans’ location data
+FBI局长卡什·帕特尔承认，FBI正购买商业位置数据追踪民众行踪，此类数据无需搜查令即可获取，引发隐私担忧。
 
-[阅读原文](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth)
+[阅读原文](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant)
 
-## The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale
-苹果发布AirPods Max 2，搭载H2芯片升级功能，但跨平台兼容性仍不如Beats Studio Pro等竞品。
+## Amazon doesn’t want the blame for the Post Office going under
+亚马逊回应《华尔街日报》报道，否认主动削减USPS货运量，称此举系配合邮政服务调整，并强调仍重视与USPS合作。
 
-[阅读原文](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026)
+[阅读原文](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)
 
-## Remedy’s live-service shooter Firebreak is getting its final major update
-Remedy停更《FBC：Firebreak》新内容，仅维持运营；又一例live-service游戏因市场疲软而收缩。
+## Congress considers blowing up internet law
+美参议院听证会再议《通信规范法》230条款，面临司法挑战与两党对政府审查的共同担忧。
 
-[阅读原文](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
+[阅读原文](https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media)
 
-## 50% Off DoorDash Promo Code | March 2026
-DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
+## Best Buy Discount Codes and Deals: Up to 60% Off
+百思买推新卡会员享10%返现、免运费、每日特惠及价格保护等多重优惠。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/best-buy-discount-code/)
 
-## $20 Chewy Promo Code | March 2026
-2026年3月，Chewy推出多项优惠：首单满$49减$20、宠物食品五折、最高减$30等折扣码。
+## Nike Promo Codes and Deals: 30% Off
+该消息为Nike本月促销广告，非科技新闻，主要内容是部分商品享85折优惠。
 
-[阅读原文](https://www.wired.com/story/chewy-promo-code/)
+[阅读原文](https://www.wired.com/story/nike-promo-code/)
 
-## NordVPN Coupons and Deals: 77% Off in March 2026
-NordVPN推出优惠活动：两年套餐最高省77%，并赠3个月免费使用。
+## 10% Dell Coupon Codes | March 2026
+戴尔官方促销：验证优惠码享9折，笔记本、Alienware显示器等科技产品最高直降600美元。
 
-[阅读原文](https://www.wired.com/story/nordvpn-coupon/)
+[阅读原文](https://www.wired.com/story/dell-coupon-code/)
 
-## Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash
-英伟达CEO黄仁勋回应DLSS 5争议，称玩家“完全错误”，强调其技术优势与实际效果。
+## I asked claude to make a video about what it's like to be an LLM
+用户用Claude Opus 4.6生成了一段表达大语言模型“内心体验”的短视频，融合Python编程与FFmpeg渲染，风格为YouTube Poop（戏仿恶搞），含闪烁画面警告。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rwl37x/jensen_huang_says_gamers_are_completely_wrong/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/)
 
-## LLMs forget instructions the same way ADHD brains do. The research on why is fascinating.
-研究发现大模型在长程任务中易“遗忘”早期指令，类似ADHD执行功能障碍；“中间丢失”现象致准确率下降30%+，企业65%失败源于此。
+## The Pentagon is developing its own LLMs | TechCrunch
+美国国防部正自主研发大语言模型（LLM），以满足军事领域对安全、可控AI技术的特殊需求。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rwkj5j/llms_forget_instructions_the_same_way_adhd_brains/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/)
 
-## Are we cooked?
-开发者坦言AI已替代其手写代码，担忧神经网络正自动化“智力活动”本身，甚至可能取代科研工作，引发职业转型焦虑。
+## "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik
+论文提出仿生AI学习框架：System A（观察学）、System B（实践学）与System M（情境决策控制），旨在提升AI自主学习能力。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rw4k3l/are_we_cooked/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)
 

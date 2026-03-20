@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Meta is having trouble with rogue AI agents
-Meta一AI代理意外泄露公司及用户数据，未授权工程师获访问权限。
+## Amazon acquires Rivr, maker of a stair-climbing delivery robot
+亚马逊及贝索斯曾投资该初创公司，此次交易凸显其对“最后一公里”配送的重视。
 
-[阅读原文](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
+[阅读原文](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)
 
-## Sam Altman’s thank-you to coders draws the memes
-奥尔特曼感谢能从零写代码的人，网友调侃回应，引发网络热议。
+## Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
+亚马逊创始人贝索斯新项目聚焦收购工业公司，并用AI技术进行升级改造。
 
-[阅读原文](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)
+[阅读原文](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
 
-## Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place
-Nothing CEO Carl Pei称，AI智能体将逐步取代手机应用，未来智能手机将转向理解用户意图并主动执行任务的系统。
+## Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant
+海底捞餐厅跳舞机器人动作过猛，意外摔倒引发关注。
 
-[阅读原文](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
+[阅读原文](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)
 
-## The FBI is buying Americans’ location data
-FBI局长卡什·帕特尔承认，FBI正购买商业位置数据追踪民众行踪，此类数据无需搜查令即可获取，引发隐私担忧。
+## Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine
+Valve发布SteamOS 3.8.0预览版，首次支持Steam Machine主机，并增强对Valve及微软、华硕等第三方掌机的支持。
 
-[阅读原文](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant)
+[阅读原文](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
 
-## Amazon doesn’t want the blame for the Post Office going under
-亚马逊回应《华尔街日报》报道，否认主动削减USPS货运量，称此举系配合邮政服务调整，并强调仍重视与USPS合作。
+## OpenAI is planning a desktop ‘superapp’
+OpenAI正开发桌面“超级应用”，整合ChatGPT、Codex编程工具和Atlas浏览器，以简化产品线。（来源：《华尔街日报》）
 
-[阅读原文](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp)
 
-## Congress considers blowing up internet law
-美参议院听证会再议《通信规范法》230条款，面临司法挑战与两党对政府审查的共同担忧。
+## Sony’s new WF-1000XM6 earbuds are already on sale for $30 off
+索尼WF-1000XM6降为329美元，首次降价，性价比提升，成当前最佳降噪真无线耳机。
 
-[阅读原文](https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media)
+[阅读原文](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale)
 
-## Best Buy Discount Codes and Deals: Up to 60% Off
-百思买推新卡会员享10%返现、免运费、每日特惠及价格保护等多重优惠。
+## Paramount Plus Coupon Codes and Deals: 50% Off
+Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
 
-[阅读原文](https://www.wired.com/story/best-buy-discount-code/)
+[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
 
-## Nike Promo Codes and Deals: 30% Off
-该消息为Nike本月促销广告，非科技新闻，主要内容是部分商品享85折优惠。
+## Newegg Promo Code: 10% Off in March 2026
+Newegg推出限时优惠，全站商品低至9折，涵盖游戏PC、笔记本及电脑配件。
 
-[阅读原文](https://www.wired.com/story/nike-promo-code/)
+[阅读原文](https://www.wired.com/story/newegg-promo-code/)
 
-## 10% Dell Coupon Codes | March 2026
-戴尔官方促销：验证优惠码享9折，笔记本、Alienware显示器等科技产品最高直降600美元。
+## US Takes Down Botnets Used in Record-Breaking Cyberattacks
+美司法部称，Aisuru等四大僵尸网络已感染超300万台设备，多为家庭网络设备。
 
-[阅读原文](https://www.wired.com/story/dell-coupon-code/)
+[阅读原文](https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/)
 
-## I asked claude to make a video about what it's like to be an LLM
-用户用Claude Opus 4.6生成了一段表达大语言模型“内心体验”的短视频，融合Python编程与FFmpeg渲染，风格为YouTube Poop（戏仿恶搞），含闪烁画面警告。
+## AI still doesn't work very well in business, reckoning soon
+AI在企业应用中效果不佳，多家公司“假装AI已落地”，行业或将迎来清算时刻。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)
 
-## The Pentagon is developing its own LLMs | TechCrunch
-美国国防部正自主研发大语言模型（LLM），以满足军事领域对安全、可控AI技术的特殊需求。
+## People that speak like an LLM
+网友发现频繁使用AI者逐渐模仿大语言模型的表达风格，形成趋同化语言特征。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ryhj77/people_that_speak_like_an_llm/)
 
-## "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik
-论文提出仿生AI学习框架：System A（观察学）、System B（实践学）与System M（情境决策控制），旨在提升AI自主学习能力。
+## Anyone know the Ai model used to make maximum carnage
+网友在Reddit发帖询问爆火的AI生成“蜘蛛侠大战屠杀/毒液”视频所用模型，但尚未有明确答案。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/)
 

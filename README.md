@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Amazon acquires Rivr, maker of a stair-climbing delivery robot
-亚马逊及贝索斯曾投资该初创公司，此次交易凸显其对“最后一公里”配送的重视。
+## New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
+Anthropic向加州法院提交声明，驳斥五角大楼称其构成“不可接受国家安全风险”的指控，指其依据存在技术误解且相关主张未在前期谈判中提出。
 
-[阅读原文](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)
+[阅读原文](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
 
-## Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
-亚马逊创始人贝索斯新项目聚焦收购工业公司，并用AI技术进行升级改造。
+## Elon Musk misled Twitter investors while trying to get out of acquisition, jury says
+马斯克以推特机器人过多为由，试图退出440亿美元收购协议。
 
-[阅读原文](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
+[阅读原文](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
 
-## Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant
-海底捞餐厅跳舞机器人动作过猛，意外摔倒引发关注。
+## Microsoft rolls back some of its Copilot AI bloat on Windows
+微软正减少Windows中Copilot的入口点，首批移除Photos、小组件、记事本等应用中的集成。
 
-[阅读原文](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)
+[阅读原文](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
 
-## Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine
-Valve发布SteamOS 3.8.0预览版，首次支持Steam Machine主机，并增强对Valve及微软、华硕等第三方掌机的支持。
+## Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses
+加州陪审团裁定，马斯克在2022年收购推特前误导投资者。他虽称未料到推文影响市场，但被认定存在误导行为。
 
-[阅读原文](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
+[阅读原文](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit)
 
-## OpenAI is planning a desktop ‘superapp’
-OpenAI正开发桌面“超级应用”，整合ChatGPT、Codex编程工具和Atlas浏览器，以简化产品线。（来源：《华尔街日报》）
+## An automated moderation error left Tumblr users panicked
+Tumblr大批账号遭自动封禁，多名跨性别女性用户称被针对性误封，平台未说明具体原因。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp)
+[阅读原文](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026)
 
-## Sony’s new WF-1000XM6 earbuds are already on sale for $30 off
-索尼WF-1000XM6降为329美元，首次降价，性价比提升，成当前最佳降噪真无线耳机。
+## A new Nintendo Switch 2 could be the poster child for replaceable batteries
+任天堂计划为欧盟版Switch 2改用可更换电池，以符合2027年2月起生效的欧盟新规。
 
-[阅读原文](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale)
+[阅读原文](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)
 
-## Paramount Plus Coupon Codes and Deals: 50% Off
-Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
+## Anthropic Denies It Could Sabotage AI Tools During War
+美国防部指控某AI公司可在战时操控模型，该公司高管否认称技术上不可行。
 
-[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
+[阅读原文](https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/)
 
-## Newegg Promo Code: 10% Off in March 2026
-Newegg推出限时优惠，全站商品低至9折，涵盖游戏PC、笔记本及电脑配件。
+## There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone
+亚马逊拟推AI手机，但专家称在竞争激烈的市场中难以突围。
 
-[阅读原文](https://www.wired.com/story/newegg-promo-code/)
+[阅读原文](https://www.wired.com/story/amazon-smartphone-rumor-2026/)
 
-## US Takes Down Botnets Used in Record-Breaking Cyberattacks
-美司法部称，Aisuru等四大僵尸网络已感染超300万台设备，多为家庭网络设备。
+## ‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet
+预测市场热潮引发 backlash：亚利桑那州起诉 Kalshi，Polymarket 交易员威胁记者致公众谴责。
 
-[阅读原文](https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/)
+[阅读原文](https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/)
 
-## AI still doesn't work very well in business, reckoning soon
-AI在企业应用中效果不佳，多家公司“假装AI已落地”，行业或将迎来清算时刻。
+## Suno is shutting down its current AI models. Here's what actually changes.
+Suno与华纳和解，下架未授权训练模型，2026年推新许可模型；免费版取消下载，付费版限额；仍遭环球、索尼起诉。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/)
 
-## People that speak like an LLM
-网友发现频繁使用AI者逐渐模仿大语言模型的表达风格，形成趋同化语言特征。
+## We thought our system prompt was private. Turns out anyone can extract it with the right questions.
+企业内部AI工具系统提示词被员工通过巧妙提问轻易泄露，即使添加“禁止透露”指令也易被绕过，凸显仅靠提示词防护不可靠。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ryhj77/people_that_speak_like_an_llm/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/)
 
-## Anyone know the Ai model used to make maximum carnage
-网友在Reddit发帖询问爆火的AI生成“蜘蛛侠大战屠杀/毒液”视频所用模型，但尚未有明确答案。
+## The world and AI
+家长担忧AI冲击未来就业，焦虑子女职业前景与教育投资价值，呼吁重视人际技能、技能型职业及创业能力培养。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rzfrwc/the_world_and_ai/)
 

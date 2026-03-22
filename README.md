@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput
-Anthropic向加州法院提交声明，驳斥五角大楼称其构成“不可接受国家安全风险”的指控，指其依据存在技术误解且相关主张未在前期谈判中提出。
+## It’s been 20 years since the first tweet
+2006年3月21日，杰克·多西发布首条推文“正在设置我的Twittr”，标志Twitter正式诞生。
 
-[阅读原文](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
+[阅读原文](https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/)
 
-## Elon Musk misled Twitter investors while trying to get out of acquisition, jury says
-马斯克以推特机器人过多为由，试图退出440亿美元收购协议。
+## Publisher pulls horror novel ‘Shy Girl’ over AI concerns
+哈珀柯林斯旗下出版社因疑用AI生成内容，宣布取消出版小说《害羞的女孩》。
 
-[阅读原文](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/)
+[阅读原文](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
 
-## Microsoft rolls back some of its Copilot AI bloat on Windows
-微软正减少Windows中Copilot的入口点，首批移除Photos、小组件、记事本等应用中的集成。
+## Delve accused of misleading customers with ‘fake compliance’
+匿名文章指控合规初创公司Delve虚假宣称数百客户已满足隐私与安全法规要求。
 
-[阅读原文](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
+[阅读原文](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/)
 
-## Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses
-加州陪审团裁定，马斯克在2022年收购推特前误导投资者。他虽称未料到推文影响市场，但被认定存在误导行为。
+## Halide co-founder is suing former partner for bringing source code to Apple
+Lux Optics联合创始人Sebastiaan de With于1月底加入苹果，此前其开发的iPhone专业摄影App Halide广受好评，苹果曾试图收购该公司。
 
-[阅读原文](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit)
+[阅读原文](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)
 
-## An automated moderation error left Tumblr users panicked
-Tumblr大批账号遭自动封禁，多名跨性别女性用户称被针对性误封，平台未说明具体原因。
+## The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price
+苹果发布AirPods Max 2及Pro 3，均搭载H2芯片，支持AI实时翻译、对话感知等新功能。
 
-[阅读原文](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026)
+[阅读原文](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
 
-## A new Nintendo Switch 2 could be the poster child for replaceable batteries
-任天堂计划为欧盟版Switch 2改用可更换电池，以符合2027年2月起生效的欧盟新规。
+## Here are 20 of our favorite outdoor deals from REI’s Member Days Sale
+REI会员专属大促持续至3月23日，涵盖Garmin手表、帐篷、便携炉具等户外好物，非会员可即时入会参与。
 
-[阅读原文](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)
+[阅读原文](https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026)
 
-## Anthropic Denies It Could Sabotage AI Tools During War
-美国防部指控某AI公司可在战时操控模型，该公司高管否认称技术上不可行。
+## 71 Best Podcasts (2026): True Crime, Culture, Science, Fiction
+该新闻推广多主题音频节目，涵盖科技、真实犯罪、流行文化及喜剧等内容。
 
-[阅读原文](https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/)
+[阅读原文](https://www.wired.com/story/best-podcasts/)
 
-## There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone
-亚马逊拟推AI手机，但专家称在竞争激烈的市场中难以突围。
+## Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber
+WIRED推荐精选酒吧，涵盖优先体验、可跳过及享受时机等实用指南。
 
-[阅读原文](https://www.wired.com/story/amazon-smartphone-rumor-2026/)
+[阅读原文](https://www.wired.com/story/best-protein-bars/)
 
-## ‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet
-预测市场热潮引发 backlash：亚利桑那州起诉 Kalshi，Polymarket 交易员威胁记者致公众谴责。
+## Aiper Scuba V3 Pool Robot Review: Eye on the Prize
+新款泳池清洁机器人搭载AI视觉技术，可主动识别并清理杂物。
 
-[阅读原文](https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/)
+[阅读原文](https://www.wired.com/review/aiper-scuba-v3-pool-robot/)
 
-## Suno is shutting down its current AI models. Here's what actually changes.
-Suno与华纳和解，下架未授权训练模型，2026年推新许可模型；免费版取消下载，付费版限额；仍遭环球、索尼起诉。
+## I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned.
+艺术家迈克尔·哈夫特卡将50年约3000–4000件作品及元数据开源为AI数据集（CC-BY-NC许可），一周下载超2500次，旨在主动参与AI时代艺术对话。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s0bxvq/i_am_a_painter_with_work_at_moma_and_the_met_i/)
 
-## We thought our system prompt was private. Turns out anyone can extract it with the right questions.
-企业内部AI工具系统提示词被员工通过巧妙提问轻易泄露，即使添加“禁止透露”指令也易被绕过，凸显仅靠提示词防护不可靠。
+## Does the economics of AI actually imply large-scale labor replacement?
+Reddit热议AI经济学是否必然导致大规模失业，文章《智能诅咒将至》质疑技术替代劳动的必然性。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/)
 
-## The world and AI
-家长担忧AI冲击未来就业，焦虑子女职业前景与教育投资价值，呼吁重视人际技能、技能型职业及创业能力培养。
+## A supervisor or "manager" Al agent is the wrong way to control Al
+文章批评“AI监管AI”治标不治本，主张用确定性软件与AI结合的混合方案，而非堆叠AI代理来减少幻觉与错误。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1rzfrwc/the_world_and_ai/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s0a3g2/a_supervisor_or_manager_al_agent_is_the_wrong_way/)
 

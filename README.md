@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## The SEC drops its four-year-old investigation into EV startup Faraday Future
-历经四年、多次传票与取证，这家陷入困境的初创公司再度成功规避法律危机。
+## Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations
+初创公司被举报伪造审计证据，其知名A轮融资领投方随即撤下相关投资说明文章。
 
-[阅读原文](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)
+[阅读原文](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
 
-## Do you want to build a robot snowman?
-英伟达CEO黄仁勋在GTC大会发表主题演讲，引发对其未来发展的热议。
+## Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick
+前Uber联合创始人迈克尔·托尔斯直言难忘并永不原谅被公司解雇一事。
 
-[阅读原文](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)
+[阅读原文](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)
 
-## Cursor admits its new coding model was built on top of Moonshot AI’s Kimi
-当前基于中国模型开展开发工作面临较大风险与不确定性。
+## Bengaluru food delivery startup Swish raises $38M, its third round in 18 months
+Swish一年内估值翻倍，凭借全栈式、超本地化模式，将极速餐饮配送打造成高频消费习惯。
 
-[阅读原文](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
+[阅读原文](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/)
 
-## AI influencer awards season is upon us
-AI影响力经济升温，首届“年度AI人格”奖诞生，标志AI虚拟偶像从新奇玩物迈向高价值产业。
+## The US government just banned consumer routers made outside the US
+美国FCC继禁外国产无人机进口后，又禁止进口外国产消费级网络设备，称其对美国家安全构成不可接受风险。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
+[阅读原文](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
 
-## Topical Dancer is propulsive, playful, and political
-科技新闻误贴：原文实为音乐评论，讨论Sotomayor新专《Wabi Sabi》与Charlotte Adigery等人的另类电子专辑风格关联，并非科技类内容。
+## The kid-friendly Fitbit Ace is $100, which matches its best price
+Fitbit Ace LTE儿童智能手表促销，售价99.95美元（直降80美元），支持运动游戏，鼓励孩子户外活动、减少手机使用。
 
-[阅读原文](https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review)
+[阅读原文](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)
 
-## Crimson Desert dev apologizes for use of AI art
-《深红沙漠》被曝使用AI生成素材，开发商承认曾用AI辅助开发，但称本应替换为人工制作，最终未全部替换。
+## Kalshi says it will block politicians and athletes from trading in markets they’re tied to
+Kalshi平台将禁止政治候选人及运动员等交易自身相关市场，以防范利益冲突和操纵风险。
 
-[阅读原文](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)
+[阅读原文](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked)
 
-## Airlines Are Already Preparing for an Oil Crisis
-伊朗战争致油价翻倍，航空业紧缩被视作全球经济预警信号。
+## 20% Off Brooks Promo Code & Deals for | March 2026
+该消息为促销广告，非科技新闻，主要内容是Brooks跑鞋首单享8折及优惠活动。
 
-[阅读原文](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/)
+[阅读原文](https://www.wired.com/story/brooks-promo-code/)
 
-## Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More
-文章介绍美利奴羊毛面料，解析不同混纺、克重（GSM）含义及护理方法。
+## Ulta Coupons and Deals: Up to 50% Off in March
+Ulta推出美妆科技、彩妆等新品促销，使用优惠码可享大幅折扣。
 
-[阅读原文](https://www.wired.com/story/best-merino-wool-clothes/)
+[阅读原文](https://www.wired.com/story/ulta-coupon/)
 
-## How to Back Up Your Android Phone (2026)
-提醒用户提前备份照片、消息和文件，以防数据丢失。
+## Sony Promo Codes and Discounts: 45% Off
+索尼推出新款降噪耳机与Alpha专业相机，现享优惠。
 
-[阅读原文](https://www.wired.com/story/how-to-backup-your-android/)
+[阅读原文](https://www.wired.com/story/sony-promo-code/)
 
-## Pentagon to adopt Palantir AI as core US military system, memo says
-美国国防部将采用Palantir人工智能系统作为核心军事平台，提升数据整合与作战决策能力。
+## Mark Zuckerberg builds AI CEO to help him run Meta
+扎克伯格正开发AI CEO助手，以辅助管理Meta公司运营。该AI将整合内部数据，提供决策支持，提升管理效率。（来源：Independent）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/)
 
-## I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned.
-艺术家迈克尔·哈夫特卡将50年约3000–4000件作品及元数据开源为AI训练集（CC-BY-NC许可），一周下载超2500次，旨在主动参与AI时代艺术对话。
+## Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.
+Anthropic推出Claude新功能，用户可授权其直接操作电脑执行任务，提升自动化效率。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s0bxvq/i_am_a_painter_with_work_at_moma_and_the_met_i/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/)
 
-## Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation
-加州十余起涉ChatGPT致自杀的诉讼被合并为一宗集体诉讼，指控OpenAI对AI风险监管失职。
+## Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading
+Andrej Karpathy开发的自主AI研究代理两天内完成700次实验，展现AI自动化科研新方向。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/)
 

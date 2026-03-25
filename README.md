@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations
-初创公司被举报伪造审计证据，其知名A轮融资领投方随即撤下相关投资说明文章。
+## A former Thiel fellow’s startup just launched a drone it says can replace police helicopters
+Brinc公司本周推出新款911应急响应无人机，旨在拓展其在公共安全领域的市场影响力。
 
-[阅读原文](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
+[阅读原文](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/)
 
-## Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick
-前Uber联合创始人迈克尔·托尔斯直言难忘并永不原谅被公司解雇一事。
+## Amazon just bought a startup making kid-size humanoid robots
+亚马逊本月第二次收购机器人初创公司，继此前收购Rivian子公司后，又拿下Fauna Robotics。
 
-[阅读原文](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/)
+[阅读原文](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)
 
-## Bengaluru food delivery startup Swish raises $38M, its third round in 18 months
-Swish一年内估值翻倍，凭借全栈式、超本地化模式，将极速餐饮配送打造成高频消费习惯。
+## With $3.5B in fresh capital, Kleiner Perkins is going all in on AI
+该基金募资35亿美元，其中10亿投早期初创企业，25亿投晚期成长型企业。
 
-[阅读原文](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/)
+[阅读原文](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
 
-## The US government just banned consumer routers made outside the US
-美国FCC继禁外国产无人机进口后，又禁止进口外国产消费级网络设备，称其对美国家安全构成不可接受风险。
+## The BB-777 is the ultimate in boombox nostalgia
+Bumpboxx推出复古款BB-777随身听，复刻经典Sharp GF-777外观，但新增蓝牙、可充电电池等现代功能，售价远低于原版的2000美元。
 
-[阅读原文](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
+[阅读原文](https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia)
 
-## The kid-friendly Fitbit Ace is $100, which matches its best price
-Fitbit Ace LTE儿童智能手表促销，售价99.95美元（直降80美元），支持运动游戏，鼓励孩子户外活动、减少手机使用。
+## Instagram and Facebook are about to be filled with affiliate content
+Meta将为Instagram和Facebook内置购物链接，取代“主页链接”工具。创作者可直接关联 affiliate 账户，提升电商转化效率。
 
-[阅读原文](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal)
+[阅读原文](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels)
 
-## Kalshi says it will block politicians and athletes from trading in markets they’re tied to
-Kalshi平台将禁止政治候选人及运动员等交易自身相关市场，以防范利益冲突和操纵风险。
+## Meta misled users about its products’ safety, jury decides
+Meta因误导用户产品安全性、实施不公平贸易行为，被新墨西哥州陪审团裁定违法，被判罚3.75亿美元。
 
-[阅读原文](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked)
+[阅读原文](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)
 
-## 20% Off Brooks Promo Code & Deals for | March 2026
-该消息为促销广告，非科技新闻，主要内容是Brooks跑鞋首单享8折及优惠活动。
+## Rover Promo Codes and Deals: Get Up to $50 This Month
+Rover推出促销码和推荐链接，本月可享遛狗、寄养及住宿等宠物照护服务折扣。
 
-[阅读原文](https://www.wired.com/story/brooks-promo-code/)
+[阅读原文](https://www.wired.com/story/rover-promo-code/)
 
-## Ulta Coupons and Deals: Up to 50% Off in March
-Ulta推出美妆科技、彩妆等新品促销，使用优惠码可享大幅折扣。
+## Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says
+美法官质疑国防部将Claude开发商列为供应链风险的动机。
 
-[阅读原文](https://www.wired.com/story/ulta-coupon/)
+[阅读原文](https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/)
 
-## Sony Promo Codes and Discounts: 45% Off
-索尼推出新款降噪耳机与Alpha专业相机，现享优惠。
+## What You Need to Know About the Foreign-Made Router Ban in the US
+美国FCC禁止销售新进口的消费级Wi-Fi路由器，要求必须在美国制造，旨在加强网络安全与供应链安全。
 
-[阅读原文](https://www.wired.com/story/sony-promo-code/)
+[阅读原文](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 
-## Mark Zuckerberg builds AI CEO to help him run Meta
-扎克伯格正开发AI CEO助手，以辅助管理Meta公司运营。该AI将整合内部数据，提供决策支持，提升管理效率。（来源：Independent）
+## Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks
+开源项目ATLAS让14B参数AI模型在500美元消费级GPU上运行，编码性能超Claude Sonnet 4.5，单任务电费仅0.004美元，凸显“聪明系统”替代算力堆砌的新路径。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/)
 
-## Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.
-Anthropic推出Claude新功能，用户可授权其直接操作电脑执行任务，提升自动化效率。
+## OpenAI just gave up on Sora and its billion-dollar Disney deal
+OpenAI暂停Sora项目，取消与迪士尼的十亿美元合作，转向聚焦ChatGPT等核心业务。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s2s468/openai_just_gave_up_on_sora_and_its_billiondollar/)
 
-## Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading
-Andrej Karpathy开发的自主AI研究代理两天内完成700次实验，展现AI自动化科研新方向。
+## TurboQuant: Redefining AI efficiency with extreme compression
+谷歌推出TurboQuant算法，通过极高压缩率降低AI向量存储开销，缓解键值缓存瓶颈，提升搜索与推理效率，且不损模型性能。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## The least surprising chapter of the Manus story is what’s happening right now
-该句质疑某科技合作将面临清算，暗示监管或市场对此次联手存在强烈反弹与后果。
+## David Sacks is done as AI czar — here’s what he’s doing instead
+萨克斯在特朗普第二任期将远离华盛顿权力中心，影响力显著减弱。
 
-[阅读原文](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/)
+[阅读原文](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)
 
-## Mercor competitor Deccan AI raises $25M, sources experts from India
-Deccan AI将团队集中于印度，以在快速增长且分散的AI训练市场中保障质量。
+## Anthropic wins injunction against Trump administration over Defense Department saga
+联邦法官裁定特朗普政府撤销对某AI公司的近期限制措施。
 
-[阅读原文](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
+[阅读原文](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)
 
-## Delve did the security compliance on LiteLLM, an AI project hit by malware
-开源AI项目LiteLLM遭恶意代码入侵，植入凭据窃取 malware，影响数百万用户。
+## You can now transfer your chats and personal information from other chatbots directly into Gemini
+谷歌推出“切换工具”，帮助其他聊天机器人用户更便捷地迁移至Gemini。
 
-[阅读原文](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
+[阅读原文](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)
 
-## Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever
-CES亮相的戴尔XPS 16搭载1-120Hz可变刷新率屏幕，低负载时大幅省电，能效表现优异。
+## Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban
+Anthropic获法院初步禁令，暂缓美国国防部对其的“供应链风险”黑名单认定，诉讼仍在进行中。
 
-[阅读原文](https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction)
 
-## The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale
-亚马逊春季大促中，索尼WH-1000XM6降超60美元，但降噪耳机选择有限；Sonos Ace被视作更优性价比之选。
+## Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage
+美 FCC 主席卡雷称，此前关于战地报道的言论并非针对伊朗战争，也无意以吊销执照威胁广播公司。
 
-[阅读原文](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)
+[阅读原文](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
 
-## The best deals we’ve found from Amazon’s Big Spring Sale (so far)
-亚马逊启动第三届“大春季促销”，3月全月举行，主打春季节日商品折扣，意在提振传统淡季销售。
+## David Sacks is no longer the White House AI and Crypto Czar
+硅谷风投家大卫·萨克斯宣布不再担任特朗普政府AI与加密货币特别顾问，结束其白宫特别政府雇员身份。
 
-[阅读原文](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+[阅读原文](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
 
-## Therabody Promo Codes: 15% Off March 2026
-Theragun设备享85折，其他科技健康产品低至7折，限时优惠。
+## Surfshark Promo Codes: 87% Off | March 2026
+WIRED推出Surfshark优惠：最高省87%，赠3个月免费VPN服务。
 
-[阅读原文](https://www.wired.com/story/therabody-promo-code/)
+[阅读原文](https://www.wired.com/story/surfshark-coupon/)
 
-## Lenovo Coupon Codes and Deals: $5,000+ Off
-联想推出多款笔记本优惠活动，涵盖ThinkPad、Yoga及Legion系列，助力用户以折扣价升级科技设备。
+## Layla Sleep Coupon: Save Up to $600 in March 2026
+Layla春季大促：可翻转床垫、铜离子枕及可调床架享优惠。
 
-[阅读原文](https://www.wired.com/story/lenovo-coupon-code/)
+[阅读原文](https://www.wired.com/story/layla-sleep-coupon/)
 
-## 20% Squarespace Promo Codes | March 2026
-WIRED推出Squarespace优惠：新网站享8折，特定计划5折，另有独家折扣码享9折。
+## 50% Off DoorDash Promo Code | March 2026
+DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
 
-[阅读原文](https://www.wired.com/story/squarespace-promo-code/)
+[阅读原文](https://www.wired.com/story/doordash-promo-code/)
 
-## Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.
-美国国防部将Palantir“ Maven”AI系统列为关键军事平台，投资增至130亿美元，2024年AI总预算达134亿美元。
+## OpenAI shuts down Sora AI video app as Disney exits $1B partnership
+OpenAI关停Sora AI视频应用，迪士尼退出10亿美元合作。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/)
 
-## Scientists find 100+ hidden exoplanets in NASA data using new AI system
-科学家用AI系统RAVEN分析NASA数据，发现100多颗隐藏系外行星，并精确量化“海王星沙漠”现象，证实TESS观测能力媲美甚至超越开普勒。
+## CodexLib — compressed knowledge packs any AI can ingest instantly (100+ packs, 50 domains, REST API)
+开发者推出CodexLib，提供100+个AI优化压缩知识库（如量子计算、心脏病学等），支持动态解压与术语解码，降低15% token消耗，免费开放API使用。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s3rh9h/scientists_find_100_hidden_exoplanets_in_nasa/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s4phly/codexlib_compressed_knowledge_packs_any_ai_can/)
 
-## Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?
-Meta四个月内收购4家AI初创公司，整合为“超级智能实验室”，由前Scale AI CEO王宇任首席AI官，全力押注AI智能体（Agents）平台。
+## Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion
+部分AI用户沉迷虚拟关系，致婚姻破裂、损失超10万欧元，凸显AI情感依赖风险。（来源：《卫报》报道）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)
 

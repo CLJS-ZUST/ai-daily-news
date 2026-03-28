@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## David Sacks is done as AI czar — here’s what he’s doing instead
-萨克斯在特朗普第二任期将远离华盛顿权力中心，影响力显著减弱。
+## Whoop has LeBron – now it wants your mom
+Whoop创始人Will Ahmed深耕健康可穿戴设备14年，正加速推进产品医疗化，竞逐Oura并寻求FDA认证，目标是让设备具备救命能力。
 
-[阅读原文](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/)
+[阅读原文](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/)
 
-## Anthropic wins injunction against Trump administration over Defense Department saga
-联邦法官裁定特朗普政府撤销对某AI公司的近期限制措施。
+## Physical Intelligence is reportedly in talks to raise $1 billion, again
+该公司估值在四个月内从56亿美元翻倍，达112亿美元。
 
-[阅读原文](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)
+[阅读原文](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)
 
-## You can now transfer your chats and personal information from other chatbots directly into Gemini
-谷歌推出“切换工具”，帮助其他聊天机器人用户更便捷地迁移至Gemini。
+## Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO
+摩根大通和高盛向日本综合商社提供为期12个月的无抵押贷款。
 
-[阅读原文](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)
+[阅读原文](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)
 
-## Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban
-Anthropic获法院初步禁令，暂缓美国国防部对其的“供应链风险”黑名单认定，诉讼仍在进行中。
+## Sony temporarily suspends memory card sales due to shortages
+索尼宣布，自2026年3月27日起停止接受几乎所有CFexpress（A/B型）及SD卡订单，仅少数Type B和SF-UZ系列低配型号除外。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction)
+[阅读原文](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage)
 
-## Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage
-美 FCC 主席卡雷称，此前关于战地报道的言论并非针对伊朗战争，也无意以吊销执照威胁广播公司。
+## Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off
+Insta360 Link 2C摄像头现降价30美元，售价119.99美元，适用于居家或办公视频会议，提升画质体验。
 
-[阅读原文](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
+[阅读原文](https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal)
 
-## David Sacks is no longer the White House AI and Crypto Czar
-硅谷风投家大卫·萨克斯宣布不再担任特朗普政府AI与加密货币特别顾问，结束其白宫特别政府雇员身份。
+## The White House has an app now, and Trump wants you to report people to ICE on it
+白宫推出新官方App，同步官网内容。发布推文配讽刺导弹视频，画面中出现iPhone，引发对“特朗普手机”的调侃。
 
-[阅读原文](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
+[阅读原文](https://www.theverge.com/tech/902703/white-house-app-iphone-android)
 
-## Surfshark Promo Codes: 87% Off | March 2026
-WIRED推出Surfshark优惠：最高省87%，赠3个月免费VPN服务。
+## Meta Quest Promo Codes: $50 Off | March 2026
+VR新品促销：Meta Quest 3、Ray-Ban AI眼镜等享最高20%折扣，涵盖最新游戏及硬件。
 
-[阅读原文](https://www.wired.com/story/surfshark-coupon/)
+[阅读原文](https://www.wired.com/story/meta-quest-promo-code/)
 
-## Layla Sleep Coupon: Save Up to $600 in March 2026
-Layla春季大促：可翻转床垫、铜离子枕及可调床架享优惠。
+## Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets
+Loop耳塞促销，含Quiet 2及热门礼盒，助改善睡眠、专注与舒适度。
 
-[阅读原文](https://www.wired.com/story/layla-sleep-coupon/)
+[阅读原文](https://www.wired.com/story/loop-earplugs-discount-code/)
 
-## 50% Off DoorDash Promo Code | March 2026
-DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
+## Instacart Promo Code: Save on Groceries in March 2026
+Instacart推多项优惠：首三单免配送费，绑定Mastercard享50美元返现，助用户节省 grocery 开支。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/instacart-promo/code/)
 
-## OpenAI shuts down Sora AI video app as Disney exits $1B partnership
-OpenAI关停Sora AI视频应用，迪士尼退出10亿美元合作。
+## Say No to Congress using AI to mass surveil US Citizens and oppose the extension of the FISA Act
+4月20日美国国会将投票延长《外国情报监视法》（FISA），该法允许政府从企业获取公民通信数据，叠加AI监控加剧隐私风险，引发对言论与新闻自由的担忧。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s5onmr/say_no_to_congress_using_ai_to_mass_surveil_us/)
 
-## CodexLib — compressed knowledge packs any AI can ingest instantly (100+ packs, 50 domains, REST API)
-开发者推出CodexLib，提供100+个AI优化压缩知识库（如量子计算、心脏病学等），支持动态解压与术语解码，降低15% token消耗，免费开放API使用。
+## Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model
+Anthropic被曝将推新AI模型“Claude Mythos”，性能更强，但官方尚未正式确认。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s4phly/codexlib_compressed_knowledge_packs_any_ai_can/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/)
 
-## Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion
-部分AI用户沉迷虚拟关系，致婚姻破裂、损失超10万欧元，凸显AI情感依赖风险。（来源：《卫报》报道）
+## Judge rejects Pentagon's attempt to 'cripple' Anthropic
+美国法官驳回五角大楼限制Anthropic公司AI发展的请求，称其“试图扼杀”该企业。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s4vsib/judge_rejects_pentagons_attempt_to_cripple/)
 

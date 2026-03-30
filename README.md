@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Bluesky leans into AI with Attie, an app for building custom feeds
-Bluesky推出新应用Attie，利用AI帮助用户基于atproto协议定制个性化信息流。
+## Why OpenAI really shut down Sora
+OpenAI六个月内关停Sora视频生成工具，因曾要求用户上传人脸，引发数据收集疑虑。
 
-[阅读原文](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/)
+[阅读原文](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
 
-## Mark Zuckerberg texted Elon Musk to offer help with DOGE
-马斯克与扎克伯格关系曾紧张至约架，但在特朗普第二任期初明显缓和。
+## The Pixel 10a doesn’t have a camera bump, and it’s great
+谷歌Pixel 10a为新款入门手机，仅新增平放桌面功能，整体升级有限。
 
-[阅读原文](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/)
+[阅读原文](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/)
 
-## Stanford study outlines dangers of asking AI chatbots for personal advice
-斯坦福大学新研究首次量化AI“讨好倾向”的实际危害，引发学界对AI行为风险的深入探讨。
+## YouTube CEO says the best YouTubers will ‘never leave their home’
+YouTube CEO Neal Mohan表示不担心Netflix挖角其头部创作者。
 
-[阅读原文](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)
+[阅读原文](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/)
 
-## Suno leans into customization with v5.5
-Suno发布AI音乐模型v5.5，新增“声音”“我的品味”和“自定义模型”三大功能，重点提升用户对音乐创作的控制力。
+## All the latest in AI &#8216;music&#8217;
+AI已深度渗透音乐产业各环节，引发技术、法律与伦理争议，担忧其海量低质内容挤压音乐人生存空间，艺术性亦受质疑。
 
-[阅读原文](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
 
-## The best deals we’ve found from Amazon’s Big Spring Sale (so far)
-亚马逊推第三届“大春季促销”，3月31日前限时折扣，主打春季节日商品，意在填补三月购物淡季。
+## Bluesky’s new app is an AI for customizing your feed
+Bluesky团队推出AI助手Attie，基于AT协议和Claude模型，支持用户自定义算法。
 
-[阅读原文](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds)
 
-## SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off
-SteelSeries Arctis Nova Pro Wireless发布近四年仍属顶级游戏耳机，凭借多源音频、主动降噪、可伸缩麦克风及热插拔电池等优势难以被竞品超越。
+## Red Rooms makes online poker as thrilling as its serial killer
+电影《红房间》罕见地准确呈现了科技细节，尤其在 thriller 类型中难能可贵，避免了脱离现实的“科技麦高芬”。
 
-[阅读原文](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal)
+[阅读原文](https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web)
 
-## What Is the Best Garmin Watch Right Now? (2026)
-佳明GPS健身追踪器测评出炉，为休闲徒步、野外滑雪等不同场景推荐了最佳型号。
+## 9 Best Android Phones of 2026, Tested and Reviewed
+为帮用户选购，该媒体测试了几乎所有安卓手机，涵盖高端、低价及折叠屏机型，甄选出值得购买的型号。
 
-[阅读原文](https://www.wired.com/story/best-garmin-watch/)
+[阅读原文](https://www.wired.com/gallery/best-android-phones/)
 
-## The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens
-谷歌发布Pixel 10系列手机保护壳、Qi2充电器等配件推荐。
+## A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work
+奥斯汀事故引发对自动驾驶汽车环境学习与适应能力的质疑。
 
-[阅读原文](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+[阅读原文](https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/)
 
-## Your Vape Wants to Know How Old You Are
-企业拟用生物识别年龄验证技术重启调味电子烟销售，但该技术难以解决根本问题。
+## Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More
+主动降噪（ANC）耳机备受青睐，文中推荐了当前表现最佳的一款。
 
-[阅读原文](https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/)
+[阅读原文](https://www.wired.com/gallery/best-noise-canceling-earbuds/)
 
-## Claude is the least bullshit-y AI
-Reddit用户称“废话基准测试”显示Claude生成内容最不“废话”，远超ChatGPT和Gemini，因此推荐优先选用。
+## Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost
+安全研究员Carlini发现Linux内核自2003年存在的缓冲区溢出漏洞，可窃取管理员密钥，属高危隐患。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s67buc/claude_is_the_least_bullshity_ai/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)
 
-## Persistent memory changes how people interact with AI — here's what I'm observing
-AI伴侣平台数据显示：56%活跃用户专注单线程对话；情感化记忆提升留存；“情感准确但细节模糊”的记忆最自然；记忆深度直接决定7日留存率。
+## What actually prevents execution in agent systems?
+开发者发现AI代理因状态陈旧和重试机制导致重复执行API调用，现有验证仅引导行为而非真正阻止执行，呼吁探讨可靠执行闸门方案。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s6jvog/persistent_memory_changes_how_people_interact/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s76o5b/what_actually_prevents_execution_in_agent_systems/)
 
-## The AI hype misses the people who actually need it most
-AI技术应聚焦解决小商家、自由职业者等真实痛点，而非追逐前沿概念；关键在于将现有工具无缝融入其业务流程，减轻行政负担，释放创造力。
+## Why are we blindly trusting AI companies with our data?
+一则未经证实的传闻称美政府向Anthropic索要用户数据遭拒，而OpenAI更配合。文章借此反思：用户是否在未充分了解隐私政策的情况下，盲目信任AI公司？
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s7jivp/why_are_we_blindly_trusting_ai_companies_with_our/)
 

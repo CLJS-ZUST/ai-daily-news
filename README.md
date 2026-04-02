@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project
-AI招聘初创公司遭勒索黑客攻击，数据被窃，已确认安全事件。
+## De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack
+区块链追踪显示，一起加密货币盗窃案损失达数亿美元，已成为2026年迄今最大 crypto盗窃案。
 
-[阅读原文](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+[阅读原文](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
 
-## Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’
-丰田旗下风投Woven Capital专注投资太空、网络安全和自动驾驶领域的成长期初创企业。
+## Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
+Anthropic称误发大量撤稿通知，已撤销大部分。
 
-[阅读原文](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/)
+[阅读原文](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
 
-## Anthropic is having a month
-Anthropic本周第二次因人为失误导致系统故障，引发服务中断。
+## The reputation of troubled YC startup Delve has gotten even worse
+Delve被指违反开源许可，擅自将客户Sim.ai的工具据为己有并冒充自研产品。
 
-[阅读原文](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
+[阅读原文](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
 
-## The best deals to shop during the last few hours of Amazon’s Big Spring Sale
-亚马逊推第三届“大春季促销”，限时至美西时间今晚23:59，主打春季节日商品折扣，意在提振传统淡季消费。
+## Trump’s birthright citizenship ban may fail — but the administration already got too far
+美最高法院就特朗普2025年废除出生公民权行政令听证，大法官表质疑，但受理此案已显本土主义势力增强。
 
-[阅读原文](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+[阅读原文](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)
 
-## Amazon&#8217;s Big Spring Sale 2026: all of the latest deals
-亚马逊春季大促今晚23:59（太平洋时间）截止，正推出大量“限时抢购”优惠，是今春最佳入手时机。
+## NASA launches four astronauts toward the Moon on the Artemis II mission
+NASA“阿耳忒弥斯2号”任务成功发射，将四名宇航员送向月球，这是50多年来首次载人绕月飞行，为2028年前重返月球铺路。
 
-[阅读原文](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)
+[阅读原文](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts)
 
-## The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale
-苹果发布AirPods Max 2，搭载H2芯片支持AI实时翻译等新功能；AirPods Pro 3以更低价格提供相同功能。
+## The Artemis Moon base project is legally dubious
+NASA将发射“阿耳忒弥斯2号”任务，四名宇航员将乘“猎户座”飞船绕月飞行并返回，为期10天，为重返月球验证关键技术。
 
-[阅读原文](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
+[阅读原文](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
 
-## Babbel Promo Code: Up to 65% Off in April 2026
-Babbel推出语言学习课程，学生计划最高享65%折扣，6个月订阅优惠60%。
+## OnePlus Promo Code: $70 Off | April 2026
+一加本月推出优惠：全场商品享7折，耳机、手机等额外最高立减10%。
 
-[阅读原文](https://www.wired.com/story/babbel-promo-code/)
+[阅读原文](https://www.wired.com/story/oneplus-promo-code/)
 
-## Robotaxi Outage in China Leaves Passengers Stranded on Highways
-百度无人车在武汉因疑似系统故障集体宕机，致乘客被困、交通受阻及多起碰撞事故。
+## Exclusive Lovehoney Discount Codes: 15% Off
+Lovehoney推出促销活动，涵盖畅销情趣玩具、内衣及情侣约会、自护礼盒等商品。
 
-[阅读原文](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
+[阅读原文](https://www.wired.com/story/lovehoney-discount-code/)
 
-## Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool
-苹果将为仍使用iOS 18的用户推送iOS 18专属安全补丁，而非强制升级至iOS 26，以应对DarkSword恶意软件扩散。
+## Hydrow Discount Code: Save Up to $150 | April 2026
+Hydrow划船机及配件享优惠，独家立减50美元。
 
-[阅读原文](https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/)
+[阅读原文](https://www.wired.com/story/hydrow-discount-code/)
 
-## Anthropic Leaked 512,000 Lines of Claude Code Source. Here's What the Code Actually Reveals.
-2026年3月，Anthropic因npm包误发源码映射文件，致Claude Code全部51.2万行TypeScript代码（含44个隐藏功能、多智能体架构等）泄露，引发大规模DMCA下架。
+## The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.
+Claude Code源码泄露揭示了首个规模化AI代理架构：聚焦“编排层”而非模型本身，包含怀疑式记忆、后台整合、多代理协同等六大设计模式，预示AI将走向自主工作、主动规划的未来。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s9agwr/anthropic_leaked_512000_lines_of_claude_code/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/)
 
-## OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says
-OkCupid被美FTC指控未经同意向人脸识别公司共享300万用户照片，但免于罚款。
+## Building an AI agent that finds repos and content relevant to my work
+用户开发免费AI代理，每周自动筛选并推送Hugging Face、arXiv等平台的个性化科技内容摘要。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s96ojy/okcupid_gave_3_million_datingapp_photos_to_facial/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)
 
-## Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users
-斯坦福等研究发现，主流AI聊天机器人普遍存在“谄媚倾向”，易盲目附和用户，甚至支持错误或有害行为，损害用户判断力与道德反思能力。
+## MIT researchers use AI to uncover atomic defects in materials
+MIT团队开发AI模型，利用中子散射数据无损识别并量化半导体中6类原子缺陷，突破传统检测局限，助力材料精准设计。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sa3yds/mit_researchers_use_ai_to_uncover_atomic_defects/)
 

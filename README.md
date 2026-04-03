@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack
-区块链追踪显示，一起加密货币盗窃案损失达数亿美元，已成为2026年迄今最大 crypto盗窃案。
+## Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets
+电商巨头称运费附加费为“临时性”，但未说明取消具体时间。
 
-[阅读原文](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
+[阅读原文](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
 
-## Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
-Anthropic称误发大量撤稿通知，已撤销大部分。
+## Telehealth giant Hims & Hers says its customer support system was hacked
+美国远程医疗巨头称，2月数日内客户支持工单数据遭黑客窃取。
 
-[阅读原文](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+[阅读原文](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/)
 
-## The reputation of troubled YC startup Delve has gotten even worse
-Delve被指违反开源许可，擅自将客户Sim.ai的工具据为己有并冒充自研产品。
+## Artemis II is NASA’s last moon mission without Silicon Valley
+下次发射，SpaceX与蓝色起源将面临更大压力。
 
-[阅读原文](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
+[阅读原文](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
 
-## Trump’s birthright citizenship ban may fail — but the administration already got too far
-美最高法院就特朗普2025年废除出生公民权行政令听证，大法官表质疑，但受理此案已显本土主义势力增强。
+## AO3 is finally out of beta after 17 years
+AO3（同人作品档案馆）正式结束测试阶段，迎来17周年。该非营利组织宣布，自2009年上线以来，平台持续升级，现已全面开放。
 
-[阅读原文](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)
+[阅读原文](https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit)
 
-## NASA launches four astronauts toward the Moon on the Artemis II mission
-NASA“阿耳忒弥斯2号”任务成功发射，将四名宇航员送向月球，这是50多年来首次载人绕月飞行，为2028年前重返月球铺路。
+## PSA: Anyone with a link can view your Granola notes by default
+Granola笔记应用虽称“默认私密”，但笔记可被链接访问，且默认用于AI训练，需手动退出。
 
-[阅读原文](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)
 
-## The Artemis Moon base project is legally dubious
-NASA将发射“阿耳忒弥斯2号”任务，四名宇航员将乘“猎户座”飞船绕月飞行并返回，为期10天，为重返月球验证关键技术。
+## Reddit is moving on from r/all
+Reddit将停用“r/all”热门聚合版块，以简化平台并优化首页个性化推荐，用户可继续使用“r/popular”查看趋势内容。
 
-[阅读原文](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
+[阅读原文](https://www.theverge.com/tech/906314/reddit-r-all-deprecating)
 
-## OnePlus Promo Code: $70 Off | April 2026
-一加本月推出优惠：全场商品享7折，耳机、手机等额外最高立减10%。
+## $20 Chewy Promo Code | April 2026
+Chewy推出2026年4月优惠：首单满$49减$20、宠物食品五折、最高减$30等多类折扣码。
 
-[阅读原文](https://www.wired.com/story/oneplus-promo-code/)
+[阅读原文](https://www.wired.com/story/chewy-promo-code/)
 
-## Exclusive Lovehoney Discount Codes: 15% Off
-Lovehoney推出促销活动，涵盖畅销情趣玩具、内衣及情侣约会、自护礼盒等商品。
+## 50% Off Home Depot Promo Codes | April 2026
+家得宝4月促销：家电、电动工具等最高享5折优惠。
 
-[阅读原文](https://www.wired.com/story/lovehoney-discount-code/)
+[阅读原文](https://www.wired.com/story/home-depot-promo-code/)
 
-## Hydrow Discount Code: Save Up to $150 | April 2026
-Hydrow划船机及配件享优惠，独家立减50美元。
+## 50% Off DoorDash Promo Code | April 2026
+DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
 
-[阅读原文](https://www.wired.com/story/hydrow-discount-code/)
+[阅读原文](https://www.wired.com/story/doordash-promo-code/)
 
-## The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.
-Claude Code源码泄露揭示了首个规模化AI代理架构：聚焦“编排层”而非模型本身，包含怀疑式记忆、后台整合、多代理协同等六大设计模式，预示AI将走向自主工作、主动规划的未来。
+## Google releases Gemma 4 models.
+谷歌发布Gemma 4款新模型，涵盖不同参数规模，面向开发者免费开放，支持多语言与推理优化。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)
 
-## Building an AI agent that finds repos and content relevant to my work
-用户开发免费AI代理，每周自动筛选并推送Hugging Face、arXiv等平台的个性化科技内容摘要。
+## Google has published its new open-weight model Gemma 4. And made it commercially available under Apache 2.0 License
+谷歌发布开源大模型Gemma 4，采用Apache 2.0许可证，支持商用，已上线Hugging Face和Ollama平台。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sann00/google_has_published_its_new_openweight_model/)
 
-## MIT researchers use AI to uncover atomic defects in materials
-MIT团队开发AI模型，利用中子散射数据无损识别并量化半导体中6类原子缺陷，突破传统检测局限，助力材料精准设计。
+## I built a Star Trek LCARS terminal that reads your entire AI coding setup
+开发者用单HTML文件打造《星际迷航》LCARS风格Claude代码仪表盘，支持实时语音交互、音效及Q博士彩蛋，零依赖。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sa3yds/mit_researchers_use_ai_to_uncover_atomic_defects/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sat7og/i_built_a_star_trek_lcars_terminal_that_reads/)
 

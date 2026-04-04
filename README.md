@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets
-电商巨头称运费附加费为“临时性”，但未说明取消具体时间。
+## Anthropic is having a moment in the private markets; SpaceX could spoil the party
+私募股权二级市场空前活跃，Anthropic成最热交易，OpenAI热度下降，SpaceX即将IPO将重塑格局。
 
-[阅读原文](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
+[阅读原文](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
 
-## Telehealth giant Hims & Hers says its customer support system was hacked
-美国远程医疗巨头称，2月数日内客户支持工单数据遭黑客窃取。
+## Lucid blames dip in Q1 sales on seat supplier issue
+Lucid称已解决相关问题，维持2026年业绩指引不变。
 
-[阅读原文](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/)
+[阅读原文](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/)
 
-## Artemis II is NASA’s last moon mission without Silicon Valley
-下次发射，SpaceX与蓝色起源将面临更大压力。
+## The anonymous social app that thinks it can work in Saudi Arabia
+Fizz在沙特阿拉伯低调上线，创始人兼CEO泰迪·所罗门未料到其迅速走红。
 
-[阅读原文](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/)
+[阅读原文](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
 
-## AO3 is finally out of beta after 17 years
-AO3（同人作品档案馆）正式结束测试阶段，迎来17周年。该非营利组织宣布，自2009年上线以来，平台持续升级，现已全面开放。
+## Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra
+4月4日起，Anthropic禁止Claude订阅用户通过OpenClaw等第三方工具调用API，需单独付费。
 
-[阅读原文](https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)
 
-## PSA: Anyone with a link can view your Granola notes by default
-Granola笔记应用虽称“默认私密”，但笔记可被链接访问，且默认用于AI训练，需手动退出。
+## NASA did eventually solve Artemis II&#8217;s Outlook glitch
+阿耳忒弥斯二号任务中，指令长维斯曼在绕月途中遭遇微软Outlook故障，向地面控制中心报告该问题，引发网友共鸣。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)
+[阅读原文](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)
 
-## Reddit is moving on from r/all
-Reddit将停用“r/all”热门聚合版块，以简化平台并优化首页个性化推荐，用户可继续使用“r/popular”查看趋势内容。
+## OpenAI’s AGI boss is taking a leave of absence
+OpenAI高管再变动：AGI部署负责人Fidji Simo因健康原因将休数周医疗假。
 
-[阅读原文](https://www.theverge.com/tech/906314/reddit-r-all-deprecating)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)
 
-## $20 Chewy Promo Code | April 2026
-Chewy推出2026年4月优惠：首单满$49减$20、宠物食品五折、最高减$30等多类折扣码。
+## Maytag Promo Codes and Deals: Appliances Under $300
+五月玛泰格推出经验证折扣码、军人优惠及限时清仓价，洗衣机、干衣机等家电低价促销。
 
-[阅读原文](https://www.wired.com/story/chewy-promo-code/)
+[阅读原文](https://www.wired.com/story/maytag-promo-code/)
 
-## 50% Off Home Depot Promo Codes | April 2026
-家得宝4月促销：家电、电动工具等最高享5折优惠。
+## Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk
+多家AI实验室正调查影响数据供应商Mercor的安全事件，该事件或致AI模型训练关键数据泄露。
 
-[阅读原文](https://www.wired.com/story/home-depot-promo-code/)
+[阅读原文](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
 
-## 50% Off DoorDash Promo Code | April 2026
-DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
+## Scientists Have Made a French Fry Breakthrough
+科学家研发新法制作薯条，更健康且保持酥脆口感。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/)
 
-## Google releases Gemma 4 models.
-谷歌发布Gemma 4款新模型，涵盖不同参数规模，面向开发者免费开放，支持多语言与推理优化。
+## Elon Musk Requires Banks Behind SpaceX IPO To Buy Grok Subscriptions, Report Says
+马斯克要求参与SpaceX IPO的银行购买Grok订阅服务，引发市场对其商业策略与AI推广方式的关注。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sbxms5/elon_musk_requires_banks_behind_spacex_ipo_to_buy/)
 
-## Google has published its new open-weight model Gemma 4. And made it commercially available under Apache 2.0 License
-谷歌发布开源大模型Gemma 4，采用Apache 2.0许可证，支持商用，已上线Hugging Face和Ollama平台。
+## NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
+英国NHS员工抵制Palantir软件，主要担忧伦理问题、隐私风险及实际效用不足。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sann00/google_has_published_its_new_openweight_model/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/)
 
-## I built a Star Trek LCARS terminal that reads your entire AI coding setup
-开发者用单HTML文件打造《星际迷航》LCARS风格Claude代码仪表盘，支持实时语音交互、音效及Q博士彩蛋，零依赖。
+## MIT study challenges AI job apocalypse narrative
+MIT新研究挑战“AI导致大规模失业”叙事，指出AI对就业影响更趋中性，或提升生产力而非取代岗位。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sat7og/i_built_a_star_trek_lcars_terminal_that_reads/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)
 

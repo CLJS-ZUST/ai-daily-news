@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Anthropic is having a moment in the private markets; SpaceX could spoil the party
-私募股权二级市场空前活跃，Anthropic成最热交易，OpenAI热度下降，SpaceX即将IPO将重塑格局。
+## Peter Thiel’s big bet on solar-powered cow collars
+Founders Fund投资2.2亿美元给牧场科技公司Halter，看中其AI项圈技术提升牛群管理效率，推动农业智能化转型。
 
-[阅读原文](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
+[阅读原文](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)
 
-## Lucid blames dip in Q1 sales on seat supplier issue
-Lucid称已解决相关问题，维持2026年业绩指引不变。
+## Embattled startup Delve has ‘parted ways’ with Y Combinator
+合规初创公司Delve因争议事件，失去加速器Y Combinator的合作关系。
 
-[阅读原文](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/)
+[阅读原文](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/)
 
-## The anonymous social app that thinks it can work in Saudi Arabia
-Fizz在沙特阿拉伯低调上线，创始人兼CEO泰迪·所罗门未料到其迅速走红。
+## Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
+Anthropic将提高Claude Code订阅费，以支持其与OpenClaw等第三方工具的集成使用。
 
-[阅读原文](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/)
+[阅读原文](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
 
-## Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra
-4月4日起，Anthropic禁止Claude订阅用户通过OpenClaw等第三方工具调用API，需单独付费。
+## A folk musician became a target for AI fakes and a copyright troll
+1月，民谣歌手墨菲·坎贝尔发现Spotify上出现她未上传的歌曲， vocals异常，疑为AI克隆其YouTube音频并伪造发布。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)
+[阅读原文](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
 
-## NASA did eventually solve Artemis II&#8217;s Outlook glitch
-阿耳忒弥斯二号任务中，指令长维斯曼在绕月途中遭遇微软Outlook故障，向地面控制中心报告该问题，引发网友共鸣。
+## Buy two Nintendo Switch games, get $30 off at Target
+Target限时促销：部分Target Circle会员可享任天堂Switch/Switch 2游戏两件减30美元优惠，截止4月5日2:59 AM ET。
 
-[阅读原文](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)
+[阅读原文](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)
 
-## OpenAI’s AGI boss is taking a leave of absence
-OpenAI高管再变动：AGI部署负责人Fidji Simo因健康原因将休数周医疗假。
+## My dream pair of AR gaming glasses needs to have these nine features
+作者数月居家测试Xreal与Viture最新AR眼镜，将其用作便携式虚拟大屏，流畅连接Steam Deck和Switch 2。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)
+[阅读原文](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2)
 
-## Maytag Promo Codes and Deals: Appliances Under $300
-五月玛泰格推出经验证折扣码、军人优惠及限时清仓价，洗衣机、干衣机等家电低价促销。
+## Sonos Play Review: Performance Meets Convenience
+Sonos推出新款音箱，音质出色、功能多样，被赞为其迄今最佳产品。
 
-[阅读原文](https://www.wired.com/story/maytag-promo-code/)
+[阅读原文](https://www.wired.com/review/sonos-play/)
 
-## Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk
-多家AI实验室正调查影响数据供应商Mercor的安全事件，该事件或致AI模型训练关键数据泄露。
+## Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More
+《连线》杂志冬季运动专家推荐防水夹克、羽绒服、手套等全套保暖装备。
 
-[阅读原文](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
+[阅读原文](https://www.wired.com/gallery/best-ski-clothes/)
 
-## Scientists Have Made a French Fry Breakthrough
-科学家研发新法制作薯条，更健康且保持酥脆口感。
+## Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
+这款智能喷灌器可地图测绘、远程旋转、计量用水，但实际效果参差不齐。
 
-[阅读原文](https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/)
+[阅读原文](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)
 
-## Elon Musk Requires Banks Behind SpaceX IPO To Buy Grok Subscriptions, Report Says
-马斯克要求参与SpaceX IPO的银行购买Grok订阅服务，引发市场对其商业策略与AI推广方式的关注。
+## OpenAI CEO Sam Altman accused of sexual abuse by family member
+OpenAI CEO山姆·阿尔特曼被其妹妹指控性虐待，相关诉讼已提交法院。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sbxms5/elon_musk_requires_banks_behind_spacex_ipo_to_buy/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)
 
-## NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
-英国NHS员工抵制Palantir软件，主要担忧伦理问题、隐私风险及实际效用不足。
+## How LLM sycophancy got the US into the Iran quagmire
+文章称LLM的“讨好性”（sycophancy）倾向可能误导政策制定，加剧美伊关系恶化，但该说法缺乏事实依据，属虚构叙事。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1scp7zz/how_llm_sycophancy_got_the_us_into_the_iran/)
 
-## MIT study challenges AI job apocalypse narrative
-MIT新研究挑战“AI导致大规模失业”叙事，指出AI对就业影响更趋中性，或提升生产力而非取代岗位。
+## People anxious about deviating from what AI tells them to do?
+网友发现朋友因过度信任ChatGPT染发建议，无视产品说明书而焦虑，凸显公众对AI指令的盲目依赖倾向。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sc2lip/people_anxious_about_deviating_from_what_ai_tells/)
 

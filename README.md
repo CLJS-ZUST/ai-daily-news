@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Peter Thiel’s big bet on solar-powered cow collars
-Founders Fund投资2.2亿美元给牧场科技公司Halter，看中其AI项圈技术提升牛群管理效率，推动农业智能化转型。
+## The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun
+小米17 Ultra提供丰富影像玩法，支持预设滤镜及硬件配件拓展拍摄体验。
 
-[阅读原文](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)
+[阅读原文](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/)
 
-## Embattled startup Delve has ‘parted ways’ with Y Combinator
-合规初创公司Delve因争议事件，失去加速器Y Combinator的合作关系。
+## Polymarket took down wagers tied to rescue of downed Air Force officer
+美民主党议员批评Polymarket平台允许就美军飞行员在伊朗被击落后的营救日期开设赌盘，称此举不妥。
 
-[阅读原文](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/)
+[阅读原文](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
 
-## Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage
-Anthropic将提高Claude Code订阅费，以支持其与OpenClaw等第三方工具的集成使用。
+## Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
+AI公司自身在服务条款中警示用户：勿盲目信任模型输出，需自行核实信息准确性。
 
-[阅读原文](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)
+[阅读原文](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
 
-## A folk musician became a target for AI fakes and a copyright troll
-1月，民谣歌手墨菲·坎贝尔发现Spotify上出现她未上传的歌曲， vocals异常，疑为AI克隆其YouTube音频并伪造发布。
+## Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite
+南非乐队Los Thuthanaka凭首张同名专辑“空降”Pitchfork年度专辑榜首，因未上流媒体平台而此前鲜为人知。
 
-[阅读原文](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
+[阅读原文](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
 
-## Buy two Nintendo Switch games, get $30 off at Target
-Target限时促销：部分Target Circle会员可享任天堂Switch/Switch 2游戏两件减30美元优惠，截止4月5日2:59 AM ET。
+## Suno is a music copyright nightmare
+Suno平台禁止使用版权内容，支持用户上传原创音频或歌词生成AI音乐，但其版权识别系统存在漏洞。
 
-[阅读原文](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
 
-## My dream pair of AR gaming glasses needs to have these nine features
-作者数月居家测试Xreal与Viture最新AR眼镜，将其用作便携式虚拟大屏，流畅连接Steam Deck和Switch 2。
+## I let Gemini in Google Maps plan my day and it went surprisingly well
+谷歌Gemini已集成至Maps，虽在Gmail中常显突兀，但在Maps中表现亮眼，实用性获赞。
 
-[阅读原文](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2)
+[阅读原文](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)
 
-## Sonos Play Review: Performance Meets Convenience
-Sonos推出新款音箱，音质出色、功能多样，被赞为其迄今最佳产品。
+## Best Apple Watch Bands of 2026: Nike, Hermés, and More
+自2015年首款Apple Watch发布以来，作者持续测试各类表带，涵盖硅胶运动款与皮革款等，精选适配各场景的优质选择。
 
-[阅读原文](https://www.wired.com/review/sonos-play/)
+[阅读原文](https://www.wired.com/story/best-apple-watch-bands/)
 
-## Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More
-《连线》杂志冬季运动专家推荐防水夹克、羽绒服、手套等全套保暖装备。
+## Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin
+某公司推“热比特”设备，声称用比特币挖矿抵消高昂电费，但实际收益无法覆盖成本。
 
-[阅读原文](https://www.wired.com/gallery/best-ski-clothes/)
+[阅读原文](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)
 
-## Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
-这款智能喷灌器可地图测绘、远程旋转、计量用水，但实际效果参差不齐。
+## 3 Best Robot Lawn Mowers (2026), Tested and Reviewed
+智能割草机价格昂贵，但性能已足够可靠，适合想轻松享受庭院护理的用户。
 
-[阅读原文](https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/)
+[阅读原文](https://www.wired.com/gallery/best-robot-lawn-mowers/)
 
-## OpenAI CEO Sam Altman accused of sexual abuse by family member
-OpenAI CEO山姆·阿尔特曼被其妹妹指控性虐待，相关诉讼已提交法院。
+## I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.
+程序员反思：过度依赖AI调试导致自主问题分析与假设生成能力退化，类比GPS削弱空间导航能力。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/)
 
-## How LLM sycophancy got the US into the Iran quagmire
-文章称LLM的“讨好性”（sycophancy）倾向可能误导政策制定，加剧美伊关系恶化，但该说法缺乏事实依据，属虚构叙事。
+## You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like
+科技界正快速构建AI代理专用基础设施，涵盖邮箱、电话、浏览器、记忆、支付等人类员工常用能力，形成“代理原生”技术栈。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1scp7zz/how_llm_sycophancy_got_the_us_into_the_iran/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/)
 
-## People anxious about deviating from what AI tells them to do?
-网友发现朋友因过度信任ChatGPT染发建议，无视产品说明书而焦虑，凸显公众对AI指令的盲目依赖倾向。
+## McKinsey's AI Lie Explains What's Happening to Work
+麦肯锡被曝未真建2.5万AI专家，而是将旧数据库加自然语言界面包装成AI成果，沿袭其借技术焦虑推销服务的一贯套路。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sc2lip/people_anxious_about_deviating_from_what_ai_tells/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/)
 

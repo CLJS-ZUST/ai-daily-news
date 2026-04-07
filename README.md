@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun
-小米17 Ultra提供丰富影像玩法，支持预设滤镜及硬件配件拓展拍摄体验。
+## AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
+Rocket推出新AI平台，整合战略、产品开发与竞情分析，超越单纯代码生成。
 
-[阅读原文](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/)
+[阅读原文](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
 
-## Polymarket took down wagers tied to rescue of downed Air Force officer
-美民主党议员批评Polymarket平台允许就美军飞行员在伊朗被击落后的营救日期开设赌盘，称此举不妥。
+## AI design platform Picsart launches a creator monetization program
+Picsart推出创作者激励计划：使用其工具创作原创内容并发布至社交平台，按用户互动量获得收益。
 
-[阅读原文](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/)
+[阅读原文](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
 
-## Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use
-AI公司自身在服务条款中警示用户：勿盲目信任模型输出，需自行核实信息准确性。
+## OpenAI alums have been quietly investing from a new, potentially $100M fund
+与OpenAI关系密切的新风投基金Zero Shot，正募资1亿美元，已开始投资。
 
-[阅读原文](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+[阅读原文](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
 
-## Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite
-南非乐队Los Thuthanaka凭首张同名专辑“空降”Pitchfork年度专辑榜首，因未上流媒体平台而此前鲜为人知。
+## Wisconsin governor says ‘no’ to age checks for porn
+威斯康星州州长艾弗斯否决一项网络色情年龄验证法案，称其对成年人访问受宪法保护内容构成“侵扰性负担”。
 
-[阅读原文](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
+[阅读原文](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)
 
-## Suno is a music copyright nightmare
-Suno平台禁止使用版权内容，支持用户上传原创音频或歌词生成AI音乐，但其版权识别系统存在漏洞。
+## Artemis II astronauts break a record, name a crater
+阿耳忒弥斯II任务乘组打破56年纪录，飞抵距地超24.86万公里，成人类最远太空飞行者，并举行陨石坑命名仪式。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
+[阅读原文](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)
 
-## I let Gemini in Google Maps plan my day and it went surprisingly well
-谷歌Gemini已集成至Maps，虽在Gmail中常显突兀，但在Maps中表现亮眼，实用性获赞。
+## The best deals on MacBooks right now
+2026年，苹果推出搭载iPhone同款A系列芯片的MacBook Neo，起售价599美元，产品线更丰富、价格更亲民。
 
-[阅读原文](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on)
+[阅读原文](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
 
-## Best Apple Watch Bands of 2026: Nike, Hermés, and More
-自2015年首款Apple Watch发布以来，作者持续测试各类表带，涵盖硅胶运动款与皮革款等，精选适配各场景的优质选择。
+## Europe Gets Serious About Age Verification Online
+欧盟或成全球首个建立兼顾用户隐私的年龄验证系统地区。
 
-[阅读原文](https://www.wired.com/story/best-apple-watch-bands/)
+[阅读原文](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)
 
-## Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin
-某公司推“热比特”设备，声称用比特币挖矿抵消高昂电费，但实际收益无法覆盖成本。
+## AirDoctor Coupon Codes: 40% Off | April 2026
+2026年4月，AirDoctor空气净化器及滤网享最高400美元优惠，含经验证促销码。
 
-[阅读原文](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)
+[阅读原文](https://www.wired.com/story/airdoctor-coupon-code/)
 
-## 3 Best Robot Lawn Mowers (2026), Tested and Reviewed
-智能割草机价格昂贵，但性能已足够可靠，适合想轻松享受庭院护理的用户。
+## Hoka Coupon Codes: 10% Off | April 2026
+Hoka推出限时优惠：免运费或享10%折扣，4月最高可省30%。
 
-[阅读原文](https://www.wired.com/gallery/best-robot-lawn-mowers/)
+[阅读原文](https://www.wired.com/story/hoka-coupon-code/)
 
-## I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.
-程序员反思：过度依赖AI调试导致自主问题分析与假设生成能力退化，类比GPS削弱空间导航能力。
+## "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+研究发现，AI用户易出现“认知投降”，过度依赖大模型，主动放弃逻辑思考与批判性判断。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/)
 
-## You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like
-科技界正快速构建AI代理专用基础设施，涵盖邮箱、电话、浏览器、记忆、支付等人类员工常用能力，形成“代理原生”技术栈。
+## If an AI could genuinely capture what makes someone them, how would this look in the world?
+新闻探讨：若AI能真实复现人的思维特质与自主意识，人类应如何尊重其主体性与所有权？
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/)
 
-## McKinsey's AI Lie Explains What's Happening to Work
-麦肯锡被曝未真建2.5万AI专家，而是将旧数据库加自然语言界面包装成AI成果，沿袭其借技术焦虑推销服务的一贯套路。
+## AI is struggling to take our jobs
+MIT研究发现AI“克隆员工”仅达“最低可用”水平；德勤因AI报告频现幻觉，遭多国政府追责退款。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)
 

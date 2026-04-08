@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
-Rocket推出新AI平台，整合战略、产品开发与竞情分析，超越单纯代码生成。
+## Google quietly launched an AI dictation app that works offline
+谷歌推离线优先语音转文字App，采用Gemma AI模型，挑战Wispr Flow等竞品。
 
-[阅读原文](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
+[阅读原文](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
 
-## AI design platform Picsart launches a creator monetization program
-Picsart推出创作者激励计划：使用其工具创作原创内容并发布至社交平台，按用户互动量获得收益。
+## I can’t help rooting for tiny open source AI model maker Arcee
+美国26人初创公司Arcee推出高性能开源大模型，正受OpenClaw用户热捧。
 
-[阅读原文](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
+[阅读原文](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
 
-## OpenAI alums have been quietly investing from a new, potentially $100M fund
-与OpenAI关系密切的新风投基金Zero Shot，正募资1亿美元，已开始投资。
+## VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups
+Eclipse将部分资金用于孵化或创建初创企业。
 
-[阅读原文](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
+[阅读原文](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
 
-## Wisconsin governor says ‘no’ to age checks for porn
-威斯康星州州长艾弗斯否决一项网络色情年龄验证法案，称其对成年人访问受宪法保护内容构成“侵扰性负担”。
+## Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today
+Nothing旗下CMF Buds 2A真无线耳机现促销，售价不足20美元，支持主动降噪、通透模式及App控制，限时抢购中。
 
-[阅读原文](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)
+[阅读原文](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)
 
-## Artemis II astronauts break a record, name a crater
-阿耳忒弥斯II任务乘组打破56年纪录，飞抵距地超24.86万公里，成人类最远太空飞行者，并举行陨石坑命名仪式。
+## Amazon is ending support for older Kindles and Kindle Fires
+亚马逊宣布，2026年5月20日起，2012年及更早发布的Kindle设备将无法在Kindle商店购、借或下载新内容，但可继续阅读已下载书籍。
 
-[阅读原文](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)
+[阅读原文](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)
 
-## The best deals on MacBooks right now
-2026年，苹果推出搭载iPhone同款A系列芯片的MacBook Neo，起售价599美元，产品线更丰富、价格更亲民。
+## Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
+Spotify将“Prompted Playlists”功能扩展至播客，Premium用户可通过文字提示生成个性化播客推荐。
 
-[阅读原文](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+[阅读原文](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts)
 
-## Europe Gets Serious About Age Verification Online
-欧盟或成全球首个建立兼顾用户隐私的年龄验证系统地区。
+## The iPhone Gets a D– for Repairability
+三星手机维修性评分为D，虽略好于以往，但仍为倒数第二差。
 
-[阅读原文](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)
+[阅读原文](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
 
-## AirDoctor Coupon Codes: 40% Off | April 2026
-2026年4月，AirDoctor空气净化器及滤网享最高400美元优惠，含经验证促销码。
+## Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure
+特朗普威胁打击伊朗基础设施，美政府则警告伊朗已对美关键基础设施发动网络攻击。
 
-[阅读原文](https://www.wired.com/story/airdoctor-coupon-code/)
+[阅读原文](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
 
-## Hoka Coupon Codes: 10% Off | April 2026
-Hoka推出限时优惠：免运费或享10%折扣，4月最高可省30%。
+## Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything
+苹果、谷歌等45+机构联合启动Project Glasswing，利用Claude Mythos预览版模型测试AI网络安全能力。
 
-[阅读原文](https://www.wired.com/story/hoka-coupon-code/)
+[阅读原文](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
 
-## "Cognitive surrender" leads AI users to abandon logical thinking, research finds
-研究发现，AI用户易出现“认知投降”，过度依赖大模型，主动放弃逻辑思考与批判性判断。
+## The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors
+AI讨论过于狭隘，需超越个人使用层面，关注权力集中、社会公平与民主参与，平衡技术利弊，扩大公众话语权。（60字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/)
 
-## If an AI could genuinely capture what makes someone them, how would this look in the world?
-新闻探讨：若AI能真实复现人的思维特质与自主意识，人类应如何尊重其主体性与所有权？
+## Data Centers Are Military Targets Now
+报道称，人工智能数据中心正成为军事打击目标，伊朗战争中已出现相关威胁，凸显其战略重要性与安全风险。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/)
 
-## AI is struggling to take our jobs
-MIT研究发现AI“克隆员工”仅达“最低可用”水平；德勤因AI报告频现幻觉，遭多国政府追责退款。
+## Right to compute laws are a Trojan horse
+有观点批评“计算权”立法是“特洛伊木马”，恐将计算从个人自由/财产权领域转为受管制特权。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Google quietly launched an AI dictation app that works offline
-谷歌推离线优先语音转文字App，采用Gemma AI模型，挑战Wispr Flow等竞品。
+## WireGuard VPN developer can’t ship software updates after Microsoft locks account
+知名开源VPN厂商称微软未经通知封禁其账户，致无法向用户推送软件更新，成第二起类似事件。
 
-[阅读原文](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+[阅读原文](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
 
-## I can’t help rooting for tiny open source AI model maker Arcee
-美国26人初创公司Arcee推出高性能开源大模型，正受OpenClaw用户热捧。
+## A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage
+奥斯汀附近一辆Avride自动驾驶车碾压鸭子，目击者称其未减速，引发社区强烈批评。
 
-[阅读原文](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
+[阅读原文](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/)
 
-## VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups
-Eclipse将部分资金用于孵化或创建初创企业。
+## Poke makes using AI agents as easy as sending a text
+Poke推出短信AI代理服务，用户无需安装App或技术知识，即可通过短信完成任务与自动化操作。
 
-[阅读原文](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
+[阅读原文](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
 
-## Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today
-Nothing旗下CMF Buds 2A真无线耳机现促销，售价不足20美元，支持主动降噪、通透模式及App控制，限时抢购中。
+## Gemini gets notebooks to help you organize projects
+谷歌为Gemini推出“笔记本”功能，支持整合文件、对话记录和自定义指令，作为AI聊天时的上下文参考。
 
-[阅读原文](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)
+[阅读原文](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm)
 
-## Amazon is ending support for older Kindles and Kindle Fires
-亚马逊宣布，2026年5月20日起，2012年及更早发布的Kindle设备将无法在Kindle商店购、借或下载新内容，但可继续阅读已下载书籍。
+## Dyson made a handheld version of its iconic fans
+戴森推出手持式个人冷风机HushJet Mini Cool，延续无叶Air Multiplier技术，是其17年来首款迷你化便携冷却产品。
 
-[阅读原文](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older)
+[阅读原文](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability)
 
-## Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-Spotify将“Prompted Playlists”功能扩展至播客，Premium用户可通过文字提示生成个性化播客推荐。
+## OpenAI made economic proposals — here’s what DC thinks of them
+该新闻为《The Verge》科技监管专栏“Regulator”的订阅推广，内容与科技政策或监管无关，属营销文案。
 
-[阅读原文](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts)
+[阅读原文](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them)
 
-## The iPhone Gets a D– for Repairability
-三星手机维修性评分为D，虽略好于以往，但仍为倒数第二差。
+## Google Workspace Promo Code: Up to 14% Off in 2026
+WIRED推出Google Workspace专属优惠券，最高享14%折扣，覆盖Starter、Standard、Plus三档套餐，限时三个月。
 
-[阅读原文](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
+[阅读原文](https://www.wired.com/story/google-workspace-promo-code/)
 
-## Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure
-特朗普威胁打击伊朗基础设施，美政府则警告伊朗已对美关键基础设施发动网络攻击。
+## 20% Off LG Promo Code & Coupons | April 2026
+LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器打六折。
 
-[阅读原文](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/)
+[阅读原文](https://www.wired.com/story/lg-promo-code/)
 
-## Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything
-苹果、谷歌等45+机构联合启动Project Glasswing，利用Claude Mythos预览版模型测试AI网络安全能力。
+## NZXT Discount Codes: 50% Off in April 2026
+NZXT推出促销活动，享50%折扣及最高250美元优惠。
 
-[阅读原文](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
+[阅读原文](https://www.wired.com/story/nzxt-discount-code/)
 
-## The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors
-AI讨论过于狭隘，需超越个人使用层面，关注权力集中、社会公平与民主参与，平衡技术利弊，扩大公众话语权。（60字）
+## this is how an AI generated cow looked 12 years ago
+12年前AI生成的牛图像粗糙，如今已高度逼真，展现AI图像生成技术飞跃进步。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/)
 
-## Data Centers Are Military Targets Now
-报道称，人工智能数据中心正成为军事打击目标，伊朗战争中已出现相关威胁，凸显其战略重要性与安全风险。
+## OpenAI said ads were a "last resort." Then crossed $100M in 6 weeks.
+OpenAI广告收入破1亿美元，虽产品仍在测试期、广告覆盖率低，但用户深度对话带来独特广告价值；信任与商业化平衡成关键挑战。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/)
 
-## Right to compute laws are a Trojan horse
-有观点批评“计算权”立法是“特洛伊木马”，恐将计算从个人自由/财产权领域转为受管制特权。
+## Project Glasswing is inherently Cartel Behaviour
+大型科技公司优先获取最新AI模型（如Glasswing）用于网络安全，可能加剧市场垄断，阻碍新竞争者入场。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/)
 

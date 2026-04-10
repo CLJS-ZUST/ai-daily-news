@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## WireGuard VPN developer can’t ship software updates after Microsoft locks account
-知名开源VPN厂商称微软未经通知封禁其账户，致无法向用户推送软件更新，成第二起类似事件。
+## Florida AG to probe OpenAI, alleging possible connection to FSU shooting
+佛州总检察长拟调查OpenAI，称其或危害未成年人、威胁国家安全，并涉嫌关联去年佛州州立大学枪击案。
 
-[阅读原文](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
+[阅读原文](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
 
-## A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage
-奥斯汀附近一辆Avride自动驾驶车碾压鸭子，目击者称其未减速，引发社区强烈批评。
+## ChatGPT finally offers $100/month Pro plan
+OpenAI推出100美元/月新订阅计划，填补20美元与200美元档位间的空白，回应高级用户需求。
 
-[阅读原文](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/)
+[阅读原文](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
 
-## Poke makes using AI agents as easy as sending a text
-Poke推出短信AI代理服务，用户无需安装App或技术知识，即可通过短信完成任务与自动化操作。
+## EFF is the latest organization to leave X
+多家新闻机构因X平台流量价值下降而陆续退出，电子前沿基金会（EFF）也宣布停止在X上发布内容。
 
-[阅读原文](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
+[阅读原文](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
 
-## Gemini gets notebooks to help you organize projects
-谷歌为Gemini推出“笔记本”功能，支持整合文件、对话记录和自定义指令，作为AI聊天时的上下文参考。
+## ChatGPT has a new $100 per month Pro subscription
+OpenAI推出100美元/月的ChatGPT Pro订阅，Codex使用量为Plus版的5倍，专为长时间、高负荷编程任务设计。
 
-[阅读原文](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
 
-## Dyson made a handheld version of its iconic fans
-戴森推出手持式个人冷风机HushJet Mini Cool，延续无叶Air Multiplier技术，是其17年来首款迷你化便携冷却产品。
+## Here are the best Apple Watch deals available right now
+9月苹果发布新款智能手表，包括Series 11、SE 3和Ultra 3，产品线空前丰富，型号数量达历史之最。
 
-[阅读原文](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability)
+[阅读原文](https://www.theverge.com/21289209/best-apple-watch-deals)
 
-## OpenAI made economic proposals — here’s what DC thinks of them
-该新闻为《The Verge》科技监管专栏“Regulator”的订阅推广，内容与科技政策或监管无关，属营销文案。
+## Florida launches investigation into OpenAI
+佛州总检察长乌特迈尔启动对OpenAI的调查，担忧其数据与技术或被中国共产党等美国对手获取，威胁公共安全与国家安全。
 
-[阅读原文](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them)
+[阅读原文](https://www.theverge.com/policy/909557/openai-florida-investigation)
 
-## Google Workspace Promo Code: Up to 14% Off in 2026
-WIRED推出Google Workspace专属优惠券，最高享14%折扣，覆盖Starter、Standard、Plus三档套餐，限时三个月。
+## Surfshark Promo Codes: 87% Off | April 2026
+WIRED推出Surfshark优惠：最高省87%，赠3个月免费VPN服务。
 
-[阅读原文](https://www.wired.com/story/google-workspace-promo-code/)
+[阅读原文](https://www.wired.com/story/surfshark-coupon/)
 
-## 20% Off LG Promo Code & Coupons | April 2026
-LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器打六折。
+## Naturepedic Promo Codes and Deals: 20% Off
+Naturepedic四月促销活动开启，主打有机环保婴儿及成人床品。
 
-[阅读原文](https://www.wired.com/story/lg-promo-code/)
+[阅读原文](https://www.wired.com/story/naturepedic-promo-code/)
 
-## NZXT Discount Codes: 50% Off in April 2026
-NZXT推出促销活动，享50%折扣及最高250美元优惠。
+## 20% Off Sephora Promo Code | April 2026
+丝芙兰推出护肤购物优惠券，可赚取更多积分。
 
-[阅读原文](https://www.wired.com/story/nzxt-discount-code/)
+[阅读原文](https://www.wired.com/story/sephora-promo-code/)
 
-## this is how an AI generated cow looked 12 years ago
-12年前AI生成的牛图像粗糙，如今已高度逼真，展现AI图像生成技术飞跃进步。
+## White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates
+80%白领员工拒绝强制AI采用，悄然抵制技术强制推行，引发职场“安静反抗”潮。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/)
 
-## OpenAI said ads were a "last resort." Then crossed $100M in 6 weeks.
-OpenAI广告收入破1亿美元，虽产品仍在测试期、广告覆盖率低，但用户深度对话带来独特广告价值；信任与商业化平衡成关键挑战。
+## Anyone compared Gemma 4 31B
+网友热议Gemma 4 31B模型，虽仅310亿参数（远小于Sonnet等大模型），却在编程和日常任务中表现优异。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/)
 
-## Project Glasswing is inherently Cartel Behaviour
-大型科技公司优先获取最新AI模型（如Glasswing）用于网络安全，可能加剧市场垄断，阻碍新竞争者入场。
+## OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters
+OpenAI支持一项法案，旨在限制AI公司对AI引发的重大伤亡或金融灾难的法律责任。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/)
 

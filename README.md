@@ -1,62 +1,47 @@
 # AI科技新闻日报
 
-## Florida AG to probe OpenAI, alleging possible connection to FSU shooting
-佛州总检察长拟调查OpenAI，称其或危害未成年人、威胁国家安全，并涉嫌关联去年佛州州立大学枪击案。
+## NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission
+“诚信号”飞船于太平洋时间17时07分后在加州圣迭戈附近海域成功溅落。
 
-[阅读原文](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
+[阅读原文](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)
 
-## ChatGPT finally offers $100/month Pro plan
-OpenAI推出100美元/月新订阅计划，填补20美元与200美元档位间的空白，回应高级用户需求。
+## How to watch NASA’s Artemis II splash back down to Earth
+NASA“阿耳忒弥斯2号”创人类航天器最远飞行纪录，任务结束时将溅落太平洋，公众可观看返回直播。
 
-[阅读原文](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
+[阅读原文](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
 
-## EFF is the latest organization to leave X
-多家新闻机构因X平台流量价值下降而陆续退出，电子前沿基金会（EFF）也宣布停止在X上发布内容。
+## Anthropic temporarily banned OpenClaw’s creator from accessing Claude
+因Claude对OpenClaw用户调价，相关禁令随即生效。
 
-[阅读原文](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/)
+[阅读原文](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
 
-## ChatGPT has a new $100 per month Pro subscription
-OpenAI推出100美元/月的ChatGPT Pro订阅，Codex使用量为Plus版的5倍，专为长时间、高负荷编程任务设计。
+## Now the FAA says gamers are the answer to its air traffic controller shortage
+美国 FAA 长期面临空管人员短缺，十年间人数减少约6%，特朗普政府正推进相关应对措施。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
+[阅读原文](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
 
-## Here are the best Apple Watch deals available right now
-9月苹果发布新款智能手表，包括Series 11、SE 3和Ultra 3，产品线空前丰富，型号数量达历史之最。
+## 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house
+旧金山警方逮捕一名20岁男子，涉嫌清晨向OpenAI CEO奥特曼住宅投掷燃烧瓶，事件被监控拍下。
 
-[阅读原文](https://www.theverge.com/21289209/best-apple-watch-deals)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
 
-## Florida launches investigation into OpenAI
-佛州总检察长乌特迈尔启动对OpenAI的调查，担忧其数据与技术或被中国共产党等美国对手获取，威胁公共安全与国家安全。
+## How to watch the Artemis II astronauts return to Earth
+阿耳忒弥斯二号任务中，猎户座飞船载四名宇航员完成9天飞行，创人类离地球最远纪录，后高速再入大气层返回。
 
-[阅读原文](https://www.theverge.com/policy/909557/openai-florida-investigation)
+[阅读原文](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
 
-## Surfshark Promo Codes: 87% Off | April 2026
-WIRED推出Surfshark优惠：最高省87%，赠3个月免费VPN服务。
+## Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon
+阿耳忒弥斯II号宇航员完成人类最远绕月飞行任务，安全返回地球。
 
-[阅读原文](https://www.wired.com/story/surfshark-coupon/)
+[阅读原文](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)
 
-## Naturepedic Promo Codes and Deals: 20% Off
-Naturepedic四月促销活动开启，主打有机环保婴儿及成人床品。
+## Home Depot Spring Black Friday (2026): Best Tool and Grill Deals
+家得宝春季促销：热销烤架打折，Ryobi、DeWalt、Milwaukee工具买一送一。
 
-[阅读原文](https://www.wired.com/story/naturepedic-promo-code/)
+[阅读原文](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
 
-## 20% Off Sephora Promo Code | April 2026
-丝芙兰推出护肤购物优惠券，可赚取更多积分。
+## Motorola’s Souped-Up Folding Phone Is Almost Half Off
+亚马逊限时直降600美元促销Razr Ultra折叠屏手机。
 
-[阅读原文](https://www.wired.com/story/sephora-promo-code/)
-
-## White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates
-80%白领员工拒绝强制AI采用，悄然抵制技术强制推行，引发职场“安静反抗”潮。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/)
-
-## Anyone compared Gemma 4 31B
-网友热议Gemma 4 31B模型，虽仅310亿参数（远小于Sonnet等大模型），却在编程和日常任务中表现优异。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/)
-
-## OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters
-OpenAI支持一项法案，旨在限制AI公司对AI引发的重大伤亡或金融灾难的法律责任。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/)
+[阅读原文](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
 

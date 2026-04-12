@@ -1,47 +1,62 @@
 # AI科技新闻日报
 
-## NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission
-“诚信号”飞船于太平洋时间17时07分后在加州圣迭戈附近海域成功溅落。
+## Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups
+Flipkart加速下沉市场扩张与大力折扣，加剧印度快消电商初创企业经营风险。
 
-[阅读原文](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)
+[阅读原文](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 
-## How to watch NASA’s Artemis II splash back down to Earth
-NASA“阿耳忒弥斯2号”创人类航天器最远飞行纪录，任务结束时将溅落太平洋，公众可观看返回直播。
+## Kalshi wins temporary pause in Arizona criminal case
+美国商品期货交易委员会（CFTC）获法院禁令，阻止亚利桑那州对预测市场平台Kalshi提起刑事诉讼。
 
-[阅读原文](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/)
+[阅读原文](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
 
-## Anthropic temporarily banned OpenClaw’s creator from accessing Claude
-因Claude对OpenClaw用户调价，相关禁令随即生效。
+## AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok
+该新闻质疑某新平台以类似Quibi的方式造势，是聪明营销还是拙劣模仿，引发业界讨论。
 
-[阅读原文](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+[阅读原文](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
 
-## Now the FAA says gamers are the answer to its air traffic controller shortage
-美国 FAA 长期面临空管人员短缺，十年间人数减少约6%，特朗普政府正推进相关应对措施。
+## The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving
+荷兰监管机构RDW正式批准特斯拉FSD（监督式），成为欧盟首个授权该系统上路的国家，有望推动其在欧洲推广。
 
-[阅读原文](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage)
+[阅读原文](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
 
-## 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house
-旧金山警方逮捕一名20岁男子，涉嫌清晨向OpenAI CEO奥特曼住宅投掷燃烧瓶，事件被监控拍下。
+## Google says Polymarket bets showing up in News was an ‘error’
+谷歌移除Polymarket博彩赔率新闻，称其不符合新闻源政策，强调Google News仅收录报道时事的正规内容。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)
+[阅读原文](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)
 
-## How to watch the Artemis II astronauts return to Earth
-阿耳忒弥斯二号任务中，猎户座飞船载四名宇航员完成9天飞行，创人类离地球最远纪录，后高速再入大气层返回。
+## Pokémon Champions is off to a rough start
+《宝可梦冠军》首发遇严重Bug，影响基础战斗机制，登陆Switch/Switch 2，手机版年内推出。
 
-[阅读原文](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth)
+[阅读原文](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
 
-## Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon
-阿耳忒弥斯II号宇航员完成人类最远绕月飞行任务，安全返回地球。
+## ‘Crimson Desert’ Is a Cat Dad Simulator
+一款画风精美、玩法烧脑又令人欲罢不能的游戏，玩家将扮演“最强最乖男孩”展开冒险。
 
-[阅读原文](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)
+[阅读原文](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
 
-## Home Depot Spring Black Friday (2026): Best Tool and Grill Deals
-家得宝春季促销：热销烤架打折，Ryobi、DeWalt、Milwaukee工具买一送一。
+## Zuvi ColorBox Review: A Hair Dye Printer That Struggles
+一款号称可打印数百种发色的染发打印机，实际连两种颜色都难以准确呈现，性能严重不达标。
 
-[阅读原文](https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/)
+[阅读原文](https://www.wired.com/review/zuvi-colorbox/)
 
-## Motorola’s Souped-Up Folding Phone Is Almost Half Off
-亚马逊限时直降600美元促销Razr Ultra折叠屏手机。
+## MacBook Neo vs. MacBook Air: Which One Should You Buy?
+长期测试显示：MacBook Neo适合追求性能与扩展性的用户，MacBook Air则更适合便携与续航优先的用户。
 
-[阅读原文](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
+[阅读原文](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
+
+## Spent today at MIT's Open Agentic Web conference. Six things worth thinking about.
+AI代理发展正进入“DNS时代”，亟需身份、信誉、注册等基础设施；焦点转向智能体协作、协议设计与“智能交易”市场，而非单纯模型升级或替代人类。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/)
+
+## Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.
+AI对独立思考者的质疑并非原创，而是继承自学术体系中“先验证后认可”的制度偏见，导致其优先质疑来源而非内容本身。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/)
+
+## AMD's GAIA now allows building custom AI agents via chat, becomes "true desktop app"
+AMD推出GAIA新版本，支持通过聊天界面构建自定义AI代理，正式升级为“真正的桌面应用”。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/)
 

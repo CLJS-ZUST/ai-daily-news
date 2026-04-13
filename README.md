@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups
-Flipkart加速下沉市场扩张与大力折扣，加剧印度快消电商初创企业经营风险。
+## The largest orbital compute cluster is open for business
+Kepler公司将在地球轨道部署40颗GPU，最新客户为索菲亚太空公司。
 
-[阅读原文](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
+[阅读原文](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
 
-## Kalshi wins temporary pause in Arizona criminal case
-美国商品期货交易委员会（CFTC）获法院禁令，阻止亚利桑那州对预测市场平台Kalshi提起刑事诉讼。
+## Trump officials may be encouraging banks to test Anthropic’s Mythos model
+美国国防部刚将Anthropic列为供应链风险，此举与最新报告结论形成鲜明反差，引发外界惊讶。
 
-[阅读原文](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/)
+[阅读原文](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
 
-## AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok
-该新闻质疑某新平台以类似Quibi的方式造势，是聪明营销还是拙劣模仿，引发业界讨论。
+## Apple reportedly testing four designs for upcoming smart glasses
+苹果AR眼镜计划缩水，放弃原定多款混合/增强现实设备的雄心方案。
 
-[阅读原文](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/)
+[阅读原文](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
 
-## The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving
-荷兰监管机构RDW正式批准特斯拉FSD（监督式），成为欧盟首个授权该系统上路的国家，有望推动其在欧洲推广。
+## Room for the Moon is thrillingly weird experimental pop
+本文以登月主题切入，推荐布莱恩·伊诺经典专辑《Apollo：氛围与原声》，称其为绝妙的太空意境音乐。
 
-[阅读原文](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
+[阅读原文](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop)
 
-## Google says Polymarket bets showing up in News was an ‘error’
-谷歌移除Polymarket博彩赔率新闻，称其不符合新闻源政策，强调Google News仅收录报道时事的正规内容。
+## Rockstar Games says hack will have ‘no impact’
+Rockstar确认遭第三方服务商Anodot数据泄露，ShinyHunters组织入侵其Snowflake云实例并索要赎金。
 
-[阅读原文](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error)
+[阅读原文](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
 
-## Pokémon Champions is off to a rough start
-《宝可梦冠军》首发遇严重Bug，影响基础战斗机制，登陆Switch/Switch 2，手机版年内推出。
+## You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2
+任天堂推Switch 2限时优惠：5月9日前，499.99美元可购主机+《超级马里奥银河》双作（原价449.99美元）。
 
-[阅读原文](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers)
+[阅读原文](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
 
-## ‘Crimson Desert’ Is a Cat Dad Simulator
-一款画风精美、玩法烧脑又令人欲罢不能的游戏，玩家将扮演“最强最乖男孩”展开冒险。
+## ‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For
+AMC新剧《亿万少年》以黑色喜剧手法讽刺硅谷亿万富豪，揭露科技巨头失控乱象。
 
-[阅读原文](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
+[阅读原文](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
 
-## Zuvi ColorBox Review: A Hair Dye Printer That Struggles
-一款号称可打印数百种发色的染发打印机，实际连两种颜色都难以准确呈现，性能严重不达标。
+## Why Is It So Hard to Fix an Electric Bike? (2026)
+劣质电动自行车维修风险高，已致技师伤残；选购时务必认准可维修性及第三方认证。
 
-[阅读原文](https://www.wired.com/review/zuvi-colorbox/)
+[阅读原文](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)
 
-## MacBook Neo vs. MacBook Air: Which One Should You Buy?
-长期测试显示：MacBook Neo适合追求性能与扩展性的用户，MacBook Air则更适合便携与续航优先的用户。
+## Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad
+2-in-1设备兼具平板与笔记本功能，支持 detachable（可拆卸）或360°翻转屏幕设计，实现形态灵活切换。
 
-[阅读原文](https://www.wired.com/story/macbook-neo-vs-macbook-air/)
+[阅读原文](https://www.wired.com/story/best-2-in-1-laptops/)
 
-## Spent today at MIT's Open Agentic Web conference. Six things worth thinking about.
-AI代理发展正进入“DNS时代”，亟需身份、信誉、注册等基础设施；焦点转向智能体协作、协议设计与“智能交易”市场，而非单纯模型升级或替代人类。
+## NYC hospitals will stop sharing patients' private health data with Palantir
+纽约多家医院将停止向Palantir共享患者隐私健康数据，引发对数据安全与AI公司医疗合作边界的关注。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sjvbfw/nyc_hospitals_will_stop_sharing_patients_private/)
 
-## Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.
-AI对独立思考者的质疑并非原创，而是继承自学术体系中“先验证后认可”的制度偏见，导致其优先质疑来源而非内容本身。
+## Claude cannot be trusted to perform complex engineering tasks
+AMD分析发现Claude因Anthropic静默降级（减推理、改默认参数），致工程任务不可靠；警示AI厂商依赖风险，呼吁多模型策略。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/)
 
-## AMD's GAIA now allows building custom AI agents via chat, becomes "true desktop app"
-AMD推出GAIA新版本，支持通过聊天界面构建自定义AI代理，正式升级为“真正的桌面应用”。
+## We're Learning Backwards: LLMs build intelligence in reverse, and the Scaling Hypothesis is bounded
+Reddit用户发帖指出，当前LLM训练方式或存在根本性缺陷：模型通过海量数据“倒推”智能，而非像人类一样从基础概念逐步构建认知。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1sjjw03/were_learning_backwards_llms_build_intelligence/)
 

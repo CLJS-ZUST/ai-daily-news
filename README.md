@@ -1,62 +1,47 @@
 # AI科技新闻日报
 
-## The largest orbital compute cluster is open for business
-Kepler公司将在地球轨道部署40颗GPU，最新客户为索菲亚太空公司。
+## An Amazon warehouse worker died on the job at Oregon facility
+亚马逊称一员工死亡与工作无关，此前公司因仓库安全问题备受关注。
 
-[阅读原文](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
+[阅读原文](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)
 
-## Trump officials may be encouraging banks to test Anthropic’s Mythos model
-美国国防部刚将Anthropic列为供应链风险，此举与最新报告结论形成鲜明反差，引发外界惊讶。
+## OpenAI has bought AI personal finance startup Hiro
+OpenAI正为ChatGPT增强财务规划能力，此次收购即为明证。
 
-[阅读原文](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
+[阅读原文](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
 
-## Apple reportedly testing four designs for upcoming smart glasses
-苹果AR眼镜计划缩水，放弃原定多款混合/增强现实设备的雄心方案。
+## Uber and Nuro begin testing premium robotaxi service in San Francisco
+Uber员工可试乘Lucid自动驾驶出租车，双方正合作测试该服务。
 
-[阅读原文](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/)
+[阅读原文](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)
 
-## Room for the Moon is thrillingly weird experimental pop
-本文以登月主题切入，推荐布莱恩·伊诺经典专辑《Apollo：氛围与原声》，称其为绝妙的太空意境音乐。
+## Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ
+丹尼尔·莫雷诺-加马因持燃烧瓶袭击奥特曼住所、闯入OpenAI总部，被控联邦重罪。
 
-[阅读原文](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)
 
-## Rockstar Games says hack will have ‘no impact’
-Rockstar确认遭第三方服务商Anodot数据泄露，ShinyHunters组织入侵其Snowflake云实例并索要赎金。
+## The Mercedes EQS returns with massive range and charging gains
+奔驰去年因美豪华电动车需求疲软及补贴削减，暂停EQ系列；今年1月悄然重启EQS品牌。
 
-[阅读原文](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
+[阅读原文](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
 
-## You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2
-任天堂推Switch 2限时优惠：5月9日前，499.99美元可购主机+《超级马里奥银河》双作（原价449.99美元）。
+## Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music
+贾斯汀·比伯在科切拉音乐节首演，酬劳1000万美元。演出中他竟用手机刷YouTube，引发热议。
 
-[阅读原文](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
+[阅读原文](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella)
 
-## ‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For
-AMC新剧《亿万少年》以黑色喜剧手法讽刺硅谷亿万富豪，揭露科技巨头失控乱象。
+## The Most WIRED Watches at Watches and Wonders 2026
+日内瓦钟表展亮相多款惊艳奢华腕表，设计震撼、价格惊人。
 
-[阅读原文](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
+[阅读原文](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
 
-## Why Is It So Hard to Fix an Electric Bike? (2026)
-劣质电动自行车维修风险高，已致技师伤残；选购时务必认准可维修性及第三方认证。
+## Medicube Coupon Code: 40% Off for April 2026
+Medicube推出K美护肤促销：提供抗老仪、精华、面膜等折扣，含学生优惠及推荐奖励。
 
-[阅读原文](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)
+[阅读原文](https://www.wired.com/story/medicube-coupon-code/)
 
-## Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad
-2-in-1设备兼具平板与笔记本功能，支持 detachable（可拆卸）或360°翻转屏幕设计，实现形态灵活切换。
+## 50% Off DoorDash Promo Code | April 2026
+DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
 
-[阅读原文](https://www.wired.com/story/best-2-in-1-laptops/)
-
-## NYC hospitals will stop sharing patients' private health data with Palantir
-纽约多家医院将停止向Palantir共享患者隐私健康数据，引发对数据安全与AI公司医疗合作边界的关注。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sjvbfw/nyc_hospitals_will_stop_sharing_patients_private/)
-
-## Claude cannot be trusted to perform complex engineering tasks
-AMD分析发现Claude因Anthropic静默降级（减推理、改默认参数），致工程任务不可靠；警示AI厂商依赖风险，呼吁多模型策略。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/)
-
-## We're Learning Backwards: LLMs build intelligence in reverse, and the Scaling Hypothesis is bounded
-Reddit用户发帖指出，当前LLM训练方式或存在根本性缺陷：模型通过海量数据“倒推”智能，而非像人类一样从基础概念逐步构建认知。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1sjjw03/were_learning_backwards_llms_build_intelligence/)
+[阅读原文](https://www.wired.com/story/doordash-promo-code/)
 

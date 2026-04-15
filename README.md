@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## An Amazon warehouse worker died on the job at Oregon facility
-亚马逊称一员工死亡与工作无关，此前公司因仓库安全问题备受关注。
+## Anthropic’s rise is giving some OpenAI investors second thoughts
+有投资者称，OpenAI最新融资需假设IPO估值超1.2万亿美元，相比之下Anthropic当前3800亿美元估值显得更划算。
 
-[阅读原文](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)
+[阅读原文](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
 
-## OpenAI has bought AI personal finance startup Hiro
-OpenAI正为ChatGPT增强财务规划能力，此次收购即为明证。
+## AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report
+Fluidstack获500亿美元大单，为Anthropic建设数据中心，融资顺利推进。
 
-[阅读原文](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
+[阅读原文](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
 
-## Uber and Nuro begin testing premium robotaxi service in San Francisco
-Uber员工可试乘Lucid自动驾驶出租车，双方正合作测试该服务。
+## Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites
+数十个WordPress插件被新东家收购后遭篡改，植入恶意软件。
 
-[阅读原文](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/)
+[阅读原文](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
 
-## Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ
-丹尼尔·莫雷诺-加马因持燃烧瓶袭击奥特曼住所、闯入OpenAI总部，被控联邦重罪。
+## Godzilla Minus Zero stomps through New York in first teaser trailer
+《哥斯拉-零》续作官宣，延续2023年《哥斯拉-1.0》写实风格，首支预告已释出，新怪兽与剧情细节暂未公开。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)
+[阅读原文](https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer)
 
-## The Mercedes EQS returns with massive range and charging gains
-奔驰去年因美豪华电动车需求疲软及补贴削减，暂停EQ系列；今年1月悄然重启EQS品牌。
+## Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays
+微软将停产Surface Hub 3，并取消Surface Hub 4研发计划，终结其大型协作白板产品线。
 
-[阅读原文](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
+[阅读原文](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
 
-## Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music
-贾斯汀·比伯在科切拉音乐节首演，酬劳1000万美元。演出中他竟用手机刷YouTube，引发热议。
+## The FCC just saved Netgear from its router ban for no obvious reason
+美 FCC 批准网件公司进口其未来路由器等设备至2027年10月1日，凸显美国外国路由器禁令逻辑混乱。
 
-[阅读原文](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella)
+[阅读原文](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)
 
-## The Most WIRED Watches at Watches and Wonders 2026
-日内瓦钟表展亮相多款惊艳奢华腕表，设计震撼、价格惊人。
+## Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026
+Corsair推出经验证优惠码、学生折扣及翻新机特惠，助用户低价升级游戏设备或整机。
 
-[阅读原文](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
+[阅读原文](https://www.wired.com/story/corsair-coupon/)
 
-## Medicube Coupon Code: 40% Off for April 2026
-Medicube推出K美护肤促销：提供抗老仪、精华、面膜等折扣，含学生优惠及推荐奖励。
+## Total Wireless Promo Codes & Deals: 50% Off Select Plans
+Total Wireless推出促销活动，部分套餐享5折优惠，用户可享大幅折扣。
 
-[阅读原文](https://www.wired.com/story/medicube-coupon-code/)
+[阅读原文](https://www.wired.com/story/total-wireless-promo-code/)
 
-## 50% Off DoorDash Promo Code | April 2026
-DoorDash推出新促销：首单立减25美元、免配送费，老用户最高享5折优惠。
+## Booking.com Promo Codes and Deals: Up to 20% Off
+该新闻推广Booking.com的旅游促销代码和优惠，强调为用户下次旅行提供大幅折扣。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/booking-com-promo-code/)
 

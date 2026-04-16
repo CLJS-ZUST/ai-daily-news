@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Anthropic’s rise is giving some OpenAI investors second thoughts
-有投资者称，OpenAI最新融资需假设IPO估值超1.2万亿美元，相比之下Anthropic当前3800亿美元估值显得更划算。
+## Amazon-backed X-energy files to raise up to $800M in IPO
+核能初创公司X-energy启动路演，为其首次公开募股（IPO）向潜在投资者推介。
 
-[阅读原文](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
+[阅读原文](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
 
-## AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report
-Fluidstack获500亿美元大单，为Anthropic建设数据中心，融资顺利推进。
+## Ford EV and tech chief leaving automaker
+道格·菲尔德曾任职苹果和特斯拉，2021年加入福特。
 
-[阅读原文](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
+[阅读原文](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
 
-## Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites
-数十个WordPress插件被新东家收购后遭篡改，植入恶意软件。
+## Wait, could they still actually break up Live Nation?
+联邦陪审团认定Live Nation构成非法垄断，但该公司上月刚与美国司法部达成初步和解。
 
-[阅读原文](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/)
+[阅读原文](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
 
-## Godzilla Minus Zero stomps through New York in first teaser trailer
-《哥斯拉-零》续作官宣，延续2023年《哥斯拉-1.0》写实风格，首支预告已释出，新怪兽与剧情细节暂未公开。
+## YouTube now lets you turn off Shorts
+YouTube新增零分钟Shorts限时功能，可彻底屏蔽短视频，适用于安卓和iOS端。此前最低限时为15分钟。
 
-[阅读原文](https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer)
+[阅读原文](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
 
-## Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays
-微软将停产Surface Hub 3，并取消Surface Hub 4研发计划，终结其大型协作白板产品线。
+## Ford’s EV and software chief Doug Field is leaving the company
+福特EV及软件团队高层变动：Doug Field将离职，特斯拉前工程师Alan Clarke升任负责人。
 
-[阅读原文](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)
+[阅读原文](https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software)
 
-## The FCC just saved Netgear from its router ban for no obvious reason
-美 FCC 批准网件公司进口其未来路由器等设备至2027年10月1日，凸显美国外国路由器禁令逻辑混乱。
+## Trump’s posting even more AI-generated Trump-Jesus fan art
+《Verge》科技通讯《Regulator》推出年订半价优惠，仅需30美元/年，聚焦大科技公司在华盛顿及全球的监管动态。
 
-[阅读原文](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)
+[阅读原文](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)
 
-## Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026
-Corsair推出经验证优惠码、学生折扣及翻新机特惠，助用户低价升级游戏设备或整机。
+## ‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout
+电影全片泄露后，动画师痛惜心血被毁；部分人则认为泄露合理，因派拉蒙营销失误且与特朗普有关联。
 
-[阅读原文](https://www.wired.com/story/corsair-coupon/)
+[阅读原文](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)
 
-## Total Wireless Promo Codes & Deals: 50% Off Select Plans
-Total Wireless推出促销活动，部分套餐享5折优惠，用户可享大幅折扣。
+## NASA Wants to Put Nuclear Reactors on the Moon
+白宫宣布NASA将联合国防部、能源部，在近地轨道及月球表面部署核反应堆。
 
-[阅读原文](https://www.wired.com/story/total-wireless-promo-code/)
+[阅读原文](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
 
-## Booking.com Promo Codes and Deals: Up to 20% Off
-该新闻推广Booking.com的旅游促销代码和优惠，强调为用户下次旅行提供大幅折扣。
+## AI Could Democratize One of Tech's Most Valuable Resources
+AI正简化芯片设计与软件优化，助力适配多种芯片架构，多家初创企业看好其推动芯片制造革命。
 
-[阅读原文](https://www.wired.com/story/booking-com-promo-code/)
+[阅读原文](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)
 

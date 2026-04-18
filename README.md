@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Amazon-backed X-energy files to raise up to $800M in IPO
-核能初创公司X-energy启动路演，为其首次公开募股（IPO）向潜在投资者推介。
+## Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.
+World公司凭借以Orb为核心的匿名验证项目引发关注，正通过多项新合作扩大影响力。
 
-[阅读原文](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
+[阅读原文](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
 
-## Ford EV and tech chief leaving automaker
-道格·菲尔德曾任职苹果和特斯拉，2021年加入福特。
+## Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’
+OpenAI关停Sora项目、解散科学团队，两位高管离职，战略转向企业级AI，放弃消费端“登月”项目。
 
-[阅读原文](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/)
+[阅读原文](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
 
-## Wait, could they still actually break up Live Nation?
-联邦陪审团认定Live Nation构成非法垄断，但该公司上月刚与美国司法部达成初步和解。
+## Man who hacked US Supreme Court filing system sentenced to probation
+尼古拉斯·摩尔盗用凭证入侵美国三个政府网络，并在Instagram炫耀、泄露受害者数据。
 
-[阅读原文](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
+[阅读原文](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/)
 
-## YouTube now lets you turn off Shorts
-YouTube新增零分钟Shorts限时功能，可彻底屏蔽短视频，适用于安卓和iOS端。此前最低限时为15分钟。
+## OpenAI’s former Sora boss is leaving
+上月OpenAI搁置Sora项目，其负责人Bill Peebles近日宣布离职，标志公司正收缩非核心业务、聚焦主线战略。
 
-[阅读原文](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)
 
-## Ford’s EV and software chief Doug Field is leaving the company
-福特EV及软件团队高层变动：Doug Field将离职，特斯拉前工程师Alan Clarke升任负责人。
+## Should you stare into Sam Altman&#8217;s orb before your next date?
+Tinder将为通过World公司“身份验证球”完成真人认证的用户赠送5次免费Boost。World由OpenAI CEO萨姆·阿尔特曼联合创办，正推广该面部扫描验证技术。
 
-[阅读原文](https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
 
-## Trump’s posting even more AI-generated Trump-Jesus fan art
-《Verge》科技通讯《Regulator》推出年订半价优惠，仅需30美元/年，聚焦大科技公司在华盛顿及全球的监管动态。
+## Anthropic’s new cybersecurity model could get it back in the government’s good graces
+特朗普政府曾斥Anthropic为“激进左翼”公司，现因后者推出网络安全新模型Claude Mythos Preview，关系或缓和。
 
-[阅读原文](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
 
-## ‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout
-电影全片泄露后，动画师痛惜心血被毁；部分人则认为泄露合理，因派拉蒙营销失误且与特朗普有关联。
+## OpenAI Executive Kevin Weil Is Leaving the Company
+前Instagram高管、ChatGPT母公司AI科学应用负责人离职，其团队项目已并入Codex。
 
-[阅读原文](https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/)
+[阅读原文](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
 
-## NASA Wants to Put Nuclear Reactors on the Moon
-白宫宣布NASA将联合国防部、能源部，在近地轨道及月球表面部署核反应堆。
+## Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder
+该句为调侃AI热度的网络梗，暗指AI虚拟人热度超越真人，反映当前AIGC与虚拟人技术受追捧现象。
 
-[阅读原文](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
+[阅读原文](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)
 
-## AI Could Democratize One of Tech's Most Valuable Resources
-AI正简化芯片设计与软件优化，助力适配多种芯片架构，多家初创企业看好其推动芯片制造革命。
+## AI Drafting My Stories? Over My Dead Body
+AI写作正以提升效率为名进入新闻编辑部，但可能带来深层质量与伦理风险，远超出版方当前认知。
 
-[阅读原文](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)
+[阅读原文](https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/)
 

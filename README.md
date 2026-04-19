@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.
-World公司凭借以Orb为核心的匿名验证项目引发关注，正通过多项新合作扩大影响力。
+## Tesla brings its robotaxi service to Dallas and Houston
+该公司已在德克萨斯州三座城市推出无人驾驶出租车服务，其中奥斯汀去年启动，2026年1月起取消安全员。
 
-[阅读原文](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)
+[阅读原文](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
 
-## Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’
-OpenAI关停Sora项目、解散科学团队，两位高管离职，战略转向企业级AI，放弃消费端“登月”项目。
+## VC Ron Conway says he has a ‘rare form of cancer’
+康威将减少日常活动，但仍继续支持SV Angel所投初创企业创始人。
 
-[阅读原文](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
+[阅读原文](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
 
-## Man who hacked US Supreme Court filing system sentenced to probation
-尼古拉斯·摩尔盗用凭证入侵美国三个政府网络，并在Instagram炫耀、泄露受害者数据。
+## AI chip startup Cerebras files for IPO
+近日，Cerebras公司宣布与AWS合作在亚马逊数据中心部署其芯片，并达成超100亿美元的OpenAI合作。
 
-[阅读原文](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/)
+[阅读原文](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
 
-## OpenAI’s former Sora boss is leaving
-上月OpenAI搁置Sora项目，其负责人Bill Peebles近日宣布离职，标志公司正收缩非核心业务、聚焦主线战略。
+## The RAM shortage could last years
+全球DRAM供应持续紧张，预计2027年底仅能满足60%需求，SK集团称短缺或延续至2030年，三大厂商正加速扩产。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
 
-## Should you stare into Sam Altman&#8217;s orb before your next date?
-Tinder将为通过World公司“身份验证球”完成真人认证的用户赠送5次免费Boost。World由OpenAI CEO萨姆·阿尔特曼联合创办，正推广该面部扫描验证技术。
+## Judge rules Trump administration violated the First Amendment in fight against ICE-tracking
+美法官裁定特朗普政府施压平台下架ICE追踪群组及应用，违反宪法第一修正案。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)
+[阅读原文](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)
 
-## Anthropic’s new cybersecurity model could get it back in the government’s good graces
-特朗普政府曾斥Anthropic为“激进左翼”公司，现因后者推出网络安全新模型Claude Mythos Preview，关系或缓和。
+## Cheap stuff that doesn’t suck, take 3
+受美国关税及全球内存短缺影响，科技产品价格持续上涨，高端电子产品如OLED电视、带机械臂扫地机器人等售价高昂，令消费者负担加重。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
+[阅读原文](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)
 
-## OpenAI Executive Kevin Weil Is Leaving the Company
-前Instagram高管、ChatGPT母公司AI科学应用负责人离职，其团队项目已并入Codex。
+## The Best Smart Home Accessories to Boost Your Curb Appeal (2026)
+智能锁、灯等家居升级产品，无需改造即可实现自动化，兼顾美观与实用。
 
-[阅读原文](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
+[阅读原文](https://www.wired.com/story/smart-home-curb-appeal/)
 
-## Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder
-该句为调侃AI热度的网络梗，暗指AI虚拟人热度超越真人，反映当前AIGC与虚拟人技术受追捧现象。
+## How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush
+文章指导用户如何消除音频中的杂音（咔嗒声、爆裂声），提升音乐音质。
 
-[阅读原文](https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/)
+[阅读原文](https://www.wired.com/story/how-to-clean-vinyl-records/)
 
-## AI Drafting My Stories? Over My Dead Body
-AI写作正以提升效率为名进入新闻编辑部，但可能带来深层质量与伦理风险，远超出版方当前认知。
+## Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In
+Schematik是一款助人“直觉编程”物理设备的工具，强调易用性与安全性，避免硬件损坏。
 
-[阅读原文](https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/)
+[阅读原文](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)
 

@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Tesla brings its robotaxi service to Dallas and Houston
-该公司已在德克萨斯州三座城市推出无人驾驶出租车服务，其中奥斯汀去年启动，2026年1月起取消安全员。
+## OpenAI’s existential questions
+OpenAI近期收购引发热议，被指或旨在解决公司面临的两大生存性挑战。
 
-[阅读原文](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
+[阅读原文](https://techcrunch.com/2026/04/19/openais-existential-questions/)
 
-## VC Ron Conway says he has a ‘rare form of cancer’
-康威将减少日常活动，但仍继续支持SV Angel所投初创企业创始人。
+## The 12-month window
+众多AI初创企业因大模型尚未覆盖其领域而存在，但这一窗口期不会长久。
 
-[阅读原文](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/)
+[阅读原文](https://techcrunch.com/2026/04/19/the-12-month-window/)
 
-## AI chip startup Cerebras files for IPO
-近日，Cerebras公司宣布与AWS合作在亚马逊数据中心部署其芯片，并达成超100亿美元的OpenAI合作。
+## Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch
+蓝源公司新型重型火箭首飞失败，或推迟其助力NASA及特朗普政府重返月球的计划。
 
-[阅读原文](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
+[阅读原文](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
 
-## The RAM shortage could last years
-全球DRAM供应持续紧张，预计2027年底仅能满足60%需求，SK集团称短缺或延续至2030年，三大厂商正加速扩产。
+## Blue Origin successfully reused its New Glenn rocket
+AST SpaceMobile的BlueBird 7卫星发射部分成功：新格伦火箭一子级成功回收，实现第二次复用；但卫星未能进入预定轨道。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
+[阅读原文](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
 
-## Judge rules Trump administration violated the First Amendment in fight against ICE-tracking
-美法官裁定特朗普政府施压平台下架ICE追踪群组及应用，违反宪法第一修正案。
+## Cloud development platform Vercel was hacked
+Vercel遭黑客入侵，ShinyHunters声称窃取员工姓名、邮箱及活动时间戳等数据并试图出售，公司已确认事件。
 
-[阅读原文](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)
+[阅读原文](https://www.theverge.com/tech/914723/vercel-hacked)
 
-## Cheap stuff that doesn’t suck, take 3
-受美国关税及全球内存短缺影响，科技产品价格持续上涨，高端电子产品如OLED电视、带机械臂扫地机器人等售价高昂，令消费者负担加重。
+## Nothing’s modular CMF Headphone Pro are down to their lowest price to date
+CMF推出首款平价旗舰级头戴式无线耳机Headphone Pro，设计出众、功能丰富，售价亲民，延续高性价比路线。
 
-[阅读原文](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)
+[阅读原文](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)
 
-## The Best Smart Home Accessories to Boost Your Curb Appeal (2026)
-智能锁、灯等家居升级产品，无需改造即可实现自动化，兼顾美观与实用。
+## Best Meta Glasses (2026): Ray-Ban, Oakley, AR
+Meta在智能眼镜领域领先，产品佩戴舒适，但其数据隐私与可信度引发担忧。
 
-[阅读原文](https://www.wired.com/story/smart-home-curb-appeal/)
+[阅读原文](https://www.wired.com/story/best-meta-glasses/)
 
-## How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush
-文章指导用户如何消除音频中的杂音（咔嗒声、爆裂声），提升音乐音质。
+## Hisense U7SG TV Review (2026): Better Design, Great Value
+海信中端U7电视升级高端配置，但面临更激烈竞争。
 
-[阅读原文](https://www.wired.com/story/how-to-clean-vinyl-records/)
+[阅读原文](https://www.wired.com/review/hisense-u7sg/)
 
-## Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In
-Schematik是一款助人“直觉编程”物理设备的工具，强调易用性与安全性，避免硬件损坏。
+## The 11 Best Fans to Buy Before It Gets Hot Again (2026)
+新型智能风扇具备灯光、喷雾、自动追踪等功能，替代传统老旧风扇。
 
-[阅读原文](https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/)
+[阅读原文](https://www.wired.com/story/the-best-fans-2026/)
 

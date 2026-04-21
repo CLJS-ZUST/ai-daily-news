@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## OpenAI’s existential questions
-OpenAI近期收购引发热议，被指或旨在解决公司面临的两大生存性挑战。
+## Who is John Ternus, the incoming Apple CEO?
+9月1日起，低调的蒂尔努斯将接任苹果CEO，但其知名度远不及乔布斯、库克等前任。
 
-[阅读原文](https://techcrunch.com/2026/04/19/openais-existential-questions/)
+[阅读原文](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
 
-## The 12-month window
-众多AI初创企业因大模型尚未覆盖其领域而存在，但这一窗口期不会长久。
+## Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
+亚马逊再投50亿美元入股Anthropic，后者承诺100亿美元云服务采购，深化AI合作。
 
-[阅读原文](https://techcrunch.com/2026/04/19/the-12-month-window/)
+[阅读原文](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
 
-## Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch
-蓝源公司新型重型火箭首飞失败，或推迟其助力NASA及特朗普政府重返月球的计划。
+## Google rolls out Gemini in Chrome in 7 new countries
+谷歌在澳、印、菲、新、韩、越六国及日本（仅桌面端）推出Chrome版Gemini，覆盖桌面与iOS（日本除外）。
 
-[阅读原文](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/)
+[阅读原文](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
 
-## Blue Origin successfully reused its New Glenn rocket
-AST SpaceMobile的BlueBird 7卫星发射部分成功：新格伦火箭一子级成功回收，实现第二次复用；但卫星未能进入预定轨道。
+## Dyson’s back with a travel-size Supersonic hairdryer
+戴森推出旅行版Supersonic吹风机，售价299.99美元，体积更小、价格更低，主打便携出行场景。
 
-[阅读原文](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
+[阅读原文](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
 
-## Cloud development platform Vercel was hacked
-Vercel遭黑客入侵，ShinyHunters声称窃取员工姓名、邮箱及活动时间戳等数据并试图出售，公司已确认事件。
+## Tim Cook will still be Apple’s Trump whisperer
+蒂姆·库克卸任CEO转任执行董事长，仍将负责全球政策沟通，继续担任苹果“政界联络人”。
 
-[阅读原文](https://www.theverge.com/tech/914723/vercel-hacked)
+[阅读原文](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy)
 
-## Nothing’s modular CMF Headphone Pro are down to their lowest price to date
-CMF推出首款平价旗舰级头戴式无线耳机Headphone Pro，设计出众、功能丰富，售价亲民，延续高性价比路线。
+## The Lenovo Legion Go S is RAMageddon’s latest victim
+联想Legion Go S售价暴涨近一倍，从首发829.99美元涨至近1600美元，远超华硕Xbox Ally X（999美元）和微星Claw 8 AI Plus（1049美元）。
 
-[阅读原文](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal)
+[阅读原文](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
 
-## Best Meta Glasses (2026): Ray-Ban, Oakley, AR
-Meta在智能眼镜领域领先，产品佩戴舒适，但其数据隐私与可信度引发担忧。
+## A Humanoid Robot Set a Half-Marathon Record in China
+荣耀公司研发的自主机器人以50分26秒完成半马，比人类纪录快7分钟。
 
-[阅读原文](https://www.wired.com/story/best-meta-glasses/)
+[阅读原文](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/)
 
-## Hisense U7SG TV Review (2026): Better Design, Great Value
-海信中端U7电视升级高端配置，但面临更激烈竞争。
+## Best Kitchen Composters and Food Recyclers (2026)
+WIRED测试推荐多款室内厨余垃圾处理器，可负责任地处理食物残渣，基本无异味。
 
-[阅读原文](https://www.wired.com/review/hisense-u7sg/)
+[阅读原文](https://www.wired.com/story/home-composters-buying-guide/)
 
-## The 11 Best Fans to Buy Before It Gets Hot Again (2026)
-新型智能风扇具备灯光、喷雾、自动追踪等功能，替代传统老旧风扇。
+## Apple CEO Tim Cook Is Stepping Down
+苹果硬件工程高级副总裁约翰·特努斯将于9月1日接替库克出任CEO，库克将留任执行董事长。
 
-[阅读原文](https://www.wired.com/story/the-best-fans-2026/)
+[阅读原文](https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/)
 

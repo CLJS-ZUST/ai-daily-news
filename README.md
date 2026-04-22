@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Who is John Ternus, the incoming Apple CEO?
-9月1日起，低调的蒂尔努斯将接任苹果CEO，但其知名度远不及乔布斯、库克等前任。
+## Redwood Materials lays off 10% in restructuring to chase energy storage business
+该公司正重组部分团队，以应对蓬勃发展的储能业务。
 
-[阅读原文](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
+[阅读原文](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
 
-## Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
-亚马逊再投50亿美元入股Anthropic，后者承诺100亿美元云服务采购，深化AI合作。
+## Meta will record employees’ keystrokes and use it to train its AI models
+Meta推出新内部工具，将用户鼠标移动和点击行为转化为训练AI模型的数据。
 
-[阅读原文](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
+[阅读原文](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
 
-## Google rolls out Gemini in Chrome in 7 new countries
-谷歌在澳、印、菲、新、韩、越六国及日本（仅桌面端）推出Chrome版Gemini，覆盖桌面与iOS（日本除外）。
+## Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
+Anthropic正调查相关指控，但称无证据表明其系统已受实际影响。
 
-[阅读原文](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/)
+[阅读原文](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
 
-## Dyson’s back with a travel-size Supersonic hairdryer
-戴森推出旅行版Supersonic吹风机，售价299.99美元，体积更小、价格更低，主打便携出行场景。
+## SpaceX cuts a deal to maybe buy Cursor for $60 billion
+SpaceX拟以60亿美元收购AI编程平台Cursor，或支付10亿美元费用，旨在增强xAI在AI编码工具领域的竞争力。
 
-[阅读原文](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
+[阅读原文](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
 
-## Tim Cook will still be Apple’s Trump whisperer
-蒂姆·库克卸任CEO转任执行董事长，仍将负责全球政策沟通，继续担任苹果“政界联络人”。
+## We translated the Palantir manifesto for actual human beings
+Palantir CEO Alex Karp联合撰写的《技术共和国》发布22点纲要，被视作公司技术治理理念的宣言式总结。
 
-[阅读原文](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy)
+[阅读原文](https://www.theverge.com/policy/915237/palantir-manifesto)
 
-## The Lenovo Legion Go S is RAMageddon’s latest victim
-联想Legion Go S售价暴涨近一倍，从首发829.99美元涨至近1600美元，远超华硕Xbox Ally X（999美元）和微星Claw 8 AI Plus（1049美元）。
+## ISS astronauts are getting new laptops
+NASA正为国际空间站远征74号乘组升级电脑，先更换网络服务器，再激活新系统。
 
-[阅读原文](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
+[阅读原文](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
 
-## A Humanoid Robot Set a Half-Marathon Record in China
-荣耀公司研发的自主机器人以50分26秒完成半马，比人类纪录快7分钟。
+## Framework Has a Better, More Take-Apartable Laptop
+Framework公司发布新款13英寸Laptop 13 Pro，并更新16英寸机型。
 
-[阅读原文](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/)
+[阅读原文](https://www.wired.com/story/framework-laptop-13-pro/)
 
-## Best Kitchen Composters and Food Recyclers (2026)
-WIRED测试推荐多款室内厨余垃圾处理器，可负责任地处理食物残渣，基本无异味。
+## OpenAI Beefs Up ChatGPT’s Image Generation Model
+ChatGPT图像2.0上线，细节与英文文本生成能力提升，但非英语语言支持仍不足。
 
-[阅读原文](https://www.wired.com/story/home-composters-buying-guide/)
+[阅读原文](https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/)
 
-## Apple CEO Tim Cook Is Stepping Down
-苹果硬件工程高级副总裁约翰·特努斯将于9月1日接替库克出任CEO，库克将留任执行董事长。
+## Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox
+Firefox团队认为AI不会长期颠覆网络安全，但开发者将面临艰难的过渡期。
 
-[阅读原文](https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/)
+[阅读原文](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
 

@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Redwood Materials lays off 10% in restructuring to chase energy storage business
-该公司正重组部分团队，以应对蓬勃发展的储能业务。
+## Tesla just increased its spending plan to $25B — here’s where the money is going
+特斯拉2026年资本开支将达历史三倍，CFO称年内剩余时间将出现负自由现金流。
 
-[阅读原文](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/)
+[阅读原文](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
 
-## Meta will record employees’ keystrokes and use it to train its AI models
-Meta推出新内部工具，将用户鼠标移动和点击行为转化为训练AI模型的数据。
+## Google updates Workspace to make AI your new office intern
+谷歌在Workspace中推出多项新自动化功能，均由全新AI系统“Workspace Intelligence”驱动。
 
-[阅读原文](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
+[阅读原文](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
 
-## Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
-Anthropic正调查相关指控，但称无证据表明其系统已受实际影响。
+## Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’
+特斯拉承认自动驾驶未达宣传水平，或面临法律挑战，此前多年宣称“一次软件更新即可实现完全自动驾驶”。
 
-[阅读原文](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
+[阅读原文](https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/)
 
-## SpaceX cuts a deal to maybe buy Cursor for $60 billion
-SpaceX拟以60亿美元收购AI编程平台Cursor，或支付10亿美元费用，旨在增强xAI在AI编码工具领域的竞争力。
+## The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated
+特朗普称促成8名伊朗女抗议者免于死刑，但所配“获救者”照片实为网络盗用的模特照，事件真实性存疑。
 
-[阅读原文](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
+[阅读原文](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
 
-## We translated the Palantir manifesto for actual human beings
-Palantir CEO Alex Karp联合撰写的《技术共和国》发布22点纲要，被视作公司技术治理理念的宣言式总结。
+## Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD
+马斯克称，搭载HW3芯片的约400万辆特斯拉车将无法使用无监督FSD功能。
 
-[阅读原文](https://www.theverge.com/policy/915237/palantir-manifesto)
+[阅读原文](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)
 
-## ISS astronauts are getting new laptops
-NASA正为国际空间站远征74号乘组升级电脑，先更换网络服务器，再激活新系统。
+## X is going to let Grok curate your timeline
+X将为iOS高级订阅用户推出新功能：可置顶话题，由AI聊天机器人Grok据此智能推荐首页内容。
 
-[阅读原文](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
+[阅读原文](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)
 
-## Framework Has a Better, More Take-Apartable Laptop
-Framework公司发布新款13英寸Laptop 13 Pro，并更新16英寸机型。
+## Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist
+艺人方否认曾被接触或讨论过任何合作及巡演授权事宜。
 
-[阅读原文](https://www.wired.com/story/framework-laptop-13-pro/)
+[阅读原文](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
 
-## OpenAI Beefs Up ChatGPT’s Image Generation Model
-ChatGPT图像2.0上线，细节与英文文本生成能力提升，但非英语语言支持仍不足。
+## US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose
+弗吉尼亚州参议员候选人马克·莫兰自称故意违反预测市场平台规则，以“被抓住”博取关注。
 
-[阅读原文](https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/)
+[阅读原文](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)
 
-## Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox
-Firefox团队认为AI不会长期颠覆网络安全，但开发者将面临艰难的过渡期。
+## Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next
+科学家向野生鱼类暴露可卡因及其代谢物，发现其行为异常，与实验室结果一致。
 
-[阅读原文](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
+[阅读原文](https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/)
 

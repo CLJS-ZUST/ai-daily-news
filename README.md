@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Tesla just increased its spending plan to $25B — here’s where the money is going
-特斯拉2026年资本开支将达历史三倍，CFO称年内剩余时间将出现负自由现金流。
+## Porsche is adding an all-electric Cayenne coupe to its lineup
+保时捷将于夏末开售纯电动卡宴轿跑版（Cayenne Coupe Electric）。
 
-[阅读原文](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/)
+[阅读原文](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
 
-## Google updates Workspace to make AI your new office intern
-谷歌在Workspace中推出多项新自动化功能，均由全新AI系统“Workspace Intelligence”驱动。
+## Bob Iger rejoins Thrive Capital as advisor after Disney exit
+前迪士尼CEO曾担任Thrive风投合伙人，并持有该公司股份。
 
-[阅读原文](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
+[阅读原文](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
 
-## Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’
-特斯拉承认自动驾驶未达宣传水平，或面临法律挑战，此前多年宣称“一次软件更新即可实现完全自动驾驶”。
+## Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation
+美军士兵涉嫌利用涉密政府信息，在Polymarket预测市场进行赌博下注，已被指控。
 
-[阅读原文](https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/)
+[阅读原文](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
 
-## The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated
-特朗普称促成8名伊朗女抗议者免于死刑，但所配“获救者”照片实为网络盗用的模特照，事件真实性存疑。
+## US arrests soldier who allegedly made $400K on Maduro Polymarket bets
+美国起诉Gannon Ken Van Dyke，指控其利用涉马杜罗行动的机密信息，在Polymarket平台进行可疑投注获利超40万美元。
 
-[阅读原文](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
+[阅读原文](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
 
-## Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD
-马斯克称，搭载HW3芯片的约400万辆特斯拉车将无法使用无监督FSD功能。
+## Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro
+微软将推Xbox Game Pass“入门版”，捆绑Discord Nitro，含超50款游戏。
 
-[阅读原文](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)
+[阅读原文](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)
 
-## X is going to let Grok curate your timeline
-X将为iOS高级订阅用户推出新功能：可置顶话题，由AI聊天机器人Grok据此智能推荐首页内容。
+## Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax
+Anthropic为Claude新增多项个人应用连接器，涵盖Audible、Spotify、Uber、AllTrails、Instacart等，大幅提升日常生活场景的AI助手能力。
 
-[阅读原文](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
 
-## Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist
-艺人方否认曾被接触或讨论过任何合作及巡演授权事宜。
+## US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid
+美一军士长涉嫌利用涉密情报，在预测市场押注委内瑞拉总统马杜罗被捕并牟利，成美国首起此类内幕交易逮捕案。
 
-[阅读原文](https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/)
+[阅读原文](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
 
-## US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose
-弗吉尼亚州参议员候选人马克·莫兰自称故意违反预测市场平台规则，以“被抓住”博取关注。
+## Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet
+研究人员破译2005年出现的神秘恶意代码Fast16，其可静默篡改计算与仿真软件，疑似由美国或盟友开发部署。
 
-[阅读原文](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)
+[阅读原文](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)
 
-## Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next
-科学家向野生鱼类暴露可卡因及其代谢物，发现其行为异常，与实验室结果一致。
+## Rednote Draws a Line Between China and the World
+该平台海外扩张中，正将中国用户与国际用户分隔运营。
 
-[阅读原文](https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/)
+[阅读原文](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
 

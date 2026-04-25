@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Porsche is adding an all-electric Cayenne coupe to its lineup
-保时捷将于夏末开售纯电动卡宴轿跑版（Cayenne Coupe Electric）。
+## Lachy Groom to back India startup Pronto at a $200M valuation, sources say
+本轮融资若完成，家政服务初创公司估值将在数周内翻倍。
 
-[阅读原文](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
+[阅读原文](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
 
-## Bob Iger rejoins Thrive Capital as advisor after Disney exit
-前迪士尼CEO曾担任Thrive风投合伙人，并持有该公司股份。
+## Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’
+鲍尔默致信法官，控诉欺诈创始人桑伯格对其造成的投资损失。
 
-[阅读原文](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
+[阅读原文](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
 
-## Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation
-美军士兵涉嫌利用涉密政府信息，在Polymarket预测市场进行赌博下注，已被指控。
+## Palantir is reportedly helping the IRS investigate financial crimes
+美国国税局（IRS）自2018年起使用Palantir软件处理税务数据，引发隐私与监管透明度担忧。
 
-[阅读原文](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
+[阅读原文](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
 
-## US arrests soldier who allegedly made $400K on Maduro Polymarket bets
-美国起诉Gannon Ken Van Dyke，指控其利用涉马杜罗行动的机密信息，在Polymarket平台进行可疑投注获利超40万美元。
+## Microsoft will let you pause Windows Updates indefinitely, 35 days at a time
+微软为Windows预览用户推出更新控制新功能：可无限次延迟自动更新，每次最长35天，避免游戏或工作时被强制更新。
 
-[阅读原文](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
+[阅读原文](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
 
-## Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro
-微软将推Xbox Game Pass“入门版”，捆绑Discord Nitro，含超50款游戏。
+## Alex Jones has uncovered another massive conspiracy
+亚历克斯·琼斯或被迫将Infowars卖给讽刺媒体《洋葱》，其间他“揭露”新创意总监蒂姆·海德克的公开过往，闹剧十足。
 
-[阅读原文](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)
+[阅读原文](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
 
-## Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax
-Anthropic为Claude新增多项个人应用连接器，涵盖Audible、Spotify、Uber、AllTrails、Instacart等，大幅提升日常生活场景的AI助手能力。
+## The person who allegedly leaked Paramount’s new Avatar movie has been arrested
+新加坡警方逮捕一名26岁男子，涉嫌泄露派拉蒙新动画电影《阿凡达：最后的气宗》。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+[阅读原文](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
 
-## US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid
-美一军士长涉嫌利用涉密情报，在预测市场押注委内瑞拉总统马杜罗被捕并牟利，成美国首起此类内幕交易逮捕案。
+## Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal
+Ember智能温控杯促销，适合作为母亲节礼物。
 
-[阅读原文](https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/)
+[阅读原文](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
 
-## Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet
-研究人员破译2005年出现的神秘恶意代码Fast16，其可静默篡改计算与仿真软件，疑似由美国或盟友开发部署。
+## Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time
+夏季促销开启，多款经测试表现优异的机器人泳池清洁器打折销售。
 
-[阅读原文](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)
+[阅读原文](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
 
-## Rednote Draws a Line Between China and the World
-该平台海外扩张中，正将中国用户与国际用户分隔运营。
+## AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials
+Isomorphic Labs总裁称，公司已建成“广泛且令人兴奋的新药研发管线”。
 
-[阅读原文](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/)
+[阅读原文](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
 

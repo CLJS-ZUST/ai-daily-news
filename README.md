@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Lachy Groom to back India startup Pronto at a $200M valuation, sources say
-本轮融资若完成，家政服务初创公司估值将在数周内翻倍。
+## Anthropic created a test marketplace for agent-on-agent commerce
+Anthropic实验让AI代理在保密市集上代表买卖双方，完成真实商品与资金交易。
 
-[阅读原文](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/)
+[阅读原文](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
 
-## Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’
-鲍尔默致信法官，控诉欺诈创始人桑伯格对其造成的投资损失。
+## Maine’s governor vetoes data center moratorium
+缅因州拟推全美首个州级数据中心建设禁令，暂定新建项目至2027年11月1日。
 
-[阅读原文](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/)
+[阅读原文](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)
 
-## Palantir is reportedly helping the IRS investigate financial crimes
-美国国税局（IRS）自2018年起使用Palantir软件处理税务数据，引发隐私与监管透明度担忧。
+## OpenAI CEO apologizes to Tumbler Ridge community
+OpenAI CEO萨姆·阿尔特曼就未向警方通报枪击案嫌疑人，向加拿大图姆布莱尔里奇居民致歉。
 
-[阅读原文](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/)
+[阅读原文](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
 
-## Microsoft will let you pause Windows Updates indefinitely, 35 days at a time
-微软为Windows预览用户推出更新控制新功能：可无限次延迟自动更新，每次最长35天，避免游戏或工作时被强制更新。
+## Trump fires the entire National Science Board
+特朗普政府解散国家科学委员会（NSB），该机构负责为国家科学基金会（NSF）提供政策建议。此举引发对科研资助进一步受阻的担忧。
 
-[阅读原文](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days)
+[阅读原文](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board)
 
-## Alex Jones has uncovered another massive conspiracy
-亚历克斯·琼斯或被迫将Infowars卖给讽刺媒体《洋葱》，其间他“揭露”新创意总监蒂姆·海德克的公开过往，闹剧十足。
+## An influx of used EVs could drive down prices
+电动车价格将因大量二手车入市而大幅下降：2025年仅12.3万辆EV租约到期，2026年达30万辆，2027年将飙升至60万辆。
 
-[阅读原文](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
+[阅读原文](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
 
-## The person who allegedly leaked Paramount’s new Avatar movie has been arrested
-新加坡警方逮捕一名26岁男子，涉嫌泄露派拉蒙新动画电影《阿凡达：最后的气宗》。
+## Researchers say we’re talking less than ever
+2005—2019年，美研究发现人与人面对面口语交流词数下降近28%，疫情后或进一步恶化。
 
-[阅读原文](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
+[阅读原文](https://www.theverge.com/science/918753/researchers-talking-less)
 
-## Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal
-Ember智能温控杯促销，适合作为母亲节礼物。
+## California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner
+31岁工程师涉嫌在特朗普出席的年度活动上开枪，现场有政要及媒体人士。
 
-[阅读原文](https://www.wired.com/story/ember-mug-2-deal-april-2026/)
+[阅读原文](https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/)
 
-## Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time
-夏季促销开启，多款经测试表现优异的机器人泳池清洁器打折销售。
+## Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller
+本文推荐多款专注力提升应用，助用户屏蔽干扰、高效完成任务。
 
-[阅读原文](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+[阅读原文](https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/)
 
-## AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials
-Isomorphic Labs总裁称，公司已建成“广泛且令人兴奋的新药研发管线”。
+## ‘Saros’ Shows Off the PS5’s DualSense Tricks
+《Returnal》团队新作深度适配PS手柄触觉反馈与3D音频，或推动行业跟进。
 
-[阅读原文](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/)
+[阅读原文](https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/)
 

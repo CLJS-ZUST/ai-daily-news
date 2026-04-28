@@ -1,47 +1,47 @@
 # AI科技新闻日报
 
-## Truecaller faces mounting pressures as its growth matures
-Truecaller增长放缓，正通过订阅服务、企业业务及新功能拓展印度以外市场。
+## India’s Snabbit closes $56M round as investor interest in on-demand home services heats up
+Snabbit日处理任务超4万单，成本大幅下降，加速城市与服务扩张。
 
-[阅读原文](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
+[阅读原文](https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/)
 
-## The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder
-该书能否真正改变现状？抑或仅加剧学生盲目追逐热点的现象？
+## Letterboxd, the social platform for film buffs, reportedly looking for new owner
+据Semafor报道，CNBC母公司Versant及好莱坞媒体公司The Ankler正考虑收购影评平台Letterboxd。
 
-[阅读原文](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/)
+[阅读原文](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/)
 
-## Amazon’s new podcast strategy: Monetize everything
-亚马逊播客业务过去六个月经历显著转型。
+## Consumers lost $2.1B to social media scams in 2025, FTC reports
+社交媒体诈骗损失激增八倍，成消费者损失最重的诈骗渠道。
 
-[阅读原文](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/)
+[阅读原文](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/)
 
-## Google’s new gradient icon design is coming to more apps
-2025年底，谷歌推出渐变色新图标，逐步取代原有圆形多色设计，已扩展至旗下多款应用。
+## Jury selection in Musk v. Altman: ‘People don’t like him’
+马斯克诉奥特曼案开庭选陪审员，多名候选陪审员对马斯克持负面看法，引发公正性担忧。
 
-[阅读原文](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
+[阅读原文](https://www.theverge.com/tech/919469/elon-musk-dont-like)
 
-## Trump turns the WHCD shooting into a pitch for the White House ballroom
-特朗普在白宫记者晚宴遭枪手闯入后，迅速借机为自己的“球厅”项目辩护，引发舆论关注。
+## Google is testing AI chatbot search for YouTube
+谷歌在YouTube测试AI对话式搜索，整合长视频、Shorts及文字内容，提升搜索交互体验。（59字）
 
-[阅读原文](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
+[阅读原文](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search)
 
-## Tomora’s Come Closer is an ecstatic love letter to 90s dance music
-汤莫拉乐队因电视卡顿意外走红，其北欧双女主以巨型鼓配 techno 风格惊艳乐迷。
+## Canonical lays out a plan for AI in Ubuntu Linux
+Ubuntu将在未来一年内集成多项AI功能，Canonical工程副总裁Jon Seager已公布相关计划。
 
-[阅读原文](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)
+[阅读原文](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)
 
-## ‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting
-社交媒体上“摆拍”一词爆火，左右翼网红及匿名账号散布未经证实的阴谋论。
+## Some Musk v. Altman Jurors Don't Like Elon Musk
+马斯克起诉OpenAI背离初心，但陪审员遴选中多人对其持负面看法。
 
-[阅读原文](https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/)
+[阅读原文](https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/)
 
-## The Best Kindle Accessories (2026): Cases, Page Turners, Stickers
-本文介绍为Kindle挑选保护壳、翻页器、装饰挂件等配件的选购指南，兼顾防护性与个性化需求。
+## The M5 MacBook Air Has Never Been Cheaper
+上市不足两月，M5版MacBook Air价格已回落至首发以来最低水平。
 
-[阅读原文](https://www.wired.com/story/best-kindle-accessories/)
+[阅读原文](https://www.wired.com/story/m5-macbook-air-never-been-cheaper/)
 
-## The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)
-智能鸟 feeder 配备摄像头和APP，可实时观测并识别邻居家附近的鸟类。
+## Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins
+马斯克起诉OpenAI案在加州奥克兰联邦法院开庭审理。
 
-[阅读原文](https://www.wired.com/story/best-smart-bird-feeders/)
+[阅读原文](https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/)
 

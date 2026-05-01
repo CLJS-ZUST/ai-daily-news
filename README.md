@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO
-AI与机器人正反向赋能基础设施建设：既依赖基建发展，又参与基建建造，形成双向驱动闭环。
+## ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet
+印度用户热衷使用ChatGPT Images 2.0生成创意个人图像，如头像和电影级肖像。
 
-[阅读原文](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
+[阅读原文](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
 
-## Amazon, Meta join fight to end Google Pay, PhonePe dominance in India
-PhonePe与Google Pay占据印度UPI支付市场80%份额，竞争对手将联合游说监管机构限制其主导地位。
+## As Tim Cook steps down, Apple hit record sales — but a chip shortage looms
+库克警告称，“RAMageddon”将引发供应链压力，可能冲击苹果业务。
 
-[阅读原文](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/)
+[阅读原文](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/)
 
-## Amazon’s cloud business is surging — and so is its capital spending
-亚马逊AWS盈利超预期，但CEO称近期仍将大幅增加投入。
+## Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says
+订阅账单科技公司Skio被竞争对手Recharge收购，创始人称此为“丰厚退出”。
 
-[阅读原文](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/)
+[阅读原文](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
 
-## Elon Musk’s worst enemy in court is Elon Musk
-马斯克出庭作证五小时后，记者坦言“从未如此同情奥特曼”，其证词虽较昨日改善，但仍显被动。
+## The craziest part of Musk v. Altman happened while the jury was out of the room
+马斯克律师团队或在庭审中出现重大失误，其财务顾问布拉奇豪斯出庭作证引发关注。
 
-[阅读原文](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)
 
-## Grindr — yes, Grindr — won the WHCD party circuit
-该新闻为《The Verge》科技政治类通讯《Regulator》的订阅推广，强调资金不用于非必要开支（如“防无人机舞厅”），呼吁读者支持。
+## Roblox’s daily users continue to drop as age checks slow growth
+Roblox日活用户降至1.32亿，较去年末减少1200万，主因平台推行年龄验证导致流失。
 
-[阅读原文](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
+[阅读原文](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
 
-## Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off
-任天堂宣布Switch 2独占第一方游戏数字版降价10美元，如《Splatoon Raiders》数字版49.99美元，实体版59.99美元；沃尔玛除外。
+## Congress keeps kicking surveillance reform down the road
+美国国会将《外国情报监视法》第702条仅延期45天，以便就争议性监听条款改革展开谈判，但改革前景不明。
 
-[阅读原文](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
+[阅读原文](https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension)
 
-## How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’
-马斯克诉奥特曼案第三天庭审升温，OpenAI律师对马斯克展开交叉质询。
+## How Shivon Zilis Operated as Elon Musk’s OpenAI Insider
+庭审文件显示，马斯克四名子女的母亲齐利斯曾充当中介，协调马斯克与OpenAI之间的沟通。
 
-[阅读原文](https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/)
+[阅读原文](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
 
-## Emergency First Responders Say Waymos Are Getting Worse
-警方官员称，某技术在未充分准备情况下，过快大规模部署数百辆车辆，存在安全隐患。
+## Good Luck Getting a Mac Mini for the Next ‘Several Months’
+苹果CEO库克称，AI采用速度远超预期。
 
-[阅读原文](https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/)
+[阅读原文](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)
 
-## Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why
-骗子利用AI伪造名人采访视频，诱导用户泄露个人信息。
+## Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?
+马斯克诉奥特曼案远超个人恩怨，将深刻影响OpenAI走向及整个AI行业格局。
 
-[阅读原文](https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/)
+[阅读原文](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)
 
-## ‘The cost of compute is far beyond the costs of the employees’: Nvidia exec says right now AI is more expensive than paying human workers
-英伟达高管称当前AI算力成本远超人力成本，MIT研究显示仅23%视觉相关岗位AI更经济，AI尚未带来显著生产力提升或大规模替代。
+## Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy
+Anthropic推出9个专业创意软件连接器，使Claude可直接操控Photoshop、Blender等工具，聚焦专业创作者；与OpenAI原生AI路线不同，暂未覆盖消费级创意需求。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/)
 
-## Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own
-谷歌推出Deep Research Max（基于Gemini 3.1 Pro），支持自主网络与私有数据检索、推理生成带图表的引用报告，已接入FactSet等专业数据源。
+## Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says
+扎克伯格称AI高昂成本是Meta裁员8000人的原因之一。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)
 
-## Anthropic Reportedly Plotting to Surpass OpenAI’s Valuation in Next Funding Round
-据报，Anthropic正计划在下一轮融资中超越OpenAI的估值，凸显其在AI领域的快速崛起与竞争态势。
+## Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech
+马斯克称其xAI模型部分训练数据源自OpenAI技术，引发外界对其数据来源合法性的关注。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)
 

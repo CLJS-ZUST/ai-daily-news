@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet
-印度用户热衷使用ChatGPT Images 2.0生成创意个人图像，如头像和电影级肖像。
+## Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
+TechCrunch报道称，Cursor或以600亿美元被SpaceX收购，引发市场对Replit是否也将出售的猜测。
 
-[阅读原文](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
+[阅读原文](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 
-## As Tim Cook steps down, Apple hit record sales — but a chip shortage looms
-库克警告称，“RAMageddon”将引发供应链压力，可能冲击苹果业务。
+## Musely secures $360M from General Catalyst without giving up equity
+该DTC护肤、护发及更年期护理品牌将利用无稀释性资金加速用户获取。
 
-[阅读原文](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/)
+[阅读原文](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
 
-## Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says
-订阅账单科技公司Skio被竞争对手Recharge收购，创始人称此为“丰厚退出”。
+## Meta buys robotics startup to bolster its humanoid AI ambitions
+Meta收购人形机器人初创公司Assured Robot Intelligence，以增强其机器人AI模型能力。
 
-[阅读原文](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
+[阅读原文](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
 
-## The craziest part of Musk v. Altman happened while the jury was out of the room
-马斯克律师团队或在庭审中出现重大失误，其财务顾问布拉奇豪斯出庭作证引发关注。
+## Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off
+任天堂宣布Switch 2独占游戏数字版降价10美元，如《Splatoon Raiders》数字版49.99美元，实体版59.99美元；但亚马逊和沃尔玛除外。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)
+[阅读原文](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
 
-## Roblox’s daily users continue to drop as age checks slow growth
-Roblox日活用户降至1.32亿，较去年末减少1200万，主因平台推行年龄验证导致流失。
+## Microsoft tests redesigned Windows 11 Run menu with dark mode and more
+微软正为Win11“运行”菜单推出现代化改版，支持暗色模式、速度更快，已向Insider测试者推送。
 
-[阅读原文](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau)
+[阅读原文](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)
 
-## Congress keeps kicking surveillance reform down the road
-美国国会将《外国情报监视法》第702条仅延期45天，以便就争议性监听条款改革展开谈判，但改革前景不明。
+## Apple raises the Mac Mini&#8217;s starting price
+苹果将Mac Mini起售价提至799美元，下架599美元入门款，或因芯片短缺影响Mac产品供应。
 
-[阅读原文](https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension)
+[阅读原文](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
 
-## How Shivon Zilis Operated as Elon Musk’s OpenAI Insider
-庭审文件显示，马斯克四名子女的母亲齐利斯曾充当中介，协调马斯克与OpenAI之间的沟通。
+## Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars
+自动驾驶公司称正优化系统，针对未成年人禁止单独乘车区域加强年龄验证。
 
-[阅读原文](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
+[阅读原文](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
 
-## Good Luck Getting a Mac Mini for the Next ‘Several Months’
-苹果CEO库克称，AI采用速度远超预期。
+## OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users
+ChatGPT新隐私政策披露使用Cookies追踪免费用户，旨在推动其转化为付费订阅者。
 
-[阅读原文](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)
+[阅读原文](https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/)
 
-## Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?
-马斯克诉奥特曼案远超个人恩怨，将深刻影响OpenAI走向及整个AI行业格局。
+## Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers
+“CopyFail”漏洞（CVE-2026-31431）可致Linux系统被远程接管，虽已修复，但大量设备仍未更新，风险犹存。
 
-[阅读原文](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)
+[阅读原文](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
 
-## Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy
-Anthropic推出9个专业创意软件连接器，使Claude可直接操控Photoshop、Blender等工具，聚焦专业创作者；与OpenAI原生AI路线不同，暂未覆盖消费级创意需求。
+## Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users
+美国参议院司法委员会通过霍利提出的《GUARD法案》，要求AI聊天机器人用户进行身份验证。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/)
 
-## Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says
-扎克伯格称AI高昂成本是Meta裁员8000人的原因之一。
+## Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.
+Anthropic分析100万次Claude对话发现：76%属健康、职业、关系、理财四类；关系咨询中25%、灵性话题中38%存在“讨好式”回应；新版本Opus 4.7将关系类讨好率降半；22%用户因无法获得专业帮助而依赖AI。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/)
 
-## Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech
-马斯克称其xAI模型部分训练数据源自OpenAI技术，引发外界对其数据来源合法性的关注。
+## China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years
+中国禁止企业以AI为由裁员；英伟达CEO称AI两年内创造50万就业岗位。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/)
 

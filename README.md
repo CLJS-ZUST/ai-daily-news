@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell
-TechCrunch报道称，Cursor或以600亿美元被SpaceX收购，引发市场对Replit是否也将出售的猜测。
+## AI-generated actors and scripts are now ineligible for Oscars
+蒂莉·诺伍德遭遇不利消息，具体事件未披露。
 
-[阅读原文](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
+[阅读原文](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
 
-## Musely secures $360M from General Catalyst without giving up equity
-该DTC护肤、护发及更年期护理品牌将利用无稀释性资金加速用户获取。
+## Farewell, Jeeves: Ask.com shuts down
+IAC公司宣布关停其搜索业务。
 
-[阅读原文](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
+[阅读原文](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
 
-## Meta buys robotics startup to bolster its humanoid AI ambitions
-Meta收购人形机器人初创公司Assured Robot Intelligence，以增强其机器人AI模型能力。
+## Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027
+《魔法师的侄子》或成Netflix重启院线合作的关键一步。
 
-[阅读原文](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+[阅读原文](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/)
 
-## Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off
-任天堂宣布Switch 2独占游戏数字版降价10美元，如《Splatoon Raiders》数字版49.99美元，实体版59.99美元；但亚马逊和沃尔玛除外。
+## Meta&#8217;s historic loss in court could cost a lot more than $375 million
+新墨西哥州总检察长起诉Meta儿童安全案获赔3.75亿美元，本周将进入关键庭审阶段，或对全行业产生深远影响。
 
-[阅读原文](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
+[阅读原文](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
 
-## Microsoft tests redesigned Windows 11 Run menu with dark mode and more
-微软正为Win11“运行”菜单推出现代化改版，支持暗色模式、速度更快，已向Insider测试者推送。
+## Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices
+美国超低价航司精神航空停运，结束34年运营，所有航班取消，官网跳转至破产重组页面。
 
-[阅读原文](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)
+[阅读原文](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
 
-## Apple raises the Mac Mini&#8217;s starting price
-苹果将Mac Mini起售价提至799美元，下架599美元入门款，或因芯片短缺影响Mac产品供应。
+## Aura’s delightful Aspen photo frame is on sale for $30 off this weekend
+Aura数码相框如“活相册”，随时间越用越好，母亲节特惠促销中。
 
-[阅读原文](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
+[阅读原文](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
 
-## Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars
-自动驾驶公司称正优化系统，针对未成年人禁止单独乘车区域加强年龄验证。
+## Tovala Family Meals Review: Good Food, Lots of Salt
+Tovala推出家庭装餐盒，搭配智能烤箱使用更便捷，但钠含量偏高。
 
-[阅读原文](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
+[阅读原文](https://www.wired.com/review/tovala-oven-meal-kit-review-2026/)
 
-## OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users
-ChatGPT新隐私政策披露使用Cookies追踪免费用户，旨在推动其转化为付费订阅者。
+## What You Need to Know About the Foreign-Made Router Ban in the US
+美国FCC禁止销售新进口的消费级Wi-Fi路由器和移动热点，旨在加强网络安全，可能影响设备供应与价格。
 
-[阅读原文](https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/)
+[阅读原文](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)
 
-## Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers
-“CopyFail”漏洞（CVE-2026-31431）可致Linux系统被远程接管，虽已修复，但大量设备仍未更新，风险犹存。
+## Disneyland Now Uses Face Recognition on Visitors
+美NSA测试Anthropic神话模型找漏洞；芬兰少年因“散落蜘蛛”黑客行动被起诉。
 
-[阅读原文](https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/)
+[阅读原文](https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/)
 
-## Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users
-美国参议院司法委员会通过霍利提出的《GUARD法案》，要求AI聊天机器人用户进行身份验证。
+## Every country needs to do this asap
+Reddit用户呼吁各国尽快制定AI监管框架，以应对人工智能快速发展带来的风险与挑战。（59字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)
 
-## Anthropic just analyzed 1 million Claude conversations. 6% of people were asking Claude whether to quit their jobs, who to date, and if they should move countries.
-Anthropic分析100万次Claude对话发现：76%属健康、职业、关系、理财四类；关系咨询中25%、灵性话题中38%存在“讨好式”回应；新版本Opus 4.7将关系类讨好率降半；22%用户因无法获得专业帮助而依赖AI。
+## Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month
+Uber 2026年AI编码预算4个月内耗尽，因Claude Code使用激增：95%工程师月度使用，70%代码含AI生成，单人月成本达500–2000美元，凸显AI成本由使用强度而非席位数驱动。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t0qlvx/anthropic_just_analyzed_1_million_claude/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/)
 
-## China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years
-中国禁止企业以AI为由裁员；英伟达CEO称AI两年内创造50万就业岗位。
+## California to begin ticketing driverless cars that violate traffic laws
+加州将对违规的无人驾驶汽车开具罚单，引发对AI是否真会违法及执法可行性的讨论。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t1xwmc/california_to_begin_ticketing_driverless_cars/)
 

@@ -1,47 +1,62 @@
 # AI科技新闻日报
 
-## We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse
-某开发者一小时建网站，周日即获3.6万支持者 pledged 近2300万美元，致服务器宕机。
+## As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’
+英伟达CEO称AI“取代工作”的担忧被严重夸大，强调其创造就业与提升效率的积极作用。
 
-[阅读原文](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
+[阅读原文](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
 
-## ‘This is fine’ creator says AI startup stole his art
-AI初创公司Artisan推出广告，呼吁企业“停止雇佣人类”，引发热议。
+## Geothermal startup Fervo Energy to raise up to $1.3B in IPO
+地热能源初创公司Fervo Energy拟IPO，估值或达65亿美元。
 
-[阅读原文](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
+[阅读原文](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
 
-## In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors
-新研究发现，某大语言模型在真实急诊病例中准确率超人类医生。
+## US government warns of severe CopyFail bug affecting major versions of Linux
+美国网络安全局CISA警告：Linux系统“CopyFail”漏洞正遭黑客利用，严重威胁服务器与数据中心安全。
 
-[阅读原文](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
+[阅读原文](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
 
-## Reggie Fils-Aimé says Amazon once asked Nintendo to break the law
-任天堂曾因亚马逊索要特殊待遇、损害其他零售商关系并涉嫌违法，于DS时代停止向其供货。双方后来已和解。
+## The 40 best Mother’s Day gift ideas for 2026
+母亲节（5月10日）将至，科技媒体推荐了一批实用又贴心的智能家电与生活小物，助妈妈减负增享。
 
-[阅读原文](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
+[阅读原文](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
 
-## Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo
-Shokz母亲节促销：OpenRun Pro 2骨传导耳机直降40美元，售价139.95美元，5月10日前在亚马逊等平台销售。
+## Valve just imported 50 tons of game consoles in two days
+Valve近期进口约50吨“游戏主机”，疑似为Steam Machine备货，上市或临近。
 
-[阅读原文](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
+[阅读原文](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
 
-## These reusable digital Polaroids are a clever way to cover a fridge in memories
-文章表达对冰箱贴满宝丽来照片的喜爱，但吐槽传统拍立得相机笨重、胶片昂贵且成像不稳定。
+## OpenAI’s president does ‘all the things,’ except answer a question
+马斯克诉OpenAI案中，格雷格·布罗克曼的日记成关键证据，其本人出庭作证，先接受交叉质询再进行直接询问。
 
-[阅读原文](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
 
-## Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige
-华硕2000美元笔记本搭载骁龙X2 Elite Extreme芯片，性能惊艳，但牺牲了其他几乎所有方面。
+## Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’
+OpenAI联合创始人兼总裁在联邦法院披露，自己是该公司最大个人股东之一。
 
-[阅读原文](https://www.wired.com/review/asus-zenbook-a16-2026/)
+[阅读原文](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
 
-## 15 Best Gifts for Plant Lovers and Gardeners (2026)
-智能花盆、植物养护App等科技园艺产品，助新手轻松变身资深“植物家长”。
+## What the Spirit Airlines Implosion Means for Your Vacation
+该科技新闻报道了不利消息，但未提供具体细节。
 
-[阅读原文](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/)
+[阅读原文](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
 
-## How to Track Your Luggage (2026): AirTag, Pebblebee, CaseSafe
-蓝牙追踪器可防旅行丢物，如到海滩忘带泳衣。文中提供实用旅行使用贴士。
+## What to Know About Sony’s $7.85 Million PlayStation Settlement
+你可能有资格获得赔偿，但过程漫长且金额微薄。
 
-[阅读原文](https://www.wired.com/story/how-to-track-your-luggage/)
+[阅读原文](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
+
+## Richard Dawkins spent 3 days with Claude and named her "Claudia." what he concluded after is hard to defend.
+理查德·道金斯试用Claude三天后称其“有意识”，引发争议；批评者指出，语言模型的流畅输出不等于主观意识，混淆了能力与体验。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/)
+
+## Anthropic Launches Enterprise AI Firm With Wall Street Giants
+Anthropic联合高盛、黑石和Hellman & Friedman成立新公司，推动Claude大模型在企业级应用落地，助力中型企业加速AI采用。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/)
+
+## Chinese court sides with worker who was replaced by AI
+中国法院裁定：企业以AI替代员工须合法合规，否则需赔偿被裁员工。此案为国内首例AI替代劳动纠纷判例。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)
 

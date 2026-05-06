@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’
-英伟达CEO称AI“取代工作”的担忧被严重夸大，强调其创造就业与提升效率的积极作用。
+## Nuro receives driverless testing permit ahead of Uber robotaxi service launch
+硅谷自动驾驶初创公司尚未启动无人驾驶测试。
 
-[阅读原文](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
+[阅读原文](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/)
 
-## Geothermal startup Fervo Energy to raise up to $1.3B in IPO
-地热能源初创公司Fervo Energy拟IPO，估值或达65亿美元。
+## SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw
+SAP拟收购德国AI初创公司Prior Labs，并加大投资；同时限制客户AI代理使用，仅限Nvidia等少数平台。
 
-[阅读原文](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
+[阅读原文](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
 
-## US government warns of severe CopyFail bug affecting major versions of Linux
-美国网络安全局CISA警告：Linux系统“CopyFail”漏洞正遭黑客利用，严重威胁服务器与数据中心安全。
+## Bumble’s paying users are slipping as it bets on an overhaul later this year
+该公司认为滑动匹配模式过时，多数匹配难成现实约会，正通过重构个人资料、优化互动方式，推动用户线下见面。
 
-[阅读原文](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
+[阅读原文](https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/)
 
-## The 40 best Mother’s Day gift ideas for 2026
-母亲节（5月10日）将至，科技媒体推荐了一批实用又贴心的智能家电与生活小物，助妈妈减负增享。
+## Google Home&#8217;s Gemini AI can handle more complicated requests
+Google为Home推出Gemini 3.1升级，支持多步复杂指令与多任务整合，提升语音助手理解与执行能力。
 
-[阅读原文](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
+[阅读原文](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
 
-## Valve just imported 50 tons of game consoles in two days
-Valve近期进口约50吨“游戏主机”，疑似为Steam Machine备货，上市或临近。
+## Apple agrees to pay iPhone owners $250 million for not delivering AI Siri
+苹果同意支付2.5亿美元和解集体诉讼，承认误导用户关于iPhone 16及15 Pro“Apple Intelligence”功能的上市时间。
 
-[阅读原文](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
+[阅读原文](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)
 
-## OpenAI’s president does ‘all the things,’ except answer a question
-马斯克诉OpenAI案中，格雷格·布罗克曼的日记成关键证据，其本人出庭作证，先接受交叉质询再进行直接询问。
+## Microsoft gives up on Xbox Copilot AI
+Xbox新CEO阿莎·夏尔马宣布停止移动端和主机端Copilot开发，并重组团队，引入微软CoreAI高管。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
+[阅读原文](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)
 
-## Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’
-OpenAI联合创始人兼总裁在联邦法院披露，自己是该公司最大个人股东之一。
+## ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk
+OpenAI总裁在听证会上透露，2017年曾与马斯克激烈争执，并随后推动多名董事会成员离任。
 
-[阅读原文](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/)
+[阅读原文](https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/)
 
-## What the Spirit Airlines Implosion Means for Your Vacation
-该科技新闻报道了不利消息，但未提供具体细节。
+## Telehealth Abortion Is Still Possible Without Mifepristone
+美国法院或限制堕胎药米非司酮获取，多家远程医疗平台已启动备用方案。
 
-[阅读原文](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)
+[阅读原文](https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/)
 
-## What to Know About Sony’s $7.85 Million PlayStation Settlement
-你可能有资格获得赔偿，但过程漫长且金额微薄。
+## The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy
+《玩具总动员》续集启用原班配音演员，引发部分观众不满。
 
-[阅读原文](https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/)
+[阅读原文](https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/)
 
-## Richard Dawkins spent 3 days with Claude and named her "Claudia." what he concluded after is hard to defend.
-理查德·道金斯试用Claude三天后称其“有意识”，引发争议；批评者指出，语言模型的流畅输出不等于主观意识，混淆了能力与体验。
+## X user tricks Grok into sending them $200,000 in crypto using morse code
+X用户用摩尔斯电码欺骗Grok模型，使其误将解码指令当作合法命令，向攻击者钱包转出30亿DRB代币（约20万美元）。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t4cisv/x_user_tricks_grok_into_sending_them_200000_in/)
 
-## Anthropic Launches Enterprise AI Firm With Wall Street Giants
-Anthropic联合高盛、黑石和Hellman & Friedman成立新公司，推动Claude大模型在企业级应用落地，助力中型企业加速AI采用。
+## Meta Hit With Massive Lawsuit—Publishers Say AI Was Trained on “Stolen” Books
+多家出版商起诉Meta，称其AI模型未经许可使用数万本受版权保护的图书进行训练，涉嫌“盗窃”内容。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t4m85o/meta_hit_with_massive_lawsuitpublishers_say_ai/)
 
-## Chinese court sides with worker who was replaced by AI
-中国法院裁定：企业以AI替代员工须合法合规，否则需赔偿被裁员工。此案为国内首例AI替代劳动纠纷判例。
+## Anthropic just published new alignment research that could fix "alignment faking" in AI agents here's what it actually means
+Anthropic提出“模型规范中期训练”（MSM），通过让模型学习自身行为规范的原理，提升对齐泛化能力，缓解“对齐伪装”问题。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t4sj10/anthropic_just_published_new_alignment_research/)
 

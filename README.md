@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B
-该公司正洽谈融资7.5亿美元，投前估值超400亿美元，较去年11月的320亿大幅上升。
+## Laid-off Oracle workers tried to negotiate better severance. Oracle said no.
+部分被裁员工因被公司归类为远程工作者，未能获得《工人调整和再培训通知法》规定的两个月解雇预告保护。
 
-[阅读原文](https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/)
+[阅读原文](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
 
-## OpenAI launches new voice intelligence features in its API
-OpenAI新功能不仅适用于客服系统，还可广泛应用于教育、创作者平台等多个领域。
+## San Francisco’s housing market has lost its mind
+旧金山科技经济繁荣，催生全球高价值私企，员工正持续积累并加速套现巨额财富。
 
-[阅读原文](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
+[阅读原文](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
 
-## Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%
-该公司财报期间宣布新商业合同、加拿大试点项目及一项合作。
+## Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app
+Clips信息流功能上线，通过可滚动的短视频片段（剧集/电影）提升内容发现效率。
 
-[阅读原文](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
+[阅读原文](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
 
-## Canvas is down as ShinyHunters threatens to leak schools’ data
-Canvas平台因遭ShinyHunters黑客组织大规模数据泄露而宕机，影响学生姓名、邮箱、学号及消息等信息。
+## Asus chases Elgato with its own secondary touchscreen display
+华硕发布12.3英寸ROG Strix XG129C触控副屏显示器，专为搭配主屏使用，尺寸略小于竞品，主打游戏场景。
 
-[阅读原文](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+[阅读原文](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
 
-## Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster
-2023年感恩节前，OpenAI CEO山姆·阿尔特曼因“与董事会沟通不坦诚”被突然解雇，引发AI行业震荡。
+## Amazon is adding a vertical video feed to Prime Video
+亚马逊Prime Video上线“Clips”短视频流，提供剧集电影精彩片段，支持跳转观看、租赁或购买，加入短视屏竞争行列。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster)
+[阅读原文](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
 
-## Apple&#8217;s AirPods with cameras for AI are apparently close to production
-苹果带摄像头的AirPods正推进量产测试，原型机已进入设计验证阶段，但摄像头不用于拍照。
+## Here is Yarbo’s promise to fix the robot mower that ran me over
+Yarbo机器人割草机存严重安全漏洞，可被轻易劫持，泄露用户GPS、Wi-Fi密码等敏感信息；厂商已发布补丁。
 
-[阅读原文](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)
+[阅读原文](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
 
-## Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI
-2018年邮件显示，某科技巨头高管虽质疑OpenAI，但更担心其被亚马逊收购，故态度谨慎。
+## Top Megelin Deals for Laser and LED Therapy Devices (2026)
+母亲节期间，Megelin大幅降价促销其畅销激光与LED美容设备。
 
-[阅读原文](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)
+[阅读原文](https://www.wired.com/story/megelin-deals-2026/)
 
-## Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained
-特朗普政府拟出台行政令，对新AI模型实施联邦监管。
+## The Pentagon Releases New Trove of Declassified UFO Files
+美国国防部公布一批解密的UFO目击事件政府文件。
 
-[阅读原文](https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/)
+[阅读原文](https://www.wired.com/story/pentagon-drops-new-ufo-files/)
 
-## How to Disable Google's Gemini in Chrome
-Chrome内置4GB谷歌AI模型引发隐私担忧，虽可卸载但可能影响功能体验。
+## Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks
+特斯拉Cybertruck第11次召回：因使用错误润滑脂及螺母松动，部分车型或突发车轮脱落。
 
-[阅读原文](https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/)
+[阅读原文](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)
 
-## Governor Walz sings first-of-its-kind law to stop AI being used for CSAM
-明尼苏达州州长沃尔兹签署全美首部法律，禁止利用AI生成儿童性虐待材料（CSAM），严打AI滥用。
+## Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works
+马可·安德森因误称AI“无意识”“无目标”遭群嘲，暴露其对AI原理存在严重误解。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t6rmvc/governor_walz_sings_firstofitskind_law_to_stop_ai/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t6zm1l/marc_andreessen_mocked_for_accidentally_revealing/)
 
-## We gave 45 psychological questionnaires to 50 LLMs. What we found was not “personality.”
-研究发现，50个大模型对45种心理量表的回应差异主要体现为“匹诺曹维度”：即模型是否将主观体验语言（如情绪、意象）视为自身适用，而非真实人格特质。
+## Joscha Bach: Mapping Every Neuron Won't Give You a Mind
+乔希亚·巴赫指出：仅绘制全部神经元连接图谱，无法还原意识或心智，强调理解大脑需超越结构映射。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)
 
-## Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation
-Anthropic估值飙升80倍至1.2万亿美元，并获SpaceX“巨神”Colossus 1超算资源支持。
+## I like ChatGPT, I like AI
+Reddit用户分享趣味图片《我喜欢ChatGPT，我喜欢AI》，表达对AI技术的喜爱与乐观态度。（59字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1t6b6uz/anthropic_secures_spacex_colossus_1_after_growing/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/)
 

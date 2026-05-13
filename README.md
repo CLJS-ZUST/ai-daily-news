@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Riding an AI rally, Robinhood preps second retail venture IPO
-Robinhood秘密提交第二只风投基金申请，专注投资成长期及早期初创企业。
+## Medicare’s new payment model is built for AI, and most of the tech world has no idea
+ACCESS首创政府付费机制，支持AI代理在患者就诊间期提供随访、住房转介、用药提醒等持续照护服务。
 
-[阅读原文](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+[阅读原文](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
 
-## GM just laid off hundreds of IT workers to hire those with stronger AI skills
-多家科技公司正招聘AI原生开发、数据工程、云工程、智能体与模型开发、提示词工程及新AI工作流等岗位人才。
+## Kevin Hartz’s A* just closed its third fund with $450M
+该机构以通用型策略投资AI应用、金融科技、医疗健康及安全等领域初创企业，单笔投资300万至500万美元，计划支持至少30家。
 
-[阅读原文](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+[阅读原文](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
 
-## Finally, texts between Android and iPhone users can be end-to-end encrypted
-谷歌多年敦促苹果支持RCS短信，以提升安卓与iOS设备间的通信互通性。
+## Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup
+德鲁·巴格里诺2024年离开特斯拉后，创立第二家初创公司Sadi Thermal Machines。
 
-[阅读原文](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
+[阅读原文](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)
 
-## OpenAI just released its answer to Claude Mythos
-OpenAI推出“黎明”（Daybreak）AI计划，利用Codex安全AI代理，自动建模威胁、识别并修复代码漏洞，防患于未然。
+## Sony’s new Xperia phone gets an overdue redesign
+索尼Xperia 1 VIII告别多年设计，采用方正相机模组，升级长焦镜头与AI相机助手。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+[阅读原文](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs)
 
-## Yarbo says it will remove the intentional backdoor from its robot lawn mower
-Yarbo公司宣布移除割草机器人远程后门，用户可自主决定是否安装该功能，以提升安全性。
+## Sam Altman was winning on the stand, but it might not be enough
+奥特曼出庭否认窃取慈善机构指控，称成果源于团队辛勤工作。
 
-[阅读原文](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial)
 
-## Here&#8217;s what Mira Murati&#8217;s AI company is up to
-Thinking Machines（前OpenAI首席技术官Mira Murati创立）宣布研发“交互模型”，旨在实现人类与AI如人际协作般的自然音视频实时互动。
+## iOS 27 might add a lot more customization to the Camera app
+iOS 27将大幅升级相机应用，支持完全自定义控件（“小部件”），让用户自由选择所需拍摄功能。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
+[阅读原文](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization)
 
-## Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’
-前OpenAI首席科学家虽已离职，但周一作证时仍为公司辩护。
+## Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says
+马斯克律师就欺诈及财务投资质疑奥特曼，后者反指马斯克痴迷掌控OpenAI。
 
-[阅读原文](https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/)
+[阅读原文](https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/)
 
-## Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story
-一种更精准的胆固醇风险评估法已出现，但因成本、操作复杂等原因，尚未被医生广泛采用。
+## xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit
+马斯克公司扩大科洛苏斯2号站点便携式燃气发电，引发空气质量争议。
 
-[阅读原文](https://www.wired.com/story/moving-beyond-bad-cholesterol-test/)
+[阅读原文](https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/)
 
-## The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance
-《连线》获曝观众投诉Bad Bunny演出过于性感，且全程西班牙语引发不满。
+## The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy
+中国宇树科技推出巨型“破墙机甲”，主打低成本与强破坏力，拓展其机器人产品线。
 
-[阅读原文](https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/)
+[阅读原文](https://www.wired.com/story/unitree-gd01-mecha-robot/)
 
-## Palantir to be granted ‘unlimited access’ to NHS patient data
-Palantir获准无限访问英国NHS患者数据，引发隐私与伦理争议。
+## I made an agentic "Daily Brief" for my kids with a receipt printer
+程序员为孩子打造AI每日简报系统：凌晨自动生成个性化内容，按键即打印，2–5秒出纸，趣味实用。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tbasiz/i_made_an_agentic_daily_brief_for_my_kids_with_a/)
 
-## The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards
-AI美颜催生“Stacey脸”风潮，扭曲大众审美标准，引发对女性外貌焦虑与“颜值提升”文化的担忧。
+## My god there is an enormous crash just waiting to happen
+用户用GPT处理45页Excel表格耗时5分钟、成本10美元（补贴后），实际算力成本约100美元，质疑AI应用成本严重失衡，预示行业将迎硬着陆。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/)
 
-## Second mass-shooting AI chatbot court case arrives
-美多起AI聊天机器人涉枪击案诉讼升级，新案指控其未尽“警示义务”并助嫌犯策划作案，但未称其直接教唆犯罪。
+## Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability
+谷歌发现黑客利用AI生成代码，结合零日漏洞绕过双重身份验证（2FA）。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Medicare’s new payment model is built for AI, and most of the tech world has no idea
-ACCESS首创政府付费机制，支持AI代理在患者就诊间期提供随访、住房转介、用药提醒等持续照护服务。
+## Notion just turned its workspace into a hub for AI agents
+Notion推出新开发者平台，支持团队将AI智能体、外部数据源和自定义代码直接接入工作区，深化智能生产力布局。
 
-[阅读原文](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
+[阅读原文](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
 
-## Kevin Hartz’s A* just closed its third fund with $450M
-该机构以通用型策略投资AI应用、金融科技、医疗健康及安全等领域初创企业，单笔投资300万至500万美元，计划支持至少30家。
+## Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center
+xAI在Colossus 2数据中心使用“移动”燃气轮机供电，引发诉讼，被指违规将其用作固定式发电设施。
 
-[阅读原文](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
+[阅读原文](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
 
-## Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup
-德鲁·巴格里诺2024年离开特斯拉后，创立第二家初创公司Sadi Thermal Machines。
+## Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are
+Claude Code及Cowork产品负责人称，AI下一重大突破在于“主动性”。
 
-[阅读原文](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)
+[阅读原文](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
 
-## Sony’s new Xperia phone gets an overdue redesign
-索尼Xperia 1 VIII告别多年设计，采用方正相机模组，升级长焦镜头与AI相机助手。
+## Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs
+微软Edge将为Copilot新增多标签页信息整合功能，支持跨页面问答、比价、摘要等，提升浏览与信息处理效率。
 
-[阅读原文](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs)
+[阅读原文](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
 
-## Sam Altman was winning on the stand, but it might not be enough
-奥特曼出庭否认窃取慈善机构指控，称成果源于团队辛勤工作。
+## Trump administration defends right to ban content moderation experts from US
+特朗普政府被诉限制社媒内容审核倡导者入境，美法院就此案举行听证。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial)
+[阅读原文](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
 
-## iOS 27 might add a lot more customization to the Camera app
-iOS 27将大幅升级相机应用，支持完全自定义控件（“小部件”），让用户自由选择所需拍摄功能。
+## YouTube is courting creators — and sponsors — with streaming shows
+YouTube在纽约广告商大会上强调其创作者是广告、电视、流媒体及娱乐的未来，定位自身为创作者与广告主的关键连接平台。
 
-[阅读原文](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization)
+[阅读原文](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront)
 
-## Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says
-马斯克律师就欺诈及财务投资质疑奥特曼，后者反指马斯克痴迷掌控OpenAI。
+## Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions
+原被告双方均已完成举证和结案陈词，庭审结束。
 
-[阅读原文](https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/)
+[阅读原文](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)
 
-## xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit
-马斯克公司扩大科洛苏斯2号站点便携式燃气发电，引发空气质量争议。
+## Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps
+Instagram推出“Instants”应用，支持发送阅后即焚照片，或成用户分享私密内容的新平台。
 
-[阅读原文](https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/)
+[阅读原文](https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/)
 
-## The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy
-中国宇树科技推出巨型“破墙机甲”，主打低成本与强破坏力，拓展其机器人产品线。
+## What It Will Take to Make AI Sustainable
+研究者萨沙·卢奇奥尼指出，需提升AI碳排放数据质量，并更清晰掌握AI实际应用情况。
 
-[阅读原文](https://www.wired.com/story/unitree-gd01-mecha-robot/)
+[阅读原文](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/)
 
-## I made an agentic "Daily Brief" for my kids with a receipt printer
-程序员为孩子打造AI每日简报系统：凌晨自动生成个性化内容，按键即打印，2–5秒出纸，趣味实用。
+## AI helps man recover $400,000 in Bitcoin 11 years after he got high and forgot password
+AI助男子11年后找回因吸毒遗忘密码而丢失的40万美元比特币。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tbasiz/i_made_an_agentic_daily_brief_for_my_kids_with_a/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tca9sb/ai_helps_man_recover_400000_in_bitcoin_11_years/)
 
-## My god there is an enormous crash just waiting to happen
-用户用GPT处理45页Excel表格耗时5分钟、成本10美元（补贴后），实际算力成本约100美元，质疑AI应用成本严重失衡，预示行业将迎硬着陆。
+## AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News
+安大略省医生使用的AI语音转录系统被审计发现存在“幻觉”和错误，引发对医疗AI安全性的严重担忧。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/)
 
-## Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability
-谷歌发现黑客利用AI生成代码，结合零日漏洞绕过双重身份验证（2FA）。
+## I asked 4 AIs to pick a number. Why they all said 7?
+Reddit用户测试4款AI随机选数，结果均选7。专家分析称，这源于训练数据中“7”常被关联为“幸运数字”，导致模型产生统计偏好。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tchsrd/i_asked_4_ais_to_pick_a_number_why_they_all_said_7/)
 

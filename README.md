@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Notion just turned its workspace into a hub for AI agents
-Notion推出新开发者平台，支持团队将AI智能体、外部数据源和自定义代码直接接入工作区，深化智能生产力布局。
+## What the jury will actually decide in the case of Elon Musk vs. Sam Altman
+今年最大科技诉讼案聚焦于某巨头被控垄断行为，涉及应用商店政策、抽成比例及限制第三方支付等核心争议。
 
-[阅读原文](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
+[阅读原文](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 
-## Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center
-xAI在Colossus 2数据中心使用“移动”燃气轮机供电，引发诉讼，被指违规将其用作固定式发电设施。
+## Elon Musk’s SpaceXAI has been bleeding staff since its merger
+超50名员工自2月起离职SpaceXAI，疑因过劳、领导变动、被挖角及股权激励减弱。
 
-[阅读原文](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
+[阅读原文](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
 
-## Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are
-Claude Code及Cowork产品负责人称，AI下一重大突破在于“主动性”。
+## OpenAI says Codex is coming to your phone
+新更新赋予用户更强的工作流管理灵活性。
 
-[阅读原文](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
+[阅读原文](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
 
-## Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs
-微软Edge将为Copilot新增多标签页信息整合功能，支持跨页面问答、比价、摘要等，提升浏览与信息处理效率。
+## Honda&#8217;s hybrid future starts with new Accord and RDX prototypes
+本田本周发布新款混动雅阁轿车与讴歌RDX SUV原型车，均基于明年起量产的新平台，RDX为首款搭载第二代双电机混动系统的本田SUV。
 
-[阅读原文](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
+[阅读原文](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx)
 
-## Trump administration defends right to ban content moderation experts from US
-特朗普政府被诉限制社媒内容审核倡导者入境，美法院就此案举行听证。
+## Closing time
+马斯克诉奥特曼案结案陈词混乱：律师屡出错，误称布罗克曼为“奥特曼”，事实陈述亦多有谬误。
 
-[阅读原文](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
 
-## YouTube is courting creators — and sponsors — with streaming shows
-YouTube在纽约广告商大会上强调其创作者是广告、电视、流媒体及娱乐的未来，定位自身为创作者与广告主的关键连接平台。
+## Metroid Prime 4: Beyond got its first big discount
+《密特罗德Prime 4：超越》实体版在百思买降价20美元至39.99美元，画质惊艳，Switch 2版需额外加10美元升级。
 
-[阅读原文](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront)
+[阅读原文](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
 
-## Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions
-原被告双方均已完成举证和结案陈词，庭审结束。
+## The Real Losers of the Musk v. Altman Trial
+联邦陪审团正裁决马斯克诉OpenAI及奥特曼案，但庭审过程令各方声誉受损。
 
-[阅读原文](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)
+[阅读原文](https://www.wired.com/story/musk-v-altman-trial-closing-arguments/)
 
-## Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps
-Instagram推出“Instants”应用，支持发送阅后即焚照片，或成用户分享私密内容的新平台。
+## We Now Know How Many People the CDC Is Monitoring for Hantavirus
+美国暂无安第斯病毒确诊病例，但41名潜在接触者正被隔离或医学观察。
 
-[阅读原文](https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/)
+[阅读原文](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/)
 
-## What It Will Take to Make AI Sustainable
-研究者萨沙·卢奇奥尼指出，需提升AI碳排放数据质量，并更清晰掌握AI实际应用情况。
+## An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta
+Meta美英员工联合抵制公司监控软件，反对 keystroke 和鼠标活动追踪。
 
-[阅读原文](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/)
+[阅读原文](https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/)
 
-## AI helps man recover $400,000 in Bitcoin 11 years after he got high and forgot password
-AI助男子11年后找回因吸毒遗忘密码而丢失的40万美元比特币。
+## Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense
+Anthropic预测2028年中美AI领导权两种前景：美若严控芯片出口与“蒸馏攻击”，可保持12–24个月领先并主导全球AI治理；否则中国或借走私芯片和窃取模型输出实现赶超，输出监控技术。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tca9sb/ai_helps_man_recover_400000_in_bitcoin_11_years/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/)
 
-## AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News
-安大略省医生使用的AI语音转录系统被审计发现存在“幻觉”和错误，引发对医疗AI安全性的严重担忧。
+## Adaptive Markdown
+开发者推出开源“自适应Markdown”，让文档成为可交互的AI工作区，支持实时翻译、提问、运行代码、生成示例等，提升学术阅读与学习效率。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tdhoxd/adaptive_markdown/)
 
-## I asked 4 AIs to pick a number. Why they all said 7?
-Reddit用户测试4款AI随机选数，结果均选7。专家分析称，这源于训练数据中“7”常被关联为“幸运数字”，导致模型产生统计偏好。
+## AWS user hit with 30000 dollar bill after Claude runaway on Bedrock
+AWS用户因未设防护的Claude调用遭3万美元账单，暴露AI成本失控、安全风险与监管缺位问题。多厂商正紧急加装支出熔断、API限流等措施。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tchsrd/i_asked_4_ais_to_pick_a_number_why_they_all_said_7/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/)
 

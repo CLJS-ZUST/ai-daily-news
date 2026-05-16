@@ -1,62 +1,47 @@
 # AI科技新闻日报
 
-## What the jury will actually decide in the case of Elon Musk vs. Sam Altman
-今年最大科技诉讼案聚焦于某巨头被控垄断行为，涉及应用商店政策、抽成比例及限制第三方支付等核心争议。
+## RJ Scaringe has raised more than $12B across three startups and investors still want more
+投资者热捧RJ Scaringe及其理念；同事称其擅讲故事与沟通，这是他的核心优势之一。
 
-[阅读原文](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
+[阅读原文](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
 
-## Elon Musk’s SpaceXAI has been bleeding staff since its merger
-超50名员工自2月起离职SpaceXAI，疑因过劳、领导变动、被挖角及股权激励减弱。
+## General Catalyst posted VC rage bait and it worked, especially on a16z
+马克试图抵制X平台成瘾，却仍频繁发帖回应，凸显其难以自控的使用习惯。
 
-[阅读原文](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
+[阅读原文](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
 
-## OpenAI says Codex is coming to your phone
-新更新赋予用户更强的工作流管理灵活性。
+## A hotel check-in system left a million passports and driver’s licenses open for anyone to see
+某酒店入住系统运维公司误将云存储设为公开，致客户数据无密码泄露。
 
-[阅读原文](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
+[阅读原文](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
 
-## Honda&#8217;s hybrid future starts with new Accord and RDX prototypes
-本田本周发布新款混动雅阁轿车与讴歌RDX SUV原型车，均基于明年起量产的新平台，RDX为首款搭载第二代双电机混动系统的本田SUV。
+## Xbox is now XBOX
+微软将Xbox官方推特账号更名为“XBOX”，CEO发起投票后依结果完成更名，引发热议。
 
-[阅读原文](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx)
+[阅读原文](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
 
-## Closing time
-马斯克诉奥特曼案结案陈词混乱：律师屡出错，误称布罗克曼为“奥特曼”，事实陈述亦多有谬误。
+## YouTube is expanding its AI deepfake detection tool to all adult users
+YouTube向18岁以上用户全面开放AI肖像检测功能，通过自拍扫描人脸，自动识别并预警视频中可能的深度伪造（deepfake）内容。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
+[阅读原文](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
 
-## Metroid Prime 4: Beyond got its first big discount
-《密特罗德Prime 4：超越》实体版在百思买降价20美元至39.99美元，画质惊艳，Switch 2版需额外加10美元升级。
+## Windows 11 tests an adjustable taskbar and resizable Start menu
+微软向Windows 11测试用户推送新功能：可自由调整任务栏位置（四边均可）及开始菜单大小。
 
-[阅读原文](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
+[阅读原文](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
 
-## The Real Losers of the Musk v. Altman Trial
-联邦陪审团正裁决马斯克诉OpenAI及奥特曼案，但庭审过程令各方声誉受损。
+## The Best Outdoor Deals From the REI Anniversary Sale 2026
+夏季来临，户外装备如帐篷、睡袋等迎来最佳购置时机。
 
-[阅读原文](https://www.wired.com/story/musk-v-altman-trial-closing-arguments/)
+[阅读原文](https://www.wired.com/story/rei-anniversary-sale-2026/)
 
-## We Now Know How Many People the CDC Is Monitoring for Hantavirus
-美国暂无安第斯病毒确诊病例，但41名潜在接触者正被隔离或医学观察。
+## Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved
+特斯拉称，远程操作员缓慢驾驶其自动驾驶车辆，意外撞上金属围栏和施工路障。
 
-[阅读原文](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/)
+[阅读原文](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/)
 
-## An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta
-Meta美英员工联合抵制公司监控软件，反对 keystroke 和鼠标活动追踪。
+## Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real
+洛杉矶市长候选人、前真人秀明星炒作“超强效冰毒”恐吓选民，专家批其为毒品战争式宣传。
 
-[阅读原文](https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/)
-
-## Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense
-Anthropic预测2028年中美AI领导权两种前景：美若严控芯片出口与“蒸馏攻击”，可保持12–24个月领先并主导全球AI治理；否则中国或借走私芯片和窃取模型输出实现赶超，输出监控技术。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/)
-
-## Adaptive Markdown
-开发者推出开源“自适应Markdown”，让文档成为可交互的AI工作区，支持实时翻译、提问、运行代码、生成示例等，提升学术阅读与学习效率。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tdhoxd/adaptive_markdown/)
-
-## AWS user hit with 30000 dollar bill after Claude runaway on Bedrock
-AWS用户因未设防护的Claude调用遭3万美元账单，暴露AI成本失控、安全风险与监管缺位问题。多厂商正紧急加装支出熔断、API限流等措施。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/)
+[阅读原文](https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/)
 

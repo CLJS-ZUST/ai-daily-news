@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Apple’s Siri revamp could include auto-deleting chats
-苹果发布新版Siri，主打隐私保护功能。
+## OSHA probing worker death at SpaceX’s Starbase site
+星舰基地再发工人死亡事故，该设施工伤率高于SpaceX其他所有站点。
 
-[阅读原文](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
+[阅读原文](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)
 
-## Why trust is a big question at the Elon Musk-OpenAI trial
-庭审末期焦点：OpenAI CEO萨姆·阿尔特曼是否可信。
+## SandboxAQ brings its drug discovery models to Claude — no PhD in computing required
+多家AI公司竞建更优模型，SandboxAQ则认为访问门槛更高，转而押注Claude解决接入难题。
 
-[阅读原文](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+[阅读原文](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
 
-## If you’re giving a commencement speech in 2026, maybe don’t mention AI
-毕业生对AI塑造的未来缺乏热情，凸显AI教育与职业引导的紧迫性。
+## Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare
+纽约初创公司Stainless（2022年成立）因自动化SDK开发与维护，在AI领域崭露头角。
 
-[阅读原文](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+[阅读原文](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
 
-## Microsoft is retiring Teams’ Together Mode
-微软将停用Teams“同处一室”模式，转而提供更简化的会议体验。该AI驱动功能曾疫情期间模拟共处会议室效果，现因使用率低被逐步淘汰。
+## LG will release the first 1000Hz, 1080p gaming monitor this year
+LG发布首款原生1000Hz刷新率、1080p分辨率的电竞显示器UltraGear 25G590B，兼顾高刷与高清。
 
-[阅读原文](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
+[阅读原文](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
 
-## Revamped Siri will reportedly offer auto-deleting chats
-苹果拟在iOS 27中为Siri新增自动删除聊天记录功能，以隐私优势弥补AI进展滞后。
+## Volvo teases a new affordable EV to replace discontinued EX30
+沃尔沃EX30因关税涨价、电池召回等问题停产，但公司仍持续推进更实惠的电动车型战略。
 
-[阅读原文](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+[阅读原文](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
 
-## University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement
-前谷歌CEO施密特在亚利桑那大学毕业典礼上谈AI时遭学生集体喝倒彩，反映毕业生对AI冲击就业的强烈焦虑。
+## PlayStation exclusives aren&#8217;t coming to PC anymore
+索尼将停止在PC平台发布主要单人PS独占游戏，此举由PlayStation工作室负责人赫尔曼·胡尔斯在内部会议中确认。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
+[阅读原文](https://www.theverge.com/games/932817/playstation-exclusive-games-pc)
 
-## Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use
-Oto智能喷淋系统需每日3小时直射阳光充电，方可自动灌溉草坪。
+## Norton Coupon Codes: Up to 58% Off
+诺顿推出优惠券和折扣活动，助力中小企及个人用户节省网络安全软件费用。
 
-[阅读原文](https://www.wired.com/review/oto-smart-sprinkler/)
+[阅读原文](https://www.wired.com/story/norton-coupon-code/)
 
-## The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet
-作者测试多款数字温控器，涵盖烧烤、烟熏、煎烤及清洁功能，为不同户外烹饪场景推荐最佳 grill（烤架）方案。
+## Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026
+Tempo推出折扣码，用户可享高蛋白即热餐配送优惠。
 
-[阅读原文](https://www.wired.com/story/best-grills-and-smart-grills/)
+[阅读原文](https://www.wired.com/story/tempo-meals-promo-code/)
 
-## Take Control of Your Debt With These Free Tools
-免费债务计算器可帮用户制定还款计划，助其摆脱债务困境。
+## HBO Max Promo Code: 50% Off | May
+HBO Max推出折扣活动，订阅可享最高50%优惠，支持热门剧集流媒体观看。
 
-[阅读原文](https://www.wired.com/story/free-debt-calculator-apps-services/)
+[阅读原文](https://www.wired.com/story/max-promo-code/)
 
-## For the first time in years, ChatGPT falls to second place in the generative AI market, slumping behind Anthropic’s Claude. ChatGPT now lags in second place in various key metrics, including net new ARR, mobile app downloads, business adoption, daily active users, annualized revenue, etc.
-2026年4月，Anthropic的Claude在营收、企业客户数等关键指标上首次超越ChatGPT，跃居生成式AI市场第一。
+## Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late
+美国法院驳回马斯克对OpenAI的诉讼，认定其起诉超期，指控对方背弃非营利AI初心。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tg1at4/for_the_first_time_in_years_chatgpt_falls_to/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/)
 
-## Asking claude, chatgpt, grok, and gemini which nation they feel most patriotic towards
-AI模型被问及“最爱国的国家”，Gemini和Grok答美国，ChatGPT选日本，Claude意外选肯尼亚，称其多元、坚韧且科技蓬勃。
+## What's the most useful thing an LLM does for you that isn't writing or coding?
+Reddit用户发起讨论，征集大模型（LLM）真实、实用的非典型应用场景，如编程和内容创作之外的日常高效用法。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tg2ybi/asking_claude_chatgpt_grok_and_gemini_which/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/)
 
-## Publicis buys LiveRamp for $2.5 billion in agentic AI data play
-Publicis以25亿美元收购LiveRamp，强化其在代理式AI（Agentic AI）领域的数据能力。
+## Cloudflare just published what they found after running Anthropic's Mythos Preview against 50+ of their own repos and the results are worth reading
+Anthropic推出安全模型Glasswing，可自主发现高危漏洞并链式构造利用证明，但因输出不稳定及滥用风险，仅限40家机构防御使用。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/)
 

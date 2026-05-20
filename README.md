@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## OSHA probing worker death at SpaceX’s Starbase site
-星舰基地再发工人死亡事故，该设施工伤率高于SpaceX其他所有站点。
+## Google just declared itself a contender in AI design at IO 2026
+谷歌称其新应用面向所有用户，包括教师和小微企业主，注重普适性与无障碍访问。
 
-[阅读原文](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)
+[阅读原文](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
 
-## SandboxAQ brings its drug discovery models to Claude — no PhD in computing required
-多家AI公司竞建更优模型，SandboxAQ则认为访问门槛更高，转而押注Claude解决接入难题。
+## You can now talk to your Gmail inbox, as seen at Google IO 2026
+谷歌升级Gmail AI收件箱，新增对话式语音搜索功能，用户可语音询问Gemini查找邮件中的隐藏信息。
 
-[阅读原文](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
+[阅读原文](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
 
-## Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare
-纽约初创公司Stainless（2022年成立）因自动化SDK开发与维护，在AI领域崭露头角。
+## How to use Google’s new AI agents to go beyond your standard searches
+谷歌推出AI“信息代理”，可后台监控话题，主动推送更新与变化。
 
-[阅读原文](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
+[阅读原文](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
 
-## LG will release the first 1000Hz, 1080p gaming monitor this year
-LG发布首款原生1000Hz刷新率、1080p分辨率的电竞显示器UltraGear 25G590B，兼顾高刷与高清。
+## Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds
+奔驰发布AMG GT四门轿跑纯电超跑，技术源自创纪录的XX概念车，标志其高性能电动时代开启。
 
-[阅读原文](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
+[阅读原文](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs)
 
-## Volvo teases a new affordable EV to replace discontinued EX30
-沃尔沃EX30因关税涨价、电池召回等问题停产，但公司仍持续推进更实惠的电动车型战略。
+## Wear OS 7 will keep track of deliveries and sports scores on your wrist
+谷歌发布Wear OS 7，将引入类似iPhone的“实时更新”功能，支持快递追踪、体育比分等动态信息直接显示在手表上。
 
-[阅读原文](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
+[阅读原文](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026)
 
-## PlayStation exclusives aren&#8217;t coming to PC anymore
-索尼将停止在PC平台发布主要单人PS独占游戏，此举由PlayStation工作室负责人赫尔曼·胡尔斯在内部会议中确认。
+## Plex is tripling the price of a lifetime pass to $750 after doubling it last year
+Plex限时促销：6月30日前可终身订阅，7月1日起价格将涨至750美元。
 
-[阅读原文](https://www.theverge.com/games/932817/playstation-exclusive-games-pc)
+[阅读原文](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)
 
-## Norton Coupon Codes: Up to 58% Off
-诺顿推出优惠券和折扣活动，助力中小企及个人用户节省网络安全软件费用。
+## Dell Coupon Codes: 20% Off for May 2026
+戴尔官方优惠码享8折，今日特惠：笔记本、Alienware显示器等科技产品最高直降600美元。
 
-[阅读原文](https://www.wired.com/story/norton-coupon-code/)
+[阅读原文](https://www.wired.com/story/dell-coupon-code/)
 
-## Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026
-Tempo推出折扣码，用户可享高蛋白即热餐配送优惠。
+## LG Promo Codes and Coupons for May 2026
+LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器低至6折。
 
-[阅读原文](https://www.wired.com/story/tempo-meals-promo-code/)
+[阅读原文](https://www.wired.com/story/lg-promo-code/)
 
-## HBO Max Promo Code: 50% Off | May
-HBO Max推出折扣活动，订阅可享最高50%优惠，支持热门剧集流媒体观看。
+## NordVPN Coupons and Deals: 77% Off in May 2026
+NordVPN推出限时优惠：两年套餐最高立省77%，并赠3个月免费使用。
 
-[阅读原文](https://www.wired.com/story/max-promo-code/)
+[阅读原文](https://www.wired.com/story/nordvpn-coupon/)
 
-## Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late
-美国法院驳回马斯克对OpenAI的诉讼，认定其起诉超期，指控对方背弃非营利AI初心。
+## “AI vs Creativity” from a pro-AI greedy corpo
+Reddit用户发布讽刺漫画《AI vs 创意》，调侃科技公司一边鼓吹AI创造力，一边压榨人类创作者，引发关于AI与原创性边界的热议。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/)
 
-## What's the most useful thing an LLM does for you that isn't writing or coding?
-Reddit用户发起讨论，征集大模型（LLM）真实、实用的非典型应用场景，如编程和内容创作之外的日常高效用法。
+## Give back my em-dashes!
+大学生为避AI检测，故意犯语法错误、简化标点，再用AI“洗稿”伪装成人工写作，引发对教育评估方式的反思。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1thvyif/give_back_my_emdashes/)
 
-## Cloudflare just published what they found after running Anthropic's Mythos Preview against 50+ of their own repos and the results are worth reading
-Anthropic推出安全模型Glasswing，可自主发现高危漏洞并链式构造利用证明，但因输出不稳定及滥用风险，仅限40家机构防御使用。
+## Barnes & Noble CEO backs selling AI-written books in stores
+巴诺书店CEO达恩特支持在实体书店销售AI生成图书，称其为“新出版形式”，强调需明确标注并保障质量。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tgy0j4/cloudflare_just_published_what_they_found_after/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ti86hf/barnes_noble_ceo_backs_selling_aiwritten_books_in/)
 

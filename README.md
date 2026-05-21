@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Google just declared itself a contender in AI design at IO 2026
-谷歌称其新应用面向所有用户，包括教师和小微企业主，注重普适性与无障碍访问。
+## Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
+英国生物技术公司Imperagen获500万英镑种子轮融资，由PXN Ventures领投，IQ Capital等跟投。
 
-[阅读原文](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
+[阅读原文](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
 
-## You can now talk to your Gmail inbox, as seen at Google IO 2026
-谷歌升级Gmail AI收件箱，新增对话式语音搜索功能，用户可语音询问Gemini查找邮件中的隐藏信息。
+## Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia
+英伟达CEO黄仁勋预测，AI代理专用CPU将成为公司下一个重大增长点，市场规模达2000亿美元。
 
-[阅读原文](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
+[阅读原文](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/)
 
-## How to use Google’s new AI agents to go beyond your standard searches
-谷歌推出AI“信息代理”，可后台监控话题，主动推送更新与变化。
+## Anthropic says it’s about to have its first profitable quarter
+Anthropic预计第二季度营收将超10.9亿美元，较此前增长一倍以上。
 
-[阅读原文](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
+[阅读原文](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
 
-## Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds
-奔驰发布AMG GT四门轿跑纯电超跑，技术源自创纪录的XX概念车，标志其高性能电动时代开启。
+## In SpaceX’s IPO, Elon Musk is a risk factor
+SpaceX启动IPO，或助马斯克成首位万亿富翁；其旗下公司间资金往来复杂，透明度低。
 
-[阅读原文](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs)
+[阅读原文](https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor)
 
-## Wear OS 7 will keep track of deliveries and sports scores on your wrist
-谷歌发布Wear OS 7，将引入类似iPhone的“实时更新”功能，支持快递追踪、体育比分等动态信息直接显示在手表上。
+## SpaceX just filed for what could be the biggest IPO ever
+SpaceX正式向SEC提交IPO文件，拟纳斯达克上市（代码SPCX），2025年营收186.7亿美元，或成史上最大IPO。
 
-[阅读原文](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026)
+[阅读原文](https://www.theverge.com/business/902219/spacex-ipo-details)
 
-## Plex is tripling the price of a lifetime pass to $750 after doubling it last year
-Plex限时促销：6月30日前可终身订阅，7月1日起价格将涨至750美元。
+## ‘Solve all diseases,’ you say?
+《The Verge》推出“Optimizer”周报，聚焦最新科技产品；本期为谷歌I/O大会特辑，提前发布。
 
-[阅读原文](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)
+[阅读原文](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)
 
-## Dell Coupon Codes: 20% Off for May 2026
-戴尔官方优惠码享8折，今日特惠：笔记本、Alienware显示器等科技产品最高直降600美元。
+## Columbia Promo Codes: 15% Off | May 2026
+哥伦比亚官网推出外套、户外装备等促销，含学生折扣、优惠码及免运费活动。
 
-[阅读原文](https://www.wired.com/story/dell-coupon-code/)
+[阅读原文](https://www.wired.com/story/columbia-promo-code/)
 
-## LG Promo Codes and Coupons for May 2026
-LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器低至6折。
+## Sam's Club Coupons and Promo May 2026
+山姆会员店推出促销代码及会员折扣，可节省大宗食品、日用品和电子产品开支。
 
-[阅读原文](https://www.wired.com/story/lg-promo-code/)
+[阅读原文](https://www.wired.com/story/sams-club-coupon/)
 
-## NordVPN Coupons and Deals: 77% Off in May 2026
-NordVPN推出限时优惠：两年套餐最高立省77%，并赠3个月免费使用。
+## The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026
+《The Motley Fool》推出会员折扣、股票顾问优惠码及Epic Bundle特惠，助投资者低成本优化投资组合。
 
-[阅读原文](https://www.wired.com/story/nordvpn-coupon/)
+[阅读原文](https://www.wired.com/story/the-motley-fool-promo-code/)
+
+## An OpenAI model has disproved a central conjecture in discrete geometry
+OpenAI模型推翻离散几何核心猜想，标志AI在数学证明领域取得突破性进展。
+
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/)
 
 ## “AI vs Creativity” from a pro-AI greedy corpo
-Reddit用户发布讽刺漫画《AI vs 创意》，调侃科技公司一边鼓吹AI创造力，一边压榨人类创作者，引发关于AI与原创性边界的热议。
+Reddit用户发布讽刺漫画《AI vs 创意》，调侃科技公司一边鼓吹AI创新，一边压榨人类创作者，引发对AI时代创意劳动价值的讨论。
 
 [阅读原文](https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/)
 
-## Give back my em-dashes!
-大学生为避AI检测，故意犯语法错误、简化标点，再用AI“洗稿”伪装成人工写作，引发对教育评估方式的反思。
+## Google is officially replacing Vertex AI with the new "Gemini Enterprise Agent Platform"
+谷歌云将Vertex AI升级为Gemini企业代理平台，转向以自主AI代理为核心的生态系统，统一AI开发、治理与安全，并支持200+模型。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1thvyif/give_back_my_emdashes/)
-
-## Barnes & Noble CEO backs selling AI-written books in stores
-巴诺书店CEO达恩特支持在实体书店销售AI生成图书，称其为“新出版形式”，强调需明确标注并保障质量。
-
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ti86hf/barnes_noble_ceo_backs_selling_aiwritten_books_in/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/)
 

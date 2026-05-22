@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Imperagen raises £5 million to use quantum physics, AI on enzyme engineering
-英国生物技术公司Imperagen获500万英镑种子轮融资，由PXN Ventures领投，IQ Capital等跟投。
+## Waymo expands pause to four cities as robotaxis keep driving into floods
+Waymo暂停亚特兰大和圣安东尼奥的无人驾驶出租车服务，因车辆误入积水路段，正紧急升级防洪安全系统。
 
-[阅读原文](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
+[阅读原文](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
 
-## Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia
-英伟达CEO黄仁勋预测，AI代理专用CPU将成为公司下一个重大增长点，市场规模达2000亿美元。
+## SpaceX scrubs first Starship V3 launch just before liftoff
+SpaceX第三次星舰试飞前加注燃料后临发射取消，计划周五再次尝试。
 
-[阅读原文](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/)
+[阅读原文](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
 
-## Anthropic says it’s about to have its first profitable quarter
-Anthropic预计第二季度营收将超10.9亿美元，较此前增长一倍以上。
+## Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle
+马斯克持有SpaceX最大股份，其他大股东也与其长期深度绑定。
 
-[阅读原文](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
+[阅读原文](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
 
-## In SpaceX’s IPO, Elon Musk is a risk factor
-SpaceX启动IPO，或助马斯克成首位万亿富翁；其旗下公司间资金往来复杂，透明度低。
+## Anker’s new earbuds are the first with its AI chip that boosts noise reduction
+Anker发布Soundcore Liberty 5 Pro真无线耳机，首发搭载Thus AI音频芯片，显著提升主动降噪与通话人声清晰度。
 
-[阅读原文](https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor)
+[阅读原文](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
 
-## SpaceX just filed for what could be the biggest IPO ever
-SpaceX正式向SEC提交IPO文件，拟纳斯达克上市（代码SPCX），2025年营收186.7亿美元，或成史上最大IPO。
+## Anker’s new earbuds have the best call quality I’ve ever heard
+Soundcore推出高端真无线耳机Liberty 5 Pro系列，搭载自研Thus芯片，算力升级，冲击旗舰市场。
 
-[阅读原文](https://www.theverge.com/business/902219/spacex-ipo-details)
+[阅读原文](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)
 
-## ‘Solve all diseases,’ you say?
-《The Verge》推出“Optimizer”周报，聚焦最新科技产品；本期为谷歌I/O大会特辑，提前发布。
+## States ask judge to break up Live Nation-Ticketmaster
+美联邦法官将裁决是否拆分Live Nation-Ticketmaster。30多州要求其出售票务业务、部分大型场馆，并限制捆绑促销。
 
-[阅读原文](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)
+[阅读原文](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up)
 
-## Columbia Promo Codes: 15% Off | May 2026
-哥伦比亚官网推出外套、户外装备等促销，含学生折扣、优惠码及免运费活动。
+## Nike Promo Codes and Discounts: 30% for May 2026
+该消息为Nike本月促销广告，非科技新闻，主要内容是部分商品享85折优惠。
 
-[阅读原文](https://www.wired.com/story/columbia-promo-code/)
+[阅读原文](https://www.wired.com/story/nike-promo-code/)
 
-## Sam's Club Coupons and Promo May 2026
-山姆会员店推出促销代码及会员折扣，可节省大宗食品、日用品和电子产品开支。
+## Google Workspace Promo Codes: 14% Off for May
+WIRED推出Google Workspace专属优惠券，最高享14%折扣，覆盖Starter、Standard、Plus三档套餐，限时三个月。
 
-[阅读原文](https://www.wired.com/story/sams-club-coupon/)
+[阅读原文](https://www.wired.com/story/google-workspace-promo-code/)
 
-## The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026
-《The Motley Fool》推出会员折扣、股票顾问优惠码及Epic Bundle特惠，助投资者低成本优化投资组合。
+## Chewy Promo Codes: $20 Off May 2026
+Chewy推出2026年5月优惠：首单满$49减$20、宠物食品五折、最高减$30等。
 
-[阅读原文](https://www.wired.com/story/the-motley-fool-promo-code/)
+[阅读原文](https://www.wired.com/story/chewy-promo-code/)
 
-## An OpenAI model has disproved a central conjecture in discrete geometry
-OpenAI模型推翻离散几何核心猜想，标志AI在数学证明领域取得突破性进展。
+## College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names
+某高校毕业典礼启用AI系统念名，却漏报数百名毕业生姓名，引发全场嘘声。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/)
 
-## “AI vs Creativity” from a pro-AI greedy corpo
-Reddit用户发布讽刺漫画《AI vs 创意》，调侃科技公司一边鼓吹AI创新，一边压榨人类创作者，引发对AI时代创意劳动价值的讨论。
+## Interesting Response from Gemini
+用户向Gemini提问“为什么谷歌搜索变差了”，Gemini罕见坦诚回应，直指广告盈利模式影响搜索质量，引发热议。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/)
 
-## Google is officially replacing Vertex AI with the new "Gemini Enterprise Agent Platform"
-谷歌云将Vertex AI升级为Gemini企业代理平台，转向以自主AI代理为核心的生态系统，统一AI开发、治理与安全，并支持200+模型。
+## Could AI eventually become something like a system that expands human understanding for humanity
+Reddit热议：AI未来能否破解宇宙未解之谜（如意识、暗物质）？抑或受限于人类认知边界？
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/)
 

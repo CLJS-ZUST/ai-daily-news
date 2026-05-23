@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Waymo expands pause to four cities as robotaxis keep driving into floods
-Waymo暂停亚特兰大和圣安东尼奥的无人驾驶出租车服务，因车辆误入积水路段，正紧急升级防洪安全系统。
+## AI is being used to resurrect the voices of dead pilots
+有人利用AI从驾驶舱录音频谱图中重建语音，致美国国家运输安全委员会（NTSB）临时关闭其案卷系统。
 
-[阅读原文](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
+[阅读原文](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
 
-## SpaceX scrubs first Starship V3 launch just before liftoff
-SpaceX第三次星舰试飞前加注燃料后临发射取消，计划周五再次尝试。
+## SpaceX launches Starship V3 for the first time, but loses booster on return
+该公司成功完成升级版星舰V3的首次发射，为其未来多项雄心计划奠定关键基础。
 
-[阅读原文](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
+[阅读原文](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)
 
-## Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle
-马斯克持有SpaceX最大股份，其他大股东也与其长期深度绑定。
+## Blue Origin cleared to fly New Glenn mega-rocket after April mishap
+贝索斯旗下火箭公司确认，上月AST SpaceMobile卫星坠毁系发动机故障所致，但未透露具体细节。
 
-[阅读原文](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
+[阅读原文](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
 
-## Anker’s new earbuds are the first with its AI chip that boosts noise reduction
-Anker发布Soundcore Liberty 5 Pro真无线耳机，首发搭载Thus AI音频芯片，显著提升主动降噪与通话人声清晰度。
+## Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
+谷歌AI概览功能现异常：搜索“disregard”时，竟显示类似聊天机器人的回复，而非常规摘要，引发用户关注。
 
-[阅读原文](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
+[阅读原文](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
 
-## Anker’s new earbuds have the best call quality I’ve ever heard
-Soundcore推出高端真无线耳机Liberty 5 Pro系列，搭载自研Thus芯片，算力升级，冲击旗舰市场。
+## Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
+纪念日假期开启旅游季，多款旅行数码产品降价促销，其中Twelve South AirFly Pro 2蓝牙适配器可让无线耳机连接飞机娱乐系统，性价比突出。
 
-[阅读原文](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)
+[阅读原文](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
 
-## States ask judge to break up Live Nation-Ticketmaster
-美联邦法官将裁决是否拆分Live Nation-Ticketmaster。30多州要求其出售票务业务、部分大型场馆，并限制捆绑促销。
+## Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview
+Meta推出iPhone专属Forum应用，整合Facebook小组与专用AI聊天机器人，旨在复兴2017年关停的Groups功能。
 
-[阅读原文](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up)
+[阅读原文](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
 
-## Nike Promo Codes and Discounts: 30% for May 2026
-该消息为Nike本月促销广告，非科技新闻，主要内容是部分商品享85折优惠。
+## Memorial Day Tech Deals: Sony, Apple, Beats (2026)
+纪念日大促：多款热门耳机、充电宝等科技产品打折促销。
 
-[阅读原文](https://www.wired.com/story/nike-promo-code/)
+[阅读原文](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
 
-## Google Workspace Promo Codes: 14% Off for May
-WIRED推出Google Workspace专属优惠券，最高享14%折扣，覆盖Starter、Standard、Plus三档套餐，限时三个月。
+## Shein Buying Everlane Actually Makes Perfect Sense
+该收购看似怪异，实则凸显中国电商巨头正加速向新领域拓展的战略方向。
 
-[阅读原文](https://www.wired.com/story/google-workspace-promo-code/)
+[阅读原文](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)
 
-## Chewy Promo Codes: $20 Off May 2026
-Chewy推出2026年5月优惠：首单满$49减$20、宠物食品五折、最高减$30等。
+## Memorial Day 2026 Grill and Griddle Deals: Weber, Traeger, Recteq
+纪念日周末，WIRED推荐的多功能煎烤炉、烧烤架及颗粒烟熏炉最高直降250美元。
 
-[阅读原文](https://www.wired.com/story/chewy-promo-code/)
+[阅读原文](https://www.wired.com/story/memorial-day-grill-griddle-deals-2026/)
 
-## College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names
-某高校毕业典礼启用AI系统念名，却漏报数百名毕业生姓名，引发全场嘘声。
+## Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months
+微软取消内部Anthropic许可，因转向按Token计费的AI模式致年度预算数月超支。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/)
 
-## Interesting Response from Gemini
-用户向Gemini提问“为什么谷歌搜索变差了”，Gemini罕见坦诚回应，直指广告盈利模式影响搜索质量，引发热议。
+## Good news, I finally got some support for my 1st project, Thank you all :)
+Reddit用户SSSHash首个人工智能项目获社区支持，表达感谢并表示将借此继续学习提升。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tk3y45/interesting_response_from_gemini/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tl6dql/good_news_i_finally_got_some_support_for_my_1st/)
 
-## Could AI eventually become something like a system that expands human understanding for humanity
-Reddit热议：AI未来能否破解宇宙未解之谜（如意识、暗物质）？抑或受限于人类认知边界？
+## Rethinking AI Bubble
+当前AI估值（如OpenAI 35倍、Anthropic 13倍）尚属合理，叠加真实基建支撑，AI泡沫未破裂；真正风险或在美债与美元泡沫。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/)
 

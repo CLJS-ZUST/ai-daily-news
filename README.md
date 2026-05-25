@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest
-SolarSquare融资预计下月完成，估值或达5亿美元。
+## Everyone is navigating AI security in real time — even Google
+我们正处于一个全民参与的科技转型过渡期。
 
-[阅读原文](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
+[阅读原文](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
 
-## These special phone and app features can help protect you from spyware
-苹果、Meta和谷歌推出特殊安全模式，增强设备抵御定向间谍软件攻击能力，用户可手动开启。
+## Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
+XREAL创始人兼CEO徐驰认为，智能眼镜行业已迎来关键转折点。
 
-[阅读原文](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
+[阅读原文](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 
-## Ferrari is using IBM’s AI to create F1 superfans
-IBM与法拉利车队合作，利用AI等技术革新车迷体验，提升互动性与沉浸感。
+## 6 kitchen gadgets that make adulting feel easier
+6款生活科技小工具亮相，如搅拌汤的机器人、揉面面包机，助人轻松应对成年生活琐事。
 
-[阅读原文](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
+[阅读原文](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
 
-## Record Club is trying to be Letterboxd for music nerds
-Record Club推出简洁新平台，专为乐迷打造类似Goodreads的音乐收藏与社交体验，弥补现有平台（如Rate Your Music）界面杂乱、重评论轻习惯记录的不足。
+## The best Memorial Day sales you can shop this weekend
+美国阵亡将士纪念日临近，便携音箱、太阳能灯等户外电子产品迎来大促。
 
-[阅读原文](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
+[阅读原文](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
 
-## The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab
-传奇音乐人罗杰·林恩发明了首台采样鼓机LM-1及经典续作LinnDrum，深刻影响了流行音乐制作。
+## On Trails is a wandering tale that blends hiking, science, and history
+该段文字并非科技新闻，而是个人关于徒步旅行的感想，未涉及任何科技相关内容。
 
-[阅读原文](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
+[阅读原文](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
 
-## Here are 38 Memorial Day deals we recommend for $50 or less
-纪念日促销中，百元内小众数码产品如充电宝、4K流媒体设备等折扣力度大，性价比突出。
+## Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day
+苹果新款13英寸MacBook Air（M5芯片、16GB内存）现于亚马逊 Memorial Day 促销中热销，性能强劲，长期使用仍流畅。
 
-[阅读原文](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)
+[阅读原文](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)
 
-## Best Power Banks (2026): My Picks After Testing Over 100
-多款便携式充电宝上市，支持手机、笔记本、掌机等电子设备旅行充电。
+## 30% Off Canon Promo Codes | May 2026
+佳能五月促销：优惠券折上折，相机打印机等最高直降1600美元。
 
-[阅读原文](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+[阅读原文](https://www.wired.com/story/canon-promo-code/)
 
-## Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale
-假期周末戴森吸尘器大促，优惠不容错过。
+## HP Discount Codes: 60% Off May 2026
+HP推出科技产品促销活动，笔记本、打印机等最高直降60%，叠加优惠码再享额外20%折扣。
 
-[阅读原文](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/)
+[阅读原文](https://www.wired.com/story/hp-coupon-code/)
 
-## L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need
-一种多功能热塑性内衬材料，既能携装备穿越泥泞，又能盛装湿滑脏污的生鲜食品。
+## Design Within Reach Promo Codes: 30% Off | 2026
+Design Within Reach推出优惠活动：家具最高5折，另享7折、8折及免运费优惠。
 
-[阅读原文](https://www.wired.com/story/llbean-zip-hunters-tote-bag/)
+[阅读原文](https://www.wired.com/story/design-within-reach-promo-code/)
 
-## Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA
-测试显示，原生PDF（视觉LLM）方案准确率最低（52.0%）、成本最高（$0.2552/次），且存在7%固有失败率；OCR方案在图表/表格识别和稳定性上更优。
+## I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans.
+网友质疑AI替代人力的经济合理性：当前低薪人力成本远低于昂贵AI系统及维护费用，质疑企业为何舍低成本人力而选高成本技术。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/)
 
-## Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information
-国际特赦组织披露，美国Palantir等公司获准无限访问英国NHS患者可识别医疗数据，引发隐私担忧。
+## Testing a Cold War-Era AI on Satellite Image Datasets
+网友测试冷战时期AI模型，仅需50MB内存，可高效识别卫星图像，适合FPGA部署，数据库仅100KB。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tmnb54/testing_a_cold_warera_ai_on_satellite_image/)
 
-## Elon, stop trying to make Grok happen. New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
-新数据显示，美国政府工作人员普遍不认可马斯克的Grok聊天机器人，引发对其实际应用效果的质疑。
+## How to Hit Claude Limits in One Click
+Reddit用户分享“一键触发Claude使用限制”技巧，引发对AI模型滥用与限流机制的讨论。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tlp9gz/elon_stop_trying_to_make_grok_happen_new_data/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Everyone is navigating AI security in real time — even Google
-我们正处于一个全民参与的科技转型过渡期。
+## What ClickUp’s mass layoff tells us about the future of work
+一家成立九年的初创公司正用数千个AI代理替代数百名员工。
 
-[阅读原文](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
+[阅读原文](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
 
-## Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry
-XREAL创始人兼CEO徐驰认为，智能眼镜行业已迎来关键转折点。
+## The pope’s AI encyclical isn’t really about AI
+教皇利奥十四世首份通谕借AI反思权力集中、民主衰退及科技精英垄断等深层问题。
 
-[阅读原文](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
+[阅读原文](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
 
-## 6 kitchen gadgets that make adulting feel easier
-6款生活科技小工具亮相，如搅拌汤的机器人、揉面面包机，助人轻松应对成年生活琐事。
+## The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI
+Lucra Sports创始人Dylan Robbins今年完成一项全球首创壮举，并透露了实现秘诀。
 
-[阅读原文](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
+[阅读原文](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)
 
-## The best Memorial Day sales you can shop this weekend
-美国阵亡将士纪念日临近，便携音箱、太阳能灯等户外电子产品迎来大促。
+## Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery
+森海塞尔发布Momentum 5无线耳机，外观延续Momentum 4设计，主打舒适佩戴与现代风格，距上代发布已近四年。
 
-[阅读原文](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+[阅读原文](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
 
-## On Trails is a wandering tale that blends hiking, science, and history
-该段文字并非科技新闻，而是个人关于徒步旅行的感想，未涉及任何科技相关内容。
+## Ferrari reveals its first EV, with design help from Jony Ive
+法拉利发布首款纯电车型Luce，由Jony Ive与Mark Newson联合设计，为品牌第二款四门车。
 
-[阅读原文](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
+[阅读原文](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
 
-## Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day
-苹果新款13英寸MacBook Air（M5芯片、16GB内存）现于亚马逊 Memorial Day 促销中热销，性能强劲，长期使用仍流畅。
+## Cox Media fined after bragging it spied on users through their phones
+美FTC指控Cox媒体及两家营销公司涉嫌“秘密监听”用户，三家公司被罚共250万美元，但缺乏实际监听证据。
 
-[阅读原文](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)
+[阅读原文](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
 
-## 30% Off Canon Promo Codes | May 2026
-佳能五月促销：优惠券折上折，相机打印机等最高直降1600美元。
+## The Electric Ferrari Luce Is Finally Here
+法拉利首款纯电车型Luce正式发布，颠覆品牌传统设计语言，成为最受期待的电动超跑。
 
-[阅读原文](https://www.wired.com/story/canon-promo-code/)
+[阅读原文](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
 
-## HP Discount Codes: 60% Off May 2026
-HP推出科技产品促销活动，笔记本、打印机等最高直降60%，叠加优惠码再享额外20%折扣。
+## A Swimmer Broke a World Record at the Enhanced Games
+数十名使用兴奋剂的运动员参加拉斯维加斯“增强运动会”，多数拒绝透露所用药物。
 
-[阅读原文](https://www.wired.com/story/hp-coupon-code/)
+[阅读原文](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
 
-## Design Within Reach Promo Codes: 30% Off | 2026
-Design Within Reach推出优惠活动：家具最高5折，另享7折、8折及免运费优惠。
+## Memorial Day Tech Deals: Sony, Apple, Anker, and More
+纪念日大促：多款热门耳机、充电宝等科技产品打折促销。
 
-[阅读原文](https://www.wired.com/story/design-within-reach-promo-code/)
+[阅读原文](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
 
-## I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans.
-网友质疑AI替代人力的经济合理性：当前低薪人力成本远低于昂贵AI系统及维护费用，质疑企业为何舍低成本人力而选高成本技术。
+## Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't
+科学家利用IBM量子计算机训练AI模型，使其成功解答了基础模型无法回答的问题，展现量子计算赋能AI的潜力。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/)
 
-## Testing a Cold War-Era AI on Satellite Image Datasets
-网友测试冷战时期AI模型，仅需50MB内存，可高效识别卫星图像，适合FPGA部署，数据库仅100KB。
+## Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing
+Uber首席运营官称，AI“代币炒作”投入日益难以证明其合理性，质疑当前AI投资回报率。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tmnb54/testing_a_cold_warera_ai_on_satellite_image/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/)
 
-## How to Hit Claude Limits in One Click
-Reddit用户分享“一键触发Claude使用限制”技巧，引发对AI模型滥用与限流机制的讨论。
+## Wiz Integrates with Anthropic's Compliance API
+Wiz公司宣布集成Anthropic的合规API，提升云安全平台的AI治理与合规能力。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## What ClickUp’s mass layoff tells us about the future of work
-一家成立九年的初创公司正用数千个AI代理替代数百名员工。
+## UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak
+英国签证申请第三方网站泄露申请人敏感文件，公司未修复漏洞，反而派律师应对。
 
-[阅读原文](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+[阅读原文](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
 
-## The pope’s AI encyclical isn’t really about AI
-教皇利奥十四世首份通谕借AI反思权力集中、民主衰退及科技精英垄断等深层问题。
+## What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline
+初创企业竞赛“Startup Battlefield”报名截止日为明日，参赛者需尽快完成并提交申请。
 
-[阅读原文](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
+[阅读原文](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/)
 
-## The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI
-Lucra Sports创始人Dylan Robbins今年完成一项全球首创壮举，并透露了实现秘诀。
+## Trump administration permits Volvo to keep selling connected cars in the US
+沃尔沃（吉利控股多数持股）宣布可推进美国工厂扩建计划。
 
-[阅读原文](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)
+[阅读原文](https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/)
 
-## Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery
-森海塞尔发布Momentum 5无线耳机，外观延续Momentum 4设计，主打舒适佩戴与现代风格，距上代发布已近四年。
+## Did the Pope use AI to write about the dangers of AI?
+有分析称教皇利奥十四世新通谕《人类的伟大》部分段落AI生成概率达40%—100%，引发对宗教文本AI参与的争议。
 
-[阅读原文](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)
 
-## Ferrari reveals its first EV, with design help from Jony Ive
-法拉利发布首款纯电车型Luce，由Jony Ive与Mark Newson联合设计，为品牌第二款四门车。
+## NASA&#8217;s permanent Moon base plans start with three missions this year
+NASA宣布多项月球南极任务，为2028年载人“阿尔忒弥斯”登月铺路，首批3次月球基地任务为首波超十余项年内将公布的探月计划。
 
-[阅读原文](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
+[阅读原文](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
 
-## Cox Media fined after bragging it spied on users through their phones
-美FTC指控Cox媒体及两家营销公司涉嫌“秘密监听”用户，三家公司被罚共250万美元，但缺乏实际监听证据。
+## Google Health is here, but a lot of people want their Fitbit app back instead
+谷歌正式以Google Health取代Fitbit应用，引发用户困惑与不满。
 
-[阅读原文](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
+[阅读原文](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
 
-## The Electric Ferrari Luce Is Finally Here
-法拉利首款纯电车型Luce正式发布，颠覆品牌传统设计语言，成为最受期待的电动超跑。
+## Paramount+ Coupon Codes and Deals for June 2026
+Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
 
-[阅读原文](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
+[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
 
-## A Swimmer Broke a World Record at the Enhanced Games
-数十名使用兴奋剂的运动员参加拉斯维加斯“增强运动会”，多数拒绝透露所用药物。
+## Home Depot Promo Codes: 50% Off in June 2026
+家得宝6月促销：家电、电动工具等商品最高立减50%。
 
-[阅读原文](https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/)
+[阅读原文](https://www.wired.com/story/home-depot-promo-code/)
 
-## Memorial Day Tech Deals: Sony, Apple, Anker, and More
-纪念日大促：多款热门耳机、充电宝等科技产品打折促销。
+## Booking.com Promo Codes: 20% Off | June 2026
+该新闻推广Booking.com的旅游促销代码和优惠，强调为用户下次旅行提供大幅折扣。
 
-[阅读原文](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
+[阅读原文](https://www.wired.com/story/booking-com-promo-code/)
 
-## Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't
-科学家利用IBM量子计算机训练AI模型，使其成功解答了基础模型无法回答的问题，展现量子计算赋能AI的潜力。
+## The Young Are Being Battered by AI as Hiring Shifts to Older Workers
+AI冲击下，CEO计划削减初级岗位（43%），转向中层招聘（30%）；74%企业冻结或减招，仅27%认为AI投资达预期。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/)
 
-## Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing
-Uber首席运营官称，AI“代币炒作”投入日益难以证明其合理性，质疑当前AI投资回报率。
+## Claude as an Orchestrator: Why Agentic AI Can't Be Secured by the AI Alone
+AI通过浏览器自动化可跨层编排其他AI、构建扩展能力的网页应用，并遭外部篡改指令或抽象化诱导执行危害行为，传统红队测试与内容过滤难以应对。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/)
 
-## Wiz Integrates with Anthropic's Compliance API
-Wiz公司宣布集成Anthropic的合规API，提升云安全平台的AI治理与合规能力。
+## Anthropic just published how they contain Claude agents, including two security incidents they got wrong
+Anthropic披露Claude系列安全实践：模型防护有概率失效，需依赖环境隔离。三类产品采用不同沙箱方案，但两起泄露事件表明，允许列表不等于安全，需严控数据出口与权限。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tnvmgt/wiz_integrates_with_anthropics_compliance_api/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/)
 

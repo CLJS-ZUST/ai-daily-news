@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Founders seize on Indian court ruling to revive criticism of Google’s ad business
-该裁决获创始人支持，但律师认为或迫使平台重新审视商标关键词的处理方式。
+## SoftBank says it will invest up to €75 billion to build French data centers
+该公司计划开发并运营最多5吉瓦新增数据中心容量。
 
-[阅读原文](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
+[阅读原文](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
 
-## I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides
-增强版运动会（多数运动员使用兴奋剂）或预示科技行业将接纳的新商业模式。
+## This weekend’s two biggest movies were both directed by YouTubers
+YouTube恐怖内容正加速向主流影视转化，形成“网红→院线/流媒体”的高热度晋升通道。
 
-[阅读原文](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
+[阅读原文](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
 
-## SpaceX awarded $6.45B in Space Force contracts ahead of IPO
-SpaceX在IPO文件中披露，2025年营收的五分之一已来自政府合同。
+## Snap alums unveil Ghost Angels fund
+20位Snap前员工联合成立“幽灵天使”基金，专注投资下一代社交媒体初创企业。
 
-[阅读原文](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
+[阅读原文](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
 
-## Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors
-英伟达将在台北电脑展发布自研Arm架构笔记本芯片，微软、英伟达和Arm三方已联合预热，宣告PC新纪元。
+## Backrooms is a certified blockbuster with a $38 million opening day
+《后室》首映日狂揽3800万美元，开画周末预计达9000万，大幅刷新A24影史纪录。
 
-[阅读原文](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
+[阅读原文](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
 
-## SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites
-美国太空军授予SpaceX 41.6亿美元合同，建造导弹跟踪卫星，支撑特朗普“金穹顶”防御系统，实现天基目标探测与追踪。
+## Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves
+配音演员塞西尔·鲍德温以主持恐怖喜剧播客《欢迎来到夜谷》闻名，该节目融合克苏鲁风与荒诞元素。
 
-[阅读原文](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
+[阅读原文](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
 
-## Acer’s launching a Linux handheld for streaming your PC games
-宏碁发布Nitro Blaze Link掌机，主打PC串流，非Steam Deck竞品；搭载7英寸屏、Wi-Fi 6、仅1GB内存，2026年四季度上市。
+## Microsoft is threatening legal action for disclosing exploits
+微软因零日漏洞处置遭批评，神秘黑客“Nightmare Eclipse”公开漏洞代码并疑似为前员工，安全研究员质疑其应对方式。
 
-[阅读原文](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
+[阅读原文](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)
 
-## 24 Best Father’s Day Gifts for Dads (2026)
-本文推荐精选父亲节礼物，专为品味出众的父亲设计，解决送礼难题。
+## Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
+Keychron K2 HE混凝土版外观新奇，实则是一款性能扎实的机械键盘，材质噱头下隐藏着优秀品质。
 
-[阅读原文](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
+[阅读原文](https://www.wired.com/review/keychron-k2-he-concrete-edition/)
 
-## Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious
-Loryn Brantz创作的“好建议纸杯蛋糕”角色被BuzzFeed授权给亚马逊AI动画剧集，未经其本人同意。
+## ‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth
+16岁少年Kane Parsons凭4chan梗创作爆火YouTube恐怖剧，如今进军大银幕。
 
-[阅读原文](https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/)
+[阅读原文](https://www.wired.com/story/backrooms-movie-kane-parsons-interview/)
 
-## The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens
-一网站将人类比作外星人，引用特朗普政府移民执法数据，但部分细节荒诞离谱。
+## Tello Mobile Plan Review (2026): Low Cost, Reliable Service
+通胀与油价上涨促使用户尝试Tello低价预付手机套餐，发现其性价比高，省钱又实用。
 
-[阅读原文](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
+[阅读原文](https://www.wired.com/review/tello-mobile-custom-plans/)
 
-## Ronny Chieng Tells Harvard to ‘Destroy AI’ as Graduates Cheer
-喜剧演员罗尼·奇恩在哈佛毕业典礼上幽默呼吁“摧毁AI”，引发毕业生欢呼，实为调侃AI风险，并非真实主张。
+## Why Pope Leo is right to call on EU to disarm lethal AI weapons
+教皇利奥十四世呼吁欧盟禁止致命性AI武器，强调伦理风险，需提前立法管控。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1trfunt/ronny_chieng_tells_harvard_to_destroy_ai_as/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)
 
 ## Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees
-一家神秘公司因未设Claude AI使用限额，单月意外烧掉5亿美元。
+一家未具名公司因未设Claude AI使用限额，单月意外烧掉5亿美元。
 
 [阅读原文](https://www.reddit.com/r/artificial/comments/1trmvgh/mystery_company_accidentally_blew_500_million_on/)
 
-## Meta lays off more than 2,000 from Menlo Park headquarters
-Meta再裁撤超2000名员工，主要涉及门洛帕克总部，聚焦AI战略调整与成本优化。
+## Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection
+研究提出“Llama手术”法，无需重训即可将动态块稀疏注意力拓扑注入冻结的Llama 3.1 8B模型，实现高效、稳定、硬件加速的稀疏推理。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1trevkk/meta_lays_off_more_than_2000_from_menlo_park/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/)
 

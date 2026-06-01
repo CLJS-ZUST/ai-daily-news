@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## SoftBank says it will invest up to €75 billion to build French data centers
-该公司计划开发并运营最多5吉瓦新增数据中心容量。
+## Erin Brockovich takes aim at data center secrecy
+环保活动家艾琳·布罗科维奇开启新使命，聚焦环境正义与公共健康保护。
 
-[阅读原文](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
+[阅读原文](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
 
 ## This weekend’s two biggest movies were both directed by YouTubers
 YouTube恐怖内容正加速向主流影视转化，形成“网红→院线/流媒体”的高热度晋升通道。
 
-[阅读原文](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
+[阅读原文](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
 
-## Snap alums unveil Ghost Angels fund
-20位Snap前员工联合成立“幽灵天使”基金，专注投资下一代社交媒体初创企业。
+## ‘This is fine’ artist KC Green reaches agreement with AI startup Artisan
+该初创公司已撤下使用KC格林“这挺好”表情包的广告。
 
-[阅读原文](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
+[阅读原文](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
 
-## Backrooms is a certified blockbuster with a $38 million opening day
-《后室》首映日狂揽3800万美元，开画周末预计达9000万，大幅刷新A24影史纪录。
+## This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark
+微软与英伟达合作推出新款Arm架构Surface Laptop Ultra，重启此前因Surface失败而搁置的Arm笔记本计划。
 
-[阅读原文](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
+[阅读原文](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)
 
-## Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves
-配音演员塞西尔·鲍德温以主持恐怖喜剧播客《欢迎来到夜谷》闻名，该节目融合克苏鲁风与荒诞元素。
+## Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’
+英伟达今秋将推出RTX Spark芯片，首次进军消费级PC主处理器市场，为笔记本和迷你PC提供完整计算能力。
 
-[阅读原文](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
+[阅读原文](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)
 
-## Microsoft is threatening legal action for disclosing exploits
-微软因零日漏洞处置遭批评，神秘黑客“Nightmare Eclipse”公开漏洞代码并疑似为前员工，安全研究员质疑其应对方式。
+## AMD’s new pitch: our old tech is so good you should just keep using it
+台北Computex 2026开幕，AMD为桌面玩家重启三款旧硬件，并承诺无需更换平台即可升级。
 
-[阅读原文](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)
+[阅读原文](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
 
-## Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
-Keychron K2 HE混凝土版外观新奇，实则是一款性能扎实的机械键盘，材质噱头下隐藏着优秀品质。
+## Everyone Has Their Targets Set on the MacBook Neo
+戴尔、微软等推新笔记本对标苹果Neo，但部分厂商未吸取苹果成功经验。
 
-[阅读原文](https://www.wired.com/review/keychron-k2-he-concrete-edition/)
+[阅读原文](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)
 
-## ‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth
-16岁少年Kane Parsons凭4chan梗创作爆火YouTube恐怖剧，如今进军大银幕。
+## M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens
+M-Track Duo HD制作套装推出，助用户轻松获得专业级音频，避免因音质差而影响内容质量与观感。
 
-[阅读原文](https://www.wired.com/story/backrooms-movie-kane-parsons-interview/)
+[阅读原文](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)
 
-## Tello Mobile Plan Review (2026): Low Cost, Reliable Service
-通胀与油价上涨促使用户尝试Tello低价预付手机套餐，发现其性价比高，省钱又实用。
+## Wi-Fi Router vs. Mesh System: Which Is Best for You?
+本文对比单路由器与网状网络（Mesh）的适用场景，帮助用户根据家庭面积、隔墙情况等选择更优的Wi-Fi覆盖方案。
 
-[阅读原文](https://www.wired.com/review/tello-mobile-custom-plans/)
+[阅读原文](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
 
-## Why Pope Leo is right to call on EU to disarm lethal AI weapons
-教皇利奥十四世呼吁欧盟禁止致命性AI武器，强调伦理风险，需提前立法管控。
+## Cognitive debt might be the most underrated problem AI is creating
+文章提出“认知债务”概念：过度依赖AI导致理解力退化，调试、判断和扩展能力下降，且在高风险领域（如医疗、法律）可能引发严重后果。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)
 
-## Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees
-一家未具名公司因未设Claude AI使用限额，单月意外烧掉5亿美元。
+## In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.
+1997年，开发者为IRC频道开发聊天机器人Vlad，因用户过度依赖而主动关停，警示AI应专注实用、避免替代人际交流。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1trmvgh/mystery_company_accidentally_blew_500_million_on/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/)
 
-## Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection
-研究提出“Llama手术”法，无需重训即可将动态块稀疏注意力拓扑注入冻结的Llama 3.1 8B模型，实现高效、稳定、硬件加速的稀疏推理。
+## Maven, a personal AI agent that feels like JARVIS — what an open agent harness looks like in 2026
+开发者开源本地AI助手“Maven”，支持多端统一推理、模块化扩展、长期记忆与主动任务管理，强调数据自主与隐私可控。（60字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tth2e1/maven_a_personal_ai_agent_that_feels_like_jarvis/)
 

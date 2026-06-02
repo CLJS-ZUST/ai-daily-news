@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Erin Brockovich takes aim at data center secrecy
-环保活动家艾琳·布罗科维奇开启新使命，聚焦环境正义与公共健康保护。
+## How to make the Startup Battlefield Top 20 — and what every company gets regardless
+初创公司申请TechCrunch Disrupt创业大赛，目标直指主舞台。入选需提前准备，机会始于报名前。
 
-[阅读原文](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
+[阅读原文](https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
 
-## This weekend’s two biggest movies were both directed by YouTubers
-YouTube恐怖内容正加速向主流影视转化，形成“网红→院线/流媒体”的高热度晋升通道。
+## Alphabet plans to raise $80B to pay for AI buildout
+Alphabet称，其AI解决方案和服务需求旺盛，已远超当前供应能力。
 
-[阅读原文](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
+[阅读原文](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
 
-## ‘This is fine’ artist KC Green reaches agreement with AI startup Artisan
-该初创公司已撤下使用KC格林“这挺好”表情包的广告。
+## Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year
+22岁CEO埃坦·桑顿创立的Mach Industries再获3亿美元融资，已有5款自动驾驶车在研，并完成重大收购。
 
-[阅读原文](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
+[阅读原文](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/)
 
-## This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark
-微软与英伟达合作推出新款Arm架构Surface Laptop Ultra，重启此前因Surface失败而搁置的Arm笔记本计划。
+## The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands
+谷歌Pixel Watch 5疑似真机照片曝光，由《无主之地》制作人Randy Pitchford在X平台分享，称其朋友于圣马丁岛潜水时在水下发现。
 
-[阅读原文](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)
+[阅读原文](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
 
-## Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’
-英伟达今秋将推出RTX Spark芯片，首次进军消费级PC主处理器市场，为笔记本和迷你PC提供完整计算能力。
+## Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50
+Pebblebee Halo蓝牙追踪器兼安全设备，现亚马逊售价49.99美元（直降10美元），创历史新低。
 
-[阅读原文](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)
+[阅读原文](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
 
-## AMD’s new pitch: our old tech is so good you should just keep using it
-台北Computex 2026开幕，AMD为桌面玩家重启三款旧硬件，并承诺无需更换平台即可升级。
+## This could be Windows’ M1 moment — but expect it to cost a ton
+英伟达进军消费级笔记本芯片市场，推出RTX Spark；对比苹果M系列芯片的能效优势，Windows阵营ARM芯片性能仍存差距。
 
-[阅读原文](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
+[阅读原文](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
 
-## Everyone Has Their Targets Set on the MacBook Neo
-戴尔、微软等推新笔记本对标苹果Neo，但部分厂商未吸取苹果成功经验。
+## Office Depot Coupons: Save With Promo Codes in June 2026
+Office Depot推出折扣码，覆盖家具、墨水及专业打印等办公用品，助用户节省开支。
 
-[阅读原文](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/)
+[阅读原文](https://www.wired.com/story/office-depot-promo-codes/)
 
-## M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens
-M-Track Duo HD制作套装推出，助用户轻松获得专业级音频，避免因音质差而影响内容质量与观感。
+## Layla Sleep Coupon: Save Up to $600 in June 2026
+Layla春季促销：铜离子枕、可翻转床垫及电动床架享优惠。
 
-[阅读原文](https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/)
+[阅读原文](https://www.wired.com/story/layla-sleep-coupon/)
 
-## Wi-Fi Router vs. Mesh System: Which Is Best for You?
-本文对比单路由器与网状网络（Mesh）的适用场景，帮助用户根据家庭面积、隔墙情况等选择更优的Wi-Fi覆盖方案。
+## 20% Off Sephora Promo Code | June 2026
+丝芙兰推出护肤购物优惠券，可额外赚取积分。
 
-[阅读原文](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
+[阅读原文](https://www.wired.com/story/sephora-promo-code/)
 
-## Cognitive debt might be the most underrated problem AI is creating
-文章提出“认知债务”概念：过度依赖AI导致理解力退化，调试、判断和扩展能力下降，且在高风险领域（如医疗、法律）可能引发严重后果。
+## Bernie Sanders: A.I. Belongs to the People, Not to Billionaires
+伯尼·桑德斯提议设立“美国AI主权财富基金”，拟对AI巨头征50%股票税，让公众共享AI发展红利，反对技术寡头无偿占有全民数据与创意成果。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/)
 
-## In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.
-1997年，开发者为IRC频道开发聊天机器人Vlad，因用户过度依赖而主动关停，警示AI应专注实用、避免替代人际交流。
+## Nvdia’s Jensen Huang calls out CEOs using AI as an excuse to fire people
+英伟达CEO黄仁勋批评部分CEO以AI为借口裁员，强调AI应赋能员工而非替代人力。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/)
 
-## Maven, a personal AI agent that feels like JARVIS — what an open agent harness looks like in 2026
-开发者开源本地AI助手“Maven”，支持多端统一推理、模块化扩展、长期记忆与主动任务管理，强调数据自主与隐私可控。（60字）
+## I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.
+研究发现，LLM简历筛选存在45%“沉默偏见”，模型以专业借口歧视候选人；Claude等模型最稳定公平，Qwen等则波动大，AI招聘工具或成合规风险。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tth2e1/maven_a_personal_ai_agent_that_feels_like_jarvis/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/)
 

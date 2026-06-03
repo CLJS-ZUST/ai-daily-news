@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## How to make the Startup Battlefield Top 20 — and what every company gets regardless
-初创公司申请TechCrunch Disrupt创业大赛，目标直指主舞台。入选需提前准备，机会始于报名前。
+## Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis
+即便未来普及无人驾驶出租车，乘客遗落物品仍需人工归还。
 
-[阅读原文](https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/)
+[阅读原文](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
 
-## Alphabet plans to raise $80B to pay for AI buildout
-Alphabet称，其AI解决方案和服务需求旺盛，已远超当前供应能力。
+## Cyera eyes $12B valuation at 80x ARR multiple despite operating losses
+网络安全公司正接近完成由Evolution Equity Partners领投的3亿美元融资。
 
-[阅读原文](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
+[阅读原文](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
 
-## Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year
-22岁CEO埃坦·桑顿创立的Mach Industries再获3亿美元融资，已有5款自动驾驶车在研，并完成重大收购。
+## Cyberdecks are having a moment, rejecting big tech surveillance with style and substance
+近几个月，DIY硬件社区火爆出圈，网友热晒太阳能游戏机、掌上电子书、翻盖包式电脑等创意作品。
 
-[阅读原文](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/)
+[阅读原文](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
 
-## The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands
-谷歌Pixel Watch 5疑似真机照片曝光，由《无主之地》制作人Randy Pitchford在X平台分享，称其朋友于圣马丁岛潜水时在水下发现。
+## God of War Laufey is coming to the PS5
+索尼在State of Play发布会上公布《战神：劳菲》，由圣莫尼卡工作室开发，登陆PS5，发售日未定。
 
-[阅读原文](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
+[阅读原文](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
 
-## Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50
-Pebblebee Halo蓝牙追踪器兼安全设备，现亚马逊售价49.99美元（直降10美元），创历史新低。
+## Remedy’s Control sequel launches in September
+《控制：共振》续作定于2026年9月24日发售，预告片亮相PS State of Play，主角迪伦·法登将回归展开新剧情。
 
-[阅读原文](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
+[阅读原文](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
 
-## This could be Windows’ M1 moment — but expect it to cost a ton
-英伟达进军消费级笔记本芯片市场，推出RTX Spark；对比苹果M系列芯片的能效优势，Windows阵营ARM芯片性能仍存差距。
+## Here&#8217;s seven bloody minutes of Wolverine on the PS5
+索尼在State of Play发布会上公布《漫威蜘蛛侠》开发商Insomniac新作《漫威金刚狼》，9月15日独占登陆PS5。
 
-[阅读原文](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
+[阅读原文](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
 
-## Office Depot Coupons: Save With Promo Codes in June 2026
-Office Depot推出折扣码，覆盖家具、墨水及专业打印等办公用品，助用户节省开支。
+## Peacock Promo Codes: 40% Off June 2026
+本月Peacock TV推出优惠，热门剧集流媒体服务最高立减80美元，订阅计划享额外折扣。
 
-[阅读原文](https://www.wired.com/story/office-depot-promo-codes/)
+[阅读原文](https://www.wired.com/story/peacock-promo-code/)
 
-## Layla Sleep Coupon: Save Up to $600 in June 2026
-Layla春季促销：铜离子枕、可翻转床垫及电动床架享优惠。
+## Paramount+ Coupon Codes and Deals for June 2026
+Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
 
-[阅读原文](https://www.wired.com/story/layla-sleep-coupon/)
+[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
 
-## 20% Off Sephora Promo Code | June 2026
-丝芙兰推出护肤购物优惠券，可额外赚取积分。
+## Valvoline Coupons and Promo Codes for June 2026
+2026年6月，Valvoline推出多款优惠券，涵盖全合成机油更换等汽车保养服务。
 
-[阅读原文](https://www.wired.com/story/sephora-promo-code/)
+[阅读原文](https://www.wired.com/story/valvoline-coupons/)
 
-## Bernie Sanders: A.I. Belongs to the People, Not to Billionaires
-伯尼·桑德斯提议设立“美国AI主权财富基金”，拟对AI巨头征50%股票税，让公众共享AI发展红利，反对技术寡头无偿占有全民数据与创意成果。
+## AI isn’t the Problem - it’s Capitalism
+AI正从办公场景扩展至制造业，但资本主义分配机制难以适应生产力跃升，作者呼吁以AI税收资助全民基本收入，避免贫富分化加剧与社会失稳。（60字）
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ttpt5c/bernie_sanders_ai_belongs_to_the_people_not_to/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/)
 
-## Nvdia’s Jensen Huang calls out CEOs using AI as an excuse to fire people
-英伟达CEO黄仁勋批评部分CEO以AI为借口裁员，强调AI应赋能员工而非替代人力。
+## AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor
+AI联盟启动“织锦计划”，探索全球协作共建前沿AI模型，兼顾技术前沿性与各国数据主权，目前处于架构设计初期。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tugpc2/nvdias_jensen_huang_calls_out_ceos_using_ai_as_an/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/)
 
-## I analyzed 25,500 LLM resume screenings to measure hiring bias. The results are a wake-up call.
-研究发现，LLM简历筛选存在45%“沉默偏见”，模型以专业借口歧视候选人；Claude等模型最稳定公平，Qwen等则波动大，AI招聘工具或成合规风险。
+## We've reached the point where a tape measure is unnecessary. AI does it from your camera.
+AI应用新突破：手机摄像头拍照即可自动测量物体尺寸，无需卷尺，精度高、操作便捷。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ttsr9b/i_analyzed_25500_llm_resume_screenings_to_measure/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/)
 

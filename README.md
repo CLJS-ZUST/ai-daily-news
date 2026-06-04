@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis
-即便未来普及无人驾驶出租车，乘客遗落物品仍需人工归还。
+## Benchmark raises its first-ever growth fund as part of $2B capital raise
+传奇基金放弃延续20余年的约4.25亿美元资金规模传统，或将大幅扩容。
 
-[阅读原文](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
+[阅读原文](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
 
-## Cyera eyes $12B valuation at 80x ARR multiple despite operating losses
-网络安全公司正接近完成由Evolution Equity Partners领投的3亿美元融资。
+## Quick commerce FirstClub doubles valuation to $255M in nine months
+班加罗尔初创公司上线一年内订单超100万，年化GMV达5000万美元。
 
-[阅读原文](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
+[阅读原文](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/)
 
-## Cyberdecks are having a moment, rejecting big tech surveillance with style and substance
-近几个月，DIY硬件社区火爆出圈，网友热晒太阳能游戏机、掌上电子书、翻盖包式电脑等创意作品。
+## Lovable signs multiyear deal with Google Cloud to up usage 5x, source says
+Lovable与谷歌签署多年协议，云服务规模扩大5倍，并获更多Anthropic Claude模型访问权限。
 
-[阅读原文](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
+[阅读原文](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
 
-## God of War Laufey is coming to the PS5
-索尼在State of Play发布会上公布《战神：劳菲》，由圣莫尼卡工作室开发，登陆PS5，发售日未定。
+## Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU
+任天堂将为欧盟版Switch 2配备可轻松更换电池设计，以满足2027年2月18日起生效的欧盟新规。
 
-[阅读原文](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
+[阅读原文](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
 
-## Remedy’s Control sequel launches in September
-《控制：共振》续作定于2026年9月24日发售，预告片亮相PS State of Play，主角迪伦·法登将回归展开新剧情。
+## Apple is bringing age verification to Texas this week
+苹果6月4日起在德克萨斯州App Store推行年龄验证，响应当地《应用商店问责法》生效。
 
-[阅读原文](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
+[阅读原文](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store)
 
-## Here&#8217;s seven bloody minutes of Wolverine on the PS5
-索尼在State of Play发布会上公布《漫威蜘蛛侠》开发商Insomniac新作《漫威金刚狼》，9月15日独占登陆PS5。
+## WiiM expands its whole-home ecosystem with a new soundbar
+WiiM推出平价高端条形音箱WiiM Bar，7月上市，支持多流媒体与扩展，延续其高性价比全屋音频生态。
 
-[阅读原文](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
+[阅读原文](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
 
-## Peacock Promo Codes: 40% Off June 2026
-本月Peacock TV推出优惠，热门剧集流媒体服务最高立减80美元，订阅计划享额外折扣。
+## Nomad Goods Promo Codes: Get 25% Off in June 2026
+6月，Nomad配件（如手机壳、钱包等）限时优惠，最高立减25%。
 
-[阅读原文](https://www.wired.com/story/peacock-promo-code/)
+[阅读原文](https://www.wired.com/story/nomad-discount-code/)
 
-## Paramount+ Coupon Codes and Deals for June 2026
-Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
+## TurboTax Full Service Coupons This June
+WIRED推出TurboTax优惠：联邦报税等全服务享9折，附独家折扣码。
 
-[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
+[阅读原文](https://www.wired.com/story/turbotax-coupon/)
 
-## Valvoline Coupons and Promo Codes for June 2026
-2026年6月，Valvoline推出多款优惠券，涵盖全合成机油更换等汽车保养服务。
+## 50% Off DoorDash Promo Code | June 2026
+DoorDash推新优惠：首单立减25美元、免配送费，学生等特定用户享DashPass五折。
 
-[阅读原文](https://www.wired.com/story/valvoline-coupons/)
+[阅读原文](https://www.wired.com/story/doordash-promo-code/)
 
-## AI isn’t the Problem - it’s Capitalism
-AI正从办公场景扩展至制造业，但资本主义分配机制难以适应生产力跃升，作者呼吁以AI税收资助全民基本收入，避免贫富分化加剧与社会失稳。（60字）
+## Google just dropped Gemma 4 12B on your laptop!!
+谷歌发布120亿参数开源多模态模型Gemma-4，16GB内存即可本地运行，支持图文处理，Apache 2.0许可，推动AI向端侧落地。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/)
 
-## AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor
-AI联盟启动“织锦计划”，探索全球协作共建前沿AI模型，兼顾技术前沿性与各国数据主权，目前处于架构设计初期。
+## Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search. Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.
+肽类公司通过在Reddit“生物黑客”版块刷帖，操纵ChatGPT和谷歌AI搜索结果，实施AI引擎优化。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tv2x9j/ai_alliance_launches_a_global_coalition_to_build/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tw6hb9/companies_are_using_reddit_to_manipulate_chatgpt/)
 
-## We've reached the point where a tape measure is unnecessary. AI does it from your camera.
-AI应用新突破：手机摄像头拍照即可自动测量物体尺寸，无需卷尺，精度高、操作便捷。
+## Companies are letting AI gains go to waste, study says
+BCG研究显示，74%白领员工常用AI，每周省时超1天，但多数企业未能将效率提升转化为实际价值，强调“战略比工具更重要”。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tw5v4v/companies_are_letting_ai_gains_go_to_waste_study/)
 

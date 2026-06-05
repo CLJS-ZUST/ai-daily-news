@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Benchmark raises its first-ever growth fund as part of $2B capital raise
-传奇基金放弃延续20余年的约4.25亿美元资金规模传统，或将大幅扩容。
+## Mira Murati steps back into the spotlight, carefully
+当前科技竞争激烈，企业需主动发声以保持市场存在感，仅埋头研发已难获持续回报。
 
-[阅读原文](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
+[阅读原文](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/)
 
-## Quick commerce FirstClub doubles valuation to $255M in nine months
-班加罗尔初创公司上线一年内订单超100万，年化GMV达5000万美元。
+## Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites
+首期节目由Founders Fund营销总监Mike Solana主持，云集多位顶尖科技领袖。
 
-[阅读原文](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/)
+[阅读原文](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)
 
-## Lovable signs multiyear deal with Google Cloud to up usage 5x, source says
-Lovable与谷歌签署多年协议，云服务规模扩大5倍，并获更多Anthropic Claude模型访问权限。
+## Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
+Anthropic年化收入5月达470亿美元，较2025年底的90亿大幅增长，但高增长可持续性面临考验。
 
-[阅读原文](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
+[阅读原文](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)
 
-## Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU
-任天堂将为欧盟版Switch 2配备可轻松更换电池设计，以满足2027年2月18日起生效的欧盟新规。
+## Valve says it&#8217;s ready to launch the Steam Machine this summer
+Valve宣布延迟的Steam Machine主机和Steam Frame VR头显将于今夏发布，并推出硬件认证计划。
 
-[阅读原文](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
+[阅读原文](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
 
-## Apple is bringing age verification to Texas this week
-苹果6月4日起在德克萨斯州App Store推行年龄验证，响应当地《应用商店问责法》生效。
+## Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal
+TikTok用户Annike Tan将旧手袋改造成隐形“赛博甲板”，外观毫无电脑痕迹，因美人鱼主题设计走红网络。
 
-[阅读原文](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store)
+[阅读原文](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
 
-## WiiM expands its whole-home ecosystem with a new soundbar
-WiiM推出平价高端条形音箱WiiM Bar，7月上市，支持多流媒体与扩展，延续其高性价比全屋音频生态。
+## Kevin O’Leary agrees to downsize massive Utah data center
+凯文·奥莱瑞迫于居民和活动人士压力，将犹他州4万英亩数据中心计划缩减近半，取消19430英亩用地。
 
-[阅读原文](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
 
-## Nomad Goods Promo Codes: Get 25% Off in June 2026
-6月，Nomad配件（如手机壳、钱包等）限时优惠，最高立减25%。
+## 30% Off Canon Promo Codes | June 2026
+佳能6月促销：享额外10%或30%折扣，相机、打印机等最高立减1600美元。
 
-[阅读原文](https://www.wired.com/story/nomad-discount-code/)
+[阅读原文](https://www.wired.com/story/canon-promo-code/)
 
-## TurboTax Full Service Coupons This June
-WIRED推出TurboTax优惠：联邦报税等全服务享9折，附独家折扣码。
+## LG Promo Codes and Coupons for June 2026
+LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器低至6折。
 
-[阅读原文](https://www.wired.com/story/turbotax-coupon/)
+[阅读原文](https://www.wired.com/story/lg-promo-code/)
 
-## 50% Off DoorDash Promo Code | June 2026
-DoorDash推新优惠：首单立减25美元、免配送费，学生等特定用户享DashPass五折。
+## The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026
+《The Motley Fool》推出会员折扣、股票顾问优惠码及Epic Bundle特惠，助投资者低成本优化投资组合。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/the-motley-fool-promo-code/)
 
-## Google just dropped Gemma 4 12B on your laptop!!
-谷歌发布120亿参数开源多模态模型Gemma-4，16GB内存即可本地运行，支持图文处理，Apache 2.0许可，推动AI向端侧落地。
+## Claude is completely unusable now
+用户抱怨Claude 4.8版过度“推脱任务”、滥用结束对话功能、无端反驳指令，导致体验恶化，已转向Codex。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/)
 
-## Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search. Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.
-肽类公司通过在Reddit“生物黑客”版块刷帖，操纵ChatGPT和谷歌AI搜索结果，实施AI引擎优化。
+## I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?
+汽车贷款机构正用AI机器人以错误数据争议保险定损，拒接人工沟通，令理赔员耗时核查无效信息。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tw6hb9/companies_are_using_reddit_to_manipulate_chatgpt/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/)
 
-## Companies are letting AI gains go to waste, study says
-BCG研究显示，74%白领员工常用AI，每周省时超1天，但多数企业未能将效率提升转化为实际价值，强调“战略比工具更重要”。
+## $2.5T in AI spending this year. 95% produces zero P&L impact.
+全球AI年投入达2.5万亿美元，但95%企业生成式AI项目无实际ROI。主因是重模型轻基建：73%工程工作在数据与集成，而非算法；预算错配、数据质量差、缺乏停摆机制致落地失败。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tw5v4v/companies_are_letting_ai_gains_go_to_waste_study/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/)
 

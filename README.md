@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Mira Murati steps back into the spotlight, carefully
-当前科技竞争激烈，企业需主动发声以保持市场存在感，仅埋头研发已难获持续回报。
+## Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus
+微软董事会成员里德·霍夫曼卸任，专注其AI药物研发初创公司Manus。
 
-[阅读原文](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/)
+[阅读原文](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
 
-## Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites
-首期节目由Founders Fund营销总监Mike Solana主持，云集多位顶尖科技领袖。
+## Founders share VC horror stories, and some are naming names
+本周X平台掀起风投“恐怖故事”热潮，创业者纷纷爆料VC奇葩、令人愤怒的奇葩行径。
 
-[阅读原文](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)
+[阅读原文](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
 
-## Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
-Anthropic年化收入5月达470亿美元，较2025年底的90亿大幅增长，但高增长可持续性面临考验。
+## Former cyber executive turned whistleblower accuses IBM of covering up several data breaches
+IBM及两家子公司或于2010年代中期遭入侵，前安全高管起诉其隐瞒并掩盖该事件。
 
-[阅读原文](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)
+[阅读原文](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
 
-## Valve says it&#8217;s ready to launch the Steam Machine this summer
-Valve宣布延迟的Steam Machine主机和Steam Frame VR头显将于今夏发布，并推出硬件认证计划。
+## More than a decade later, the team behind N++ is back with a multiplayer sequel
+2015年，Metanet工作室发布耗时十年打造的硬核2D平台游戏《N++》，续作《N+++》或将再等十年。
 
-[阅读原文](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
+[阅读原文](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
 
-## Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal
-TikTok用户Annike Tan将旧手袋改造成隐形“赛博甲板”，外观毫无电脑痕迹，因美人鱼主题设计走红网络。
+## Grand Theft Auto VI is warping the video game release calendar
+《GTA VI》虽未亮相夏促发布会，但其11月发售已致当月新作集体避让，引发行业震动。
 
-[阅读原文](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
+[阅读原文](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
 
-## Kevin O’Leary agrees to downsize massive Utah data center
-凯文·奥莱瑞迫于居民和活动人士压力，将犹他州4万英亩数据中心计划缩减近半，取消19430英亩用地。
+## Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation
+史克威尔正式公布《最终幻想VII》重制三部曲终章《最终幻想VII 启示录》，将于2027年春登陆PC、PS5、XSX/S及Switch 2。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
+[阅读原文](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)
 
-## 30% Off Canon Promo Codes | June 2026
-佳能6月促销：享额外10%或30%折扣，相机、打印机等最高立减1600美元。
+## Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka
+为满足不同配速、能力与目标，研发团队实测数千英里，推出全能型专业跑鞋。
 
-[阅读原文](https://www.wired.com/story/canon-promo-code/)
+[阅读原文](https://www.wired.com/gallery/best-running-shoes/)
 
-## LG Promo Codes and Coupons for June 2026
-LG推出促销活动：使用优惠码立省20%，家电最高减1000美元，畅销电视与显示器低至6折。
+## GroWell Cap Review: I Have Hair for the First Time in 15 Years
+15年前剃光头者因GroWell LED生发帽重拾头发，科技助力毛发生长。
 
-[阅读原文](https://www.wired.com/story/lg-promo-code/)
+[阅读原文](https://www.wired.com/story/growell-cap-rave/)
 
-## The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026
-《The Motley Fool》推出会员折扣、股票顾问优惠码及Epic Bundle特惠，助投资者低成本优化投资组合。
+## The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies
+美国缺乏足够产能生产绝育螺旋蝇，制约其用绝育技术控制食肉螺旋蝇种群的效果。
 
-[阅读原文](https://www.wired.com/story/the-motley-fool-promo-code/)
+[阅读原文](https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/)
 
-## Claude is completely unusable now
-用户抱怨Claude 4.8版过度“推脱任务”、滥用结束对话功能、无端反驳指令，导致体验恶化，已转向Codex。
+## The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces
+LLM推理研究正从“显式思维链”转向“隐式潜空间推理”，质疑语言化推理的必要性，探索更高效、非语言的计算路径。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/)
 
-## I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?
-汽车贷款机构正用AI机器人以错误数据争议保险定损，拒接人工沟通，令理赔员耗时核查无效信息。
+## Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956
+1980年代计算器争议重现：AI引发对人类能力退化的担忧，呼应阿西莫夫对超智能机器的预言。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/)
 
-## $2.5T in AI spending this year. 95% produces zero P&L impact.
-全球AI年投入达2.5万亿美元，但95%企业生成式AI项目无实际ROI。主因是重模型轻基建：73%工程工作在数据与集成，而非算法；预算错配、数据质量差、缺乏停摆机制致落地失败。
+## AI Detection Text Scanners Do Not Work. None of Them
+AI文本检测工具可靠性存疑：作者实测发现，人工撰写内容常被误判为AI生成，而其AI工具产出内容反而更“自然”，质疑现有检测技术对原创文本的有效性。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ty64ky/ai_detection_text_scanners_do_not_work_none_of/)
 

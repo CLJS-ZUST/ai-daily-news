@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus
-微软董事会成员里德·霍夫曼卸任，专注其AI药物研发初创公司Manus。
+## OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+即使启用锁定模式，ChatGPT仍可能受提示注入攻击，该模式旨在降低敏感数据泄露风险。
 
-[阅读原文](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
+[阅读原文](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
 
-## Founders share VC horror stories, and some are naming names
-本周X平台掀起风投“恐怖故事”热潮，创业者纷纷爆料VC奇葩、令人愤怒的奇葩行径。
+## What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+苹果WWDC即将召开，预计将发布iOS 18、macOS 15等新系统，并展示AI功能升级与AR/VR新进展。
 
-[阅读原文](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
+[阅读原文](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
 
-## Former cyber executive turned whistleblower accuses IBM of covering up several data breaches
-IBM及两家子公司或于2010年代中期遭入侵，前安全高管起诉其隐瞒并掩盖该事件。
+## Sriram Krishnan is leaving his role as White House AI advisor
+据报道，克里希南将成立新机构，继续主导特朗普政府的AI政策制定。
 
-[阅读原文](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
+[阅读原文](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
 
-## More than a decade later, the team behind N++ is back with a multiplayer sequel
-2015年，Metanet工作室发布耗时十年打造的硬核2D平台游戏《N++》，续作《N+++》或将再等十年。
+## The first Story-Rich showcase was packed with narrative-driven games
+Fellow Traveller举办故事向独立游戏展，展出超20款叙事驱动新作，包括《Titanium Court》《1000xResist》等。
 
-[阅读原文](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
+[阅读原文](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
 
-## Grand Theft Auto VI is warping the video game release calendar
-《GTA VI》虽未亮相夏促发布会，但其11月发售已致当月新作集体避让，引发行业震动。
+## GOG apologizes for emailing people Nazi symbols
+GOG误在《太阳终结》游戏邮件中使用纳粹SS符号，称系德语测试团队沟通失误、字体渲染异常及假期人手不足所致。
 
-[阅读原文](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
+[阅读原文](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
 
-## Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation
-史克威尔正式公布《最终幻想VII》重制三部曲终章《最终幻想VII 启示录》，将于2027年春登陆PC、PS5、XSX/S及Switch 2。
+## The cutest games from the Wholesome Direct 2026 showcase
+夏季游戏节期间的“纯真直面会”聚焦超50款温馨治愈系独立游戏，氛围轻松惬意，与大型厂商发布会形成鲜明对比。
 
-[阅读原文](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)
+[阅读原文](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
 
-## Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka
-为满足不同配速、能力与目标，研发团队实测数千英里，推出全能型专业跑鞋。
+## The Best 3-in-1 Apple Charging Stations After Testing Top Models
+《连线》评测多款三合一苹果充电设备，推荐支持iPhone、Apple Watch和AirPods的优质无线充电站与充电垫。
 
-[阅读原文](https://www.wired.com/gallery/best-running-shoes/)
+[阅读原文](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
 
-## GroWell Cap Review: I Have Hair for the First Time in 15 Years
-15年前剃光头者因GroWell LED生发帽重拾头发，科技助力毛发生长。
+## Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It
+Unjected与PureBlood.Dating举办线下相亲活动，将约会平台变为围绕身体自主权的政治争议焦点。
 
-[阅读原文](https://www.wired.com/story/growell-cap-rave/)
+[阅读原文](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/)
 
-## The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies
-美国缺乏足够产能生产绝育螺旋蝇，制约其用绝育技术控制食肉螺旋蝇种群的效果。
+## 2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions
+最新蓝牙、Wi-Fi、GPS及蜂窝追踪设备，助你精准定位、永不丢物。
 
-[阅读原文](https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/)
+[阅读原文](https://www.wired.com/story/the-best-bluetooth-trackers/)
 
-## The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces
-LLM推理研究正从“显式思维链”转向“隐式潜空间推理”，质疑语言化推理的必要性，探索更高效、非语言的计算路径。
+## AI keeps getting blamed for tech layoffs, but the numbers don't really line up
+2025科技行业裁员主因非AI，仅不到8%公告明确归咎AI；实际AI落地率低，多数裁员源于经济压力、前期过招及预算调整。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)
 
-## Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956
-1980年代计算器争议重现：AI引发对人类能力退化的担忧，呼应阿西莫夫对超智能机器的预言。
+## Does anyone else say please and thank you to AI? Or am I just wierd?
+网友热议是否该对AI说“请”“谢谢”，反映人机交互中的礼貌习惯与拟人化心理。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)
 
-## AI Detection Text Scanners Do Not Work. None of Them
-AI文本检测工具可靠性存疑：作者实测发现，人工撰写内容常被误判为AI生成，而其AI工具产出内容反而更“自然”，质疑现有检测技术对原创文本的有效性。
+## Benefits and Risks of AI at Harvard Class Day 2026
+Reddit用户分享哈佛大学2026届毕业典礼上关于AI利弊的演讲视频链接。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ty64ky/ai_detection_text_scanners_do_not_work_none_of/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)
 

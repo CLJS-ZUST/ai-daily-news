@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
-即使启用锁定模式，ChatGPT仍可能受提示注入攻击，该模式旨在降低敏感数据泄露风险。
+## Is this the dawn of the Tokenpocalypse?
+大型AI公司筹备上市，或将引发新一轮价格上涨。
 
-[阅读原文](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+[阅读原文](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
 
-## What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
-苹果WWDC即将召开，预计将发布iOS 18、macOS 15等新系统，并展示AI功能升级与AR/VR新进展。
+## Notion restores access to Anthropic after service disruption
+Notion产品负责人称对某条推文被大量转发“深感惊讶”。
 
-[阅读原文](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+[阅读原文](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
 
-## Sriram Krishnan is leaving his role as White House AI advisor
-据报道，克里希南将成立新机构，继续主导特朗普政府的AI政策制定。
+## OpenAI is still working on that ‘super app’
+OpenAI高管称“聊天已死”，暗示AI交互模式正从对话式转向更主动、任务导向的新范式。
 
-[阅读原文](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)
+[阅读原文](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
 
-## The first Story-Rich showcase was packed with narrative-driven games
-Fellow Traveller举办故事向独立游戏展，展出超20款叙事驱动新作，包括《Titanium Court》《1000xResist》等。
+## NASA will wear high-tech Prada long johns to the Moon
+Axiom Space发布阿耳忒弥斯四号任务用液冷通风服（LCVG），作为宇航员登月服内层，保障2028年登月任务中的热调节与舒适性。
 
-[阅读原文](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
+[阅读原文](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
 
-## GOG apologizes for emailing people Nazi symbols
-GOG误在《太阳终结》游戏邮件中使用纳粹SS符号，称系德语测试团队沟通失误、字体渲染异常及假期人手不足所致。
+## The 7 biggest storylines from Summer Game Fest 2026
+2026夏季游戏节落幕，行业承压下各大厂商借发布会展示实力，聚焦重磅游戏公告，普遍回避硬件等细节。
 
-[阅读原文](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
+[阅读原文](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
 
-## The cutest games from the Wholesome Direct 2026 showcase
-夏季游戏节期间的“纯真直面会”聚焦超50款温馨治愈系独立游戏，氛围轻松惬意，与大型厂商发布会形成鲜明对比。
+## Persona 6 exists, and that’s all we know
+夏日游戏节喜讯频传：《最终幻想VII》重制版三部曲终章公布，《Persona 6》正式确认并释出首支预告。
 
-[阅读原文](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
+[阅读原文](https://www.theverge.com/entertainment/945256/persona-6-teaser)
 
-## The Best 3-in-1 Apple Charging Stations After Testing Top Models
-《连线》评测多款三合一苹果充电设备，推荐支持iPhone、Apple Watch和AirPods的优质无线充电站与充电垫。
+## Sigma BF Review (2026): Eccentric but Strangely Lovable
+适马推出新款相机，设计大胆且性能出色。
 
-[阅读原文](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+[阅读原文](https://www.wired.com/review/sigma-bf-camera/)
 
-## Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It
-Unjected与PureBlood.Dating举办线下相亲活动，将约会平台变为围绕身体自主权的政治争议焦点。
+## You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick
+5–6英寸刀片是厨房“秘密主力”，适合手小者或追求小巧高效厨刀的人群。
 
-[阅读原文](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/)
+[阅读原文](https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/)
 
-## 2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions
-最新蓝牙、Wi-Fi、GPS及蜂窝追踪设备，助你精准定位、永不丢物。
+## Lauf eElja Electric Mountain Bike Review: Power Trip
+Lauf新款自行车设计更接近传统山地车，外观简洁，骑行体验更经典。
 
-[阅读原文](https://www.wired.com/story/the-best-bluetooth-trackers/)
+[阅读原文](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
 
-## AI keeps getting blamed for tech layoffs, but the numbers don't really line up
-2025科技行业裁员主因非AI，仅不到8%公告明确归咎AI；实际AI落地率低，多数裁员源于经济压力、前期过招及预算调整。
+## I think we're about 12 months away from the first major AI agent disaster
+企业正加速赋予AI代理访问真实系统（如邮件、数据库、客户数据）的权限，安全风险加剧，或将在一年内引发重大事故。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tzy180/i_think_were_about_12_months_away_from_the_first/)
 
-## Does anyone else say please and thank you to AI? Or am I just wierd?
-网友热议是否该对AI说“请”“谢谢”，反映人机交互中的礼貌习惯与拟人化心理。
+## Am I using AI in a bad way or no?
+用户担忧AI使用是否损害认知功能。专家指出：主动学习、批判思考的AI使用无害，被动依赖才可能削弱能力。适度对话与创意探索属健康应用。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tzwfqq/am_i_using_ai_in_a_bad_way_or_no/)
 
-## Benefits and Risks of AI at Harvard Class Day 2026
-Reddit用户分享哈佛大学2026届毕业典礼上关于AI利弊的演讲视频链接。
+## Has anyone else noticed this LLM language bias?
+开发者发现AI圣经应用“Biblians”存在语言依赖的教派偏见：英文版倾向新教，西/法/葡文版倾向天主教，凸显训练数据的语言偏差问题。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/)
 

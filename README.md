@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Is this the dawn of the Tokenpocalypse?
-大型AI公司筹备上市，或将引发新一轮价格上涨。
+## Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet
+Zepto广告收入激增151%，远超运营收入104%的增长。
 
-[阅读原文](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
+[阅读原文](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/)
 
-## Notion restores access to Anthropic after service disruption
-Notion产品负责人称对某条推文被大量转发“深感惊讶”。
+## Why Apple’s slow-and-steady AI bet is starting to look pretty smart
+苹果新AI功能能否平息其在关键AI竞赛中落后的质疑？
 
-[阅读原文](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
+[阅读原文](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
 
-## OpenAI is still working on that ‘super app’
-OpenAI高管称“聊天已死”，暗示AI交互模式正从对话式转向更主动、任务导向的新范式。
+## Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks
+红杉资本等顶级风投公司存在对同一股权设定不同价格的“双重定价”现象。
 
-[阅读原文](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+[阅读原文](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
 
-## NASA will wear high-tech Prada long johns to the Moon
-Axiom Space发布阿耳忒弥斯四号任务用液冷通风服（LCVG），作为宇航员登月服内层，保障2028年登月任务中的热调节与舒适性。
+## Instagram is finally letting everyone reorganize their profile grid
+Instagram于6月8日起全量上线“照片排序”功能，用户可通过安卓和iOS端APP自由调整个人主页帖子顺序。
 
-[阅读原文](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
+[阅读原文](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
 
-## The 7 biggest storylines from Summer Game Fest 2026
-2026夏季游戏节落幕，行业承压下各大厂商借发布会展示实力，聚焦重磅游戏公告，普遍回避硬件等细节。
+## Apple’s Screen Time updates are too little, too late
+苹果WWDC重点宣传家长控制，但仅推出界面重设计，多数功能为现有升级，新意不足，引发外界疑惑。
 
-[阅读原文](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
+[阅读原文](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)
 
-## Persona 6 exists, and that’s all we know
-夏日游戏节喜讯频传：《最终幻想VII》重制版三部曲终章公布，《Persona 6》正式确认并释出首支预告。
+## 5 things I already love from the iOS 27 beta
+iOS 17（应为笔误，实为iOS 17）发布数小时，作者体验开发者测试版，新Siri AI功能暂未开放，仍需等待苹果邀请。
 
-[阅读原文](https://www.theverge.com/entertainment/945256/persona-6-teaser)
+[阅读原文](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things)
 
-## Sigma BF Review (2026): Eccentric but Strangely Lovable
-适马推出新款相机，设计大胆且性能出色。
+## 1Password Coupon: Score a Free Trial in June 2026
+1Password推出促销活动，企业及个人会员可享最高28%折扣。
 
-[阅读原文](https://www.wired.com/review/sigma-bf-camera/)
+[阅读原文](https://www.wired.com/story/1password-coupon/)
 
-## You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick
-5–6英寸刀片是厨房“秘密主力”，适合手小者或追求小巧高效厨刀的人群。
+## HelloFresh Promo Codes: 55% Off for June 2026
+HelloFresh推出2026年6月优惠：最高55%折扣加赠免费餐盒，助用户省时省钱。
 
-[阅读原文](https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/)
+[阅读原文](https://www.wired.com/story/hellofresh-coupon/)
 
-## Lauf eElja Electric Mountain Bike Review: Power Trip
-Lauf新款自行车设计更接近传统山地车，外观简洁，骑行体验更经典。
+## OnePlus Promo Codes: 30% Off June 2026
+2026年6月，OnePlus推出优惠活动：全场享7折，耳机、手机等额外最高立减10%。
 
-[阅读原文](https://www.wired.com/review/lauf-eelja-electric-mountain-bike/)
+[阅读原文](https://www.wired.com/story/oneplus-promo-code/)
 
-## I think we're about 12 months away from the first major AI agent disaster
-企业正加速赋予AI代理访问真实系统（如邮件、数据库、客户数据）的权限，安全风险加剧，或将在一年内引发重大事故。
+## ArXiv to Ban Researchers for a Year if They Submit AI Slop
+arXiv新规：一年内禁止提交含AI生成“低质内容”的论文，严控学术质量。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tzy180/i_think_were_about_12_months_away_from_the_first/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/)
 
-## Am I using AI in a bad way or no?
-用户担忧AI使用是否损害认知功能。专家指出：主动学习、批判思考的AI使用无害，被动依赖才可能削弱能力。适度对话与创意探索属健康应用。
+## OG Will understand 🙄
+Reddit用户发布一张配文“OG Will understand 🙄”的AI生成图片，引发社区对AI理解力与圈内梗文化的讨论。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tzwfqq/am_i_using_ai_in_a_bad_way_or_no/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/)
 
-## Has anyone else noticed this LLM language bias?
-开发者发现AI圣经应用“Biblians”存在语言依赖的教派偏见：英文版倾向新教，西/法/葡文版倾向天主教，凸显训练数据的语言偏差问题。
+## Engineer builds AI laser defense system that wiped out every mosquito in his home
+工程师用AI+激光打造灭蚊系统，成功清除家中所有蚊子，引发网友热议。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u0r0q6/engineer_builds_ai_laser_defense_system_that/)
 

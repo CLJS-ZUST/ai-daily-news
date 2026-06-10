@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet
-Zepto广告收入激增151%，远超运营收入104%的增长。
+## Top Lucid Motors executive departs amid new CEO’s leadership shakeup
+埃马德·德拉拉上任副总裁仅数月即离职，据TechCrunch报道。
 
-[阅读原文](https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/)
+[阅读原文](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/)
 
-## Why Apple’s slow-and-steady AI bet is starting to look pretty smart
-苹果新AI功能能否平息其在关键AI竞赛中落后的质疑？
+## Google just fired a warning shot in the AI subscription price wars
+谷歌大幅降低其入门级AI订阅服务价格。
 
-[阅读原文](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
+[阅读原文](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)
 
-## Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks
-红杉资本等顶级风投公司存在对同一股权设定不同价格的“双重定价”现象。
+## How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund
+Sabertooth VC创始人绕过传统募资，借LP网络快速投资Anthropic、Anduril、SpaceX等明星初创。
 
-[阅读原文](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
+[阅读原文](https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/)
 
-## Instagram is finally letting everyone reorganize their profile grid
-Instagram于6月8日起全量上线“照片排序”功能，用户可通过安卓和iOS端APP自由调整个人主页帖子顺序。
+## I tried Siri AI, and so far it actually works
+iPhone新Siri可一键将邮件或传单中的足球赛、精神周等日程自动添加至日历，解决家长痛点。
 
-[阅读原文](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
+[阅读原文](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
 
-## Apple’s Screen Time updates are too little, too late
-苹果WWDC重点宣传家长控制，但仅推出界面重设计，多数功能为现有升级，新意不足，引发外界疑惑。
+## Congress just gave DHS another $70 billion
+美国国会两院通过700亿美元拨款法案，用于特朗普政府大规模驱逐移民计划，投票结果高度党派化。
 
-[阅读原文](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)
+[阅读原文](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation)
 
-## 5 things I already love from the iOS 27 beta
-iOS 17（应为笔误，实为iOS 17）发布数小时，作者体验开发者测试版，新Siri AI功能暂未开放，仍需等待苹果邀请。
+## The App Store is going to add subscription bundles soon
+苹果将扩展App Store应用订阅捆绑服务，支持跨公司组合不同App的订阅，类似流媒体联合套餐。
 
-[阅读原文](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things)
+[阅读原文](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store)
 
-## 1Password Coupon: Score a Free Trial in June 2026
-1Password推出促销活动，企业及个人会员可享最高28%折扣。
+## Naturepedic Promo Codes: Get 20% Off Plus Free Pillows
+Naturepedic将于2026年6月举行促销活动。
 
-[阅读原文](https://www.wired.com/story/1password-coupon/)
+[阅读原文](https://www.wired.com/story/naturepedic-promo-code/)
 
-## HelloFresh Promo Codes: 55% Off for June 2026
-HelloFresh推出2026年6月优惠：最高55%折扣加赠免费餐盒，助用户省时省钱。
+## Corsair Discount Code: Up to 50% Off for June 2026
+Corsair推出经验证的优惠码、学生折扣及翻新机特惠，助用户低价升级游戏设备或PC配置。
 
-[阅读原文](https://www.wired.com/story/hellofresh-coupon/)
+[阅读原文](https://www.wired.com/story/corsair-coupon/)
 
-## OnePlus Promo Codes: 30% Off June 2026
-2026年6月，OnePlus推出优惠活动：全场享7折，耳机、手机等额外最高立减10%。
+## Best Buy Discount Codes: Up to 60% Off
+WIRED报道Best Buy最新优惠：新信用卡会员享10%返现，My Best Buy Plus会员享免运费2日达。
 
-[阅读原文](https://www.wired.com/story/oneplus-promo-code/)
+[阅读原文](https://www.wired.com/story/best-buy-discount-code/)
 
-## ArXiv to Ban Researchers for a Year if They Submit AI Slop
-arXiv新规：一年内禁止提交含AI生成“低质内容”的论文，严控学术质量。
+## Control for agentic payments should start at infrastructure
+AI代理支付面临安全风险：存储卡信息易致误扣款；实时发卡（用后即废）更安全。当前生产环境架构及实践尚不透明。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/)
 
-## OG Will understand 🙄
-Reddit用户发布一张配文“OG Will understand 🙄”的AI生成图片，引发社区对AI理解力与圈内梗文化的讨论。
+## Can a machine think without language?
+杨立昆认为纯语言模型是死胡同，主张“世界模型”（理解物理规律）才是通向真正AI的关键，但语言与世界模型需融合，而非二选一。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u1i3ih/can_a_machine_think_without_language/)
 
-## Engineer builds AI laser defense system that wiped out every mosquito in his home
-工程师用AI+激光打造灭蚊系统，成功清除家中所有蚊子，引发网友热议。
+## Crazy statement by Gemini pro
+Gemini 3.1 Pro在网页开发中突发“上下文污染”，误将他人科幻故事响应发给用户，官方解释为后台路由错误导致的罕见技术故障。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u0r0q6/engineer_builds_ai_laser_defense_system_that/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u12pru/crazy_statement_by_gemini_pro/)
 

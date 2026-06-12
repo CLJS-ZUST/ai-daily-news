@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing
-印度成为全球最大GCC市场，此举顺应其市场地位提升趋势。
+## Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale
+Avataar AI推出轻量级视频生成模型，每秒生成仅需0.005美元，大幅降低视频AI使用成本。
 
-[阅读原文](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
+[阅读原文](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)
 
-## Anthropic’s Dario Amodei has just one direct report
-该句以反问强调某位科技人物的卓越才华，凸显其无可置疑的天才地位。
+## Equal AI raises $30M to screen calls so Indians don’t have to
+Equal AI公司宣布，其AI语音助手月活跃用户突破百万。
 
-[阅读原文](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
+[阅读原文](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)
 
-## xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims
-前xAI工程师起诉xAI与SpaceX，称因在SpaceX IPO前夕提出Grok AI安全担忧而遭解雇。
+## Theker just raised $85M to build the factory robot that doesn’t specialize in anything
+Theker公司机器人采用模块化设计，可灵活重构，不同于波士顿动力等固定形态的人形机器人。
 
-[阅读原文](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
+[阅读原文](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)
 
-## Bluesky is getting ‘communities’
-Bluesky将于今年推出基于去中心化AT协议的“社区”功能，打造兴趣导向的小型互动空间。
+## Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features
+亚马逊为Echo Hub推出免费更新，优化2024年首发的界面：支持Alexa Plus AI，采用更简洁、可自定义布局，提升智能家居信息与控制显示效率。
 
-[阅读原文](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit)
+[阅读原文](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
 
-## Framework delays its first Laptop 13 Pro shipments by a month
-Framework Laptop 13 Pro首发批次发货推迟至7月，部分或延至8月初，后续订单交付时间相应顺延。
+## Logitech’s awesome MX Master 3S mouse drops to under $100
+罗技MX Master 3S无线鼠标现售89.99美元，直降30美元。其独特拇指侧双滚轮设计，支持高效水平滚动，尤其适合表格操作。
 
-[阅读原文](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
+[阅读原文](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
 
-## Apple’s new Siri AI knows when to shut up
-苹果新版Siri AI上线，风格简洁干练，摒弃冗长客套，获用户好评。
+## Blink’s six-piece outdoor camera kit is a great deal under $200
+亚马逊Prime Day前促销：5台Blink户外2K+摄像头+2K+电池门铃+同步模块套装，直降至166.99美元。
 
-[阅读原文](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)
+[阅读原文](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)
 
-## Nike Promo Codes and Discounts: 30% for June 2026
-2026年6月耐克促销：部分商品享85折优惠。
+## Columbia Promo Codes: 15% Off | June 2026
+哥伦比亚官网推出外套、户外装备等促销，含学生折扣、优惠码及免运费活动。
 
-[阅读原文](https://www.wired.com/story/nike-promo-code/)
+[阅读原文](https://www.wired.com/story/columbia-promo-code/)
 
-## Home Depot Promo Codes: 50% Off in June 2026
-家得宝6月促销：家电、电动工具等商品最高享5折优惠。
+## Paramount+ Coupon Codes and Deals for June 2026
+Paramount+推出最新优惠：订阅5折、免费试用等，助用户节省流媒体费用。
 
-[阅读原文](https://www.wired.com/story/home-depot-promo-code/)
+[阅读原文](https://www.wired.com/story/paramount-plus-coupon-code/)
 
-## 50% Off DoorDash Promo Code | June 2026
-DoorDash推出新优惠：首单立减25美元、免配送费，学生及指定用户享DashPass五折。
+## B&H Photo Promo Codes and Deals This June
+B&H摄影器材网站推出相机、电脑及科技产品特惠促销活动。
 
-[阅读原文](https://www.wired.com/story/doordash-promo-code/)
+[阅读原文](https://www.wired.com/story/bh-photo-coupon/)
 
-## Nobody needs AI to search the Internet, court says in ruling against Google
-法院裁定：AI非网络搜索必需，驳回谷歌相关主张。该裁决强调传统搜索技术已足够，无需AI替代。（59字）
+## Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?
+谷歌Genie 3可将文本或图片实时生成可探索的开放世界，目前仍为粗糙的技术演示，存在帧率低、响应延迟等问题，距实用游戏尚有巨大差距。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u2cwez/nobody_needs_ai_to_search_the_internet_court_says/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/)
 
-## I ran Fable 5 for half day and the guardrails are the real story
-Anthropic新模型Fable 5在代码重构、调试和前端重建上表现卓越，但响应慢（45–90秒）、成本高，且对敏感词（如“proxy”）会无声回退至Opus 4.8，影响上下文连贯性。
+## Claude Fable made me realize I don't need a better model
+用户试用Anthropic新模型Fable后认为，现有Claude Opus与Haiku组合已完全满足其工作需求，技术进步未带来实际体验提升，类比“iPhone 14用户不换17”。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u3acx4/claude_fable_made_me_realize_i_dont_need_a_better/)
 
-## Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case
-法官发现原被告律师均滥用AI生成法律文件，裁定取消庭审并取消双方代理资格。
+## This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?
+一张标称“2000年代”的照片被证实为AI生成，引发网友对AI图像逼真度及公众辨识能力的热议。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u2onqz/judge_learns_lawyers_on_both_sides_of_case_used/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/)
 

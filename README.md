@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## As Anthropic suspends access to new models, India debates its AI future
-科技领袖热议Anthropic事件是否为印度AI发展敲响警钟，凸显其在AI战略、监管与人才方面的紧迫挑战。
+## Orbio raises $21 million to automate hiring and onboarding for frontline workers
+Orbio获2100万美元A轮融资，晨星资本领投。
 
-[阅读原文](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
+[阅读原文](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/)
 
-## Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand
-Meta正拆解20亿美元收购的Manus公司，因北京要求撤销该交易。
+## Startup CEO Charlie Javice is reportedly angling for a Trump pardon
+摩根大通对当前状况均不感到满意。
 
-[阅读原文](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
+[阅读原文](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/)
 
-## KPMG pulls report on AI usage due to apparent hallucinations
-AI在解释自身技术时屡现错误，凸显其作为AI信息来源的不可靠性。
+## UK may ban social media for children under 16
+英国拟效仿澳大利亚，全面禁止青少年使用社交媒体。
 
-[阅读原文](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+[阅读原文](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/)
 
-## Amazon security research reportedly led to the White House’s Anthropic Fable ban
-据《华尔街日报》报道，Anthropic下架Fable 5和Mythos 5，源于亚马逊网络安全研究及CEO安迪·贾西与白宫的沟通，触发美国出口管制新规。
+## The FBI built a small town to simulate cyberattacks
+美国FBI在阿拉巴马州亨茨维尔建2.2万平方英尺网络靶场，模拟真实城镇环境，用于网络安全攻防训练。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
+[阅读原文](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range)
 
-## X-Men ’97 has what Master of the Universe is missing
-2026年，漫威推出《X战警97》第二季，美泰上线真人版《宇宙巨人》，借经典动画IP引爆怀旧热潮。
+## China may have accessed Mythos
+白宫因担忧Anthropic的Mythos模型或被中国关联方获取，对其实施出口限制，引发国家安全关切。
 
-[阅读原文](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
 
-## Sealed Super Mario Bros. sells for a record $3 million
-《超级马里奥兄弟》未拆封卡带以300万美元拍出，刷新2021年200万美元的纪录，创游戏收藏新高价。
+## Conclave is the sound of a NYC summer block party
+该段文字为个人情感回忆，并非科技新闻，未涉及任何科技事件、进展或相关事实。
 
-[阅读原文](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
+[阅读原文](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
 
-## Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)
-戴森发布2026年新品吸尘器阵容，包括全新V16 Piston Animal及升级版V8 Cyclone。
+## 20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)
+该文案以夸张幽默方式推销“极致阳刚”产品，实为讽刺性别刻板印象的营销话术，并非真实科技新闻。
 
-[阅读原文](https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/)
+[阅读原文](https://www.wired.com/gallery/best-gifts-for-men-2026/)
 
-## How Can Soccer Players Bend Their Shots in Midair?
-世界杯开幕，科学家解析足球运动中的物理原理，如旋转、空气阻力与轨迹控制等。
+## 19 Best Gifts for Plant Lovers and Gardeners (2026)
+智能花盆、植物养护APP等科技园艺产品，助新手轻松变身资深“植物家长”。
 
-[阅读原文](https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/)
+[阅读原文](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/)
 
-## The FCC Wants to Kill Burner Phones
-微软发布史上最大补丁日，AI助力漏洞挖掘；ShinyHunters利用Oracle零日漏洞发动勒索攻击。
+## Suunto Spark Review: The Perfect Pair for Runs and Rides
+Suunto推出骨传导升级版开放式耳塞，采用气导技术，专为户外运动优化佩戴体验。
 
-[阅读原文](https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/)
+[阅读原文](https://www.wired.com/review/suunto-spark/)
 
-## Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry
-微软总裁称毕业典礼上AI抗议是科技业的警醒信号，呼吁行业正视AI伦理与社会影响。
+## Anthropic CEO Floats Tax on AI Firms to Fund Universal Income
+Anthropic CEO提议对AI企业征税，资助全民基本收入并激励员工留任，以应对AI引发的就业冲击。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u5g1hz/anthropic_ceo_floats_tax_on_ai_firms_to_fund/)
 
-## US Government Kills Fable 5: Here's What Happened
-美国商务部以国家安全为由，下令Anthropic暂停Fable 5和Mythos 5模型的全球访问，主因疑似遭亚马逊研究人员报告的“越狱”漏洞，目前模型仍停用。
+## Am I going to spend the rest of my career reviewing AI generated code?
+程序员担忧AI过度替代编码工作，怀念亲手解题、优化代码的乐趣，质疑“仅监督AI”的职业未来。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u5qjy7/am_i_going_to_spend_the_rest_of_my_career/)
 
-## Can an AI agent complete a task and still fail?
-研究提出“验证者税”概念，区分AI代理的“安全成功”“不安全成功”与“失败”，并设计两层验证架构提升安全性，但可能降低长任务完成率。
+## Our AI bills are subsidised, and I don't think many people have priced in what happens next
+当前AI服务价格被严重补贴，厂商大幅亏损（如OpenAI年亏140亿美元），实际成本远高于售价。企业若依赖低价，恐面临未来3–5倍涨价风险。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u58qwi/can_an_ai_agent_complete_a_task_and_still_fail/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/)
 

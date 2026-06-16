@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## Orbio raises $21 million to automate hiring and onboarding for frontline workers
-Orbio获2100万美元A轮融资，晨星资本领投。
+## Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties
+AI再成毕业抗议焦点，学生反对谷歌将AI用于国防合同。
 
-[阅读原文](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/)
+[阅读原文](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/)
 
-## Startup CEO Charlie Javice is reportedly angling for a Trump pardon
-摩根大通对当前状况均不感到满意。
+## The US government’s Anthropic models ban was never about an AI jailbreak
+特朗普政府迫使Anthropic下架最新网络安全AI模型，凸显美国政府正加强对AI行业的干预。
 
-[阅读原文](https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/)
+[阅读原文](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
 
-## UK may ban social media for children under 16
-英国拟效仿澳大利亚，全面禁止青少年使用社交媒体。
+## Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms
+Meta周一在Facebook推出多项新AI功能，旨在加速追赶AI竞争并提升用户参与度。
 
-[阅读原文](https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/)
+[阅读原文](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/)
 
-## The FBI built a small town to simulate cyberattacks
-美国FBI在阿拉巴马州亨茨维尔建2.2万平方英尺网络靶场，模拟真实城镇环境，用于网络安全攻防训练。
+## Inside the fight over Claude Mythos 5
+Anthropic周末遭美政府出口管制令，被要求暂停其Mythos 5和Fable 5模型访问，正值美国庆祝世界杯夺冠与尼克斯夺冠之际。
 
-[阅读原文](https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls)
 
-## China may have accessed Mythos
-白宫因担忧Anthropic的Mythos模型或被中国关联方获取，对其实施出口限制，引发国家安全关切。
+## Facebook’s new AI Mode search gets its info from public posts
+Meta上线AI搜索模式，利用用户公开Facebook动态优化结果，并推出AI换衫等新功能。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
+[阅读原文](https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook)
 
-## Conclave is the sound of a NYC summer block party
-该段文字为个人情感回忆，并非科技新闻，未涉及任何科技事件、进展或相关事实。
+## Xbox is closing down Hellblade creator Ninja Theory
+微软将关闭《地狱之刃》开发商Ninja Theory，员工正寻求买家接手。此举是Xbox多工作室调整的一部分。
 
-[阅读原文](https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review)
+[阅读原文](https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua)
 
-## 20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)
-该文案以夸张幽默方式推销“极致阳刚”产品，实为讽刺性别刻板印象的营销话术，并非真实科技新闻。
+## Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For
+高解析度音乐流媒体服务因专注音乐、禁用AI内容及提高艺人版税，正吸引大量用户转投。
 
-[阅读原文](https://www.wired.com/gallery/best-gifts-for-men-2026/)
+[阅读原文](https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/)
 
-## 19 Best Gifts for Plant Lovers and Gardeners (2026)
-智能花盆、植物养护APP等科技园艺产品，助新手轻松变身资深“植物家长”。
+## Google Workspace Promo Codes: 14% Off for June
+WIRED推出Google Workspace专属优惠券，最高享14%折扣，覆盖Starter、Standard、Plus三档套餐，限时三个月。
 
-[阅读原文](https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/)
+[阅读原文](https://www.wired.com/story/google-workspace-promo-code/)
 
-## Suunto Spark Review: The Perfect Pair for Runs and Rides
-Suunto推出骨传导升级版开放式耳塞，采用气导技术，专为户外运动优化佩戴体验。
+## NZXT Discount Codes: 50% Off in June 2026
+NZXT推出促销活动，享5折优惠，并额外最高减免250美元。
 
-[阅读原文](https://www.wired.com/review/suunto-spark/)
+[阅读原文](https://www.wired.com/story/nzxt-discount-code/)
 
-## Anthropic CEO Floats Tax on AI Firms to Fund Universal Income
-Anthropic CEO提议对AI企业征税，资助全民基本收入并激励员工留任，以应对AI引发的就业冲击。
+## AI makes me faster. And less myself...
+用户反思AI使用导致“认知卸载”：过度依赖LLM削弱独立思考，虽提效却丧失推理过程掌控。作者发起调研，探讨该现象是否普遍存在。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u5g1hz/anthropic_ceo_floats_tax_on_ai_firms_to_fund/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u6bha1/ai_makes_me_faster_and_less_myself/)
 
-## Am I going to spend the rest of my career reviewing AI generated code?
-程序员担忧AI过度替代编码工作，怀念亲手解题、优化代码的乐趣，质疑“仅监督AI”的职业未来。
+## AI seems to understand language much better than communication
+AI擅长语言处理，但难以理解对话中的非语言信号（如犹豫、不确定等），这在客户访谈等场景中尤为明显。未来关键突破在于更准确识别人类沟通中的隐性信号。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u5qjy7/am_i_going_to_spend_the_rest_of_my_career/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u6sr61/ai_seems_to_understand_language_much_better_than/)
 
-## Our AI bills are subsidised, and I don't think many people have priced in what happens next
-当前AI服务价格被严重补贴，厂商大幅亏损（如OpenAI年亏140亿美元），实际成本远高于售价。企业若依赖低价，恐面临未来3–5倍涨价风险。
+## How is this even sustainable?
+某AI工具推出“首月免费+每邀一人得10美元”推广模式，引发网友质疑其盈利可持续性。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u759xi/how_is_this_even_sustainable/)
 

@@ -1,62 +1,62 @@
 # AI科技新闻日报
 
-## How to turn off AI in your Google Docs
-谷歌推出关闭Gemini写作弹窗的官方方法，用户可按指引永久禁用该功能。
+## Telegram ban in India sparks a rush to VPNs, rival apps
+Telegram称印度应屏蔽特定违法内容，而非封禁整个平台，以免影响数百万合法用户。
 
-[阅读原文](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)
+[阅读原文](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 
-## AI is hurting Apple in more ways than one: it may force iPhone price increases
-苹果CEO库克称当前状况“不可持续”，引发外界对其供应链、市场或政策挑战的猜测。
+## Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
+初创公司DeductiveAI成立三年，专注用AI自动检测并修复软件漏洞。
 
-[阅读原文](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)
+[阅读原文](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
 
-## Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI
-资深风投人Chi-Hua Chien以文化人类学家视角审视科技投资，强调理解用户行为与社会文化。
+## AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
+初创公司Baseten拟以130亿美元估值融资15亿美元，押注推理服务热潮。
 
-[阅读原文](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/)
+[阅读原文](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
 
-## Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans
-Midjourney推出首款硬件产品“Midjourney Scanner”，一款超声波全身扫描仪，并计划在旧金山建SPA，跨界布局健康科技。
+## Barret Zoph is out at OpenAI again after just five months
+OpenAI企业AI销售主管Barret Zoph返岗五个月后再度离职，此前曾短暂加盟前CTO创立的竞对公司Thinking Machines Lab。
 
-[阅读原文](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
+[阅读原文](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
 
-## Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices
-苹果因内存短缺将涨价，库克称“涨价不可避免”，正尽力缓解成本压力并保护消费者。
+## Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027
+Valve更新Steam手柄预订信息：预计发货时间为2026年9月、12月或2027年，但仍未明确具体上市日期。
 
-[阅读原文](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)
+[阅读原文](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
 
-## VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription
-VSCO推出Studio Pro编辑App，iOS已上线、macOS年内发布，支持批量编辑、风格匹配及图库分享，挑战Adobe。
+## You can now use the Game Boy Camera with your phone
+50美元GB Operator配件新增支持Game Boy Camera，可将其变成复古风格桌面摄像头。
 
-[阅读原文](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription)
+[阅读原文](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone)
 
-## Home Depot Promo Codes: 50% Off in June 2026
-家得宝6月促销：家电、电动工具等最高立减50%，限时优惠。
+## Rover Promo Codes and Referral Deals for June 2026
+该消息为2026年Rover宠物托管服务的促销代码推广，属营销广告，非科技新闻。
 
-[阅读原文](https://www.wired.com/story/home-depot-promo-code/)
+[阅读原文](https://www.wired.com/story/rover-promo-code/)
 
-## Ulta Promo Codes: Up to 50% Off in June 2026
-Ulta推出美妆科技及彩妆等商品促销活动，使用优惠码可享大幅折扣。
+## Sam's Club Promo Codes and Membership Deals for June 2026
+山姆会员店推出促销代码及会员折扣，可节省大宗食品、日用品和电子产品开支。
 
-[阅读原文](https://www.wired.com/story/ulta-coupon/)
+[阅读原文](https://www.wired.com/story/sams-club-coupon/)
 
-## Chewy Promo Codes: $20 Off June 2026
-Chewy推出2026年6月优惠：首单满$49减$20、宠物食品5折、最高减$30等促销活动。
+## Meta Quest Promo Codes and Coupons for June 2026
+VR新品促销：Meta Quest 3、Ray-Ban AI眼镜等享最高20%折扣，涵盖最新游戏与设备。
 
-[阅读原文](https://www.wired.com/story/chewy-promo-code/)
+[阅读原文](https://www.wired.com/story/meta-quest-promo-code/)
 
-## Elon Musk's Grok Rained Bombs On Iran Even As Anthropic Pulled Out, Pentagon Reveals
-该新闻为虚假信息，Reddit上流传的“马斯克Grok对伊朗发动网络攻击”说法未经证实，且与事实不符，属恶意编造内容。
+## Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense
+伯尼·桑德斯提议设立7万亿美元AI基金，向全民每年发放1000美元，并让公众持有顶级AI实验室50%股份，以补偿其训练数据贡献者。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u8atbd/elon_musks_grok_rained_bombs_on_iran_even_as/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/)
 
-## Copilot vulnerability could expose emails and 2FA codes
-微软Copilot AI助手被曝存在安全漏洞，可能泄露用户邮箱及双重验证信息，相关报告已引发关注。
+## Started maintaining a small library at work and now I genuinely understand why maintainers go quiet
+开源作者分享维护小工具的心路历程：从乐于助人到因大量非核心需求、低质AI生成PR和无效issue而倦怠，呼吁用户赞助开源维护者。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u8wxqd/copilot_vulnerability_could_expose_emails_and_2fa/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/)
 
-## A 4b model is now beating 30b ones at web research and the reason is not size
-40亿参数开源模型Apodex-1.0在网页研究任务上超越300亿参数模型，靠高质量数据与自验证训练法，而非单纯堆参数，凸显小模型本地化应用潜力。
+## Gemini helped me get scammed
+用户因航班延误向Gemini咨询，获虚假Delta客服号致被骗230美元。事件凸显AI信息需人工核实，切勿轻信。
 
-[阅读原文](https://www.reddit.com/r/artificial/comments/1u8bgrv/a_4b_model_is_now_beating_30b_ones_at_web/)
+[阅读原文](https://www.reddit.com/r/artificial/comments/1u9t7mp/gemini_helped_me_get_scammed/)
 
